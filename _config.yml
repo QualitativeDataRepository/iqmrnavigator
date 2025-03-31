@@ -1,26 +1,26 @@
-title: Conference 2020
+title: IQMR 2025
+alt_title: IQMR Navigator
 preposition: ''
 description: >-
-  Conference of a random organization on January 1st in Zurich, Switzerland
+  Institute for Qualitative and Multi-Method Research (IQMR) 2025
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://example.com" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://iqmrnavigator.org" # the base hostname & protocol for your site, e.g. https://example.com
+
+theme: jekyll-theme-conference
 
 # Build settings
 markdown: kramdown
 sass:
   style: compressed
 
-# Exclude from processing
+# Additional exclude from processing
 exclude:
+  - vendor
   - .github/
-  - venv/
   - README.md
   - LICENSE.md
   - REDISTRIBUTED.md
-  - screenshot.png
-  - jekyll-theme-conference.gemspec
   - purgecss.config.js
-  - _config.example.yml
 
 # Collections and their defaults
 collections:
@@ -51,22 +51,167 @@ defaults:
     values:
       layout: room
 
-# Theme default values
-conference:
-  lang: en
-  show_errors: True
 
+conference:
+
+  # Language
+  lang: en
+
+  # Timezone
+  tz: "+02:00"
+
+  # Show theme errors:
+  show_errors: False
+
+  # Navigation bar
+  navigation:
+    logo:
+      name: IQMR
+      img: 'iqmr-logo-small.png'  # inside /assets/images/
+      url: 'https://imqrnavigator.org'
+    breakpoint: md
+    links:
+      - name: Schedule
+        relative_url: /schedule/
+      - name: General Information
+        relative_url: /information/
+        menu:
+          - name: Overview
+            relative_url: /information
+        #  - name: Location
+        #    relative_url: /information/location/
+        #  - name: Accommodations
+        #    relative_url: /information/accommodations/
+        #  - name: Travel
+       #     relative_url: /information/travel/
+        #  - name: Contact
+        #    relative_url: /information/contact/
+      - name: For Participants
+        relative_url: /participants/
+        menu:
+          - name: Overview
+            relative_url: /participants
+          - name: Accomodations
+            relative_url: /participants/accomodations/
+          - name: Choosing Modules
+            relative_url: /participants/choosing-modules/
+        #  - name: Module Prerequisites
+         #   relative_url: /participants/module-prerequisites/
+          - name: Readings and Materials
+            relative_url: /participants/readings/
+          - name: Research Design Instructions
+            relative_url: /participants/research-design-instrucions/
+          - name: Research Design Sessions
+            relative_url: /participants/research-design-groups/
+          - name: Syracuse University
+            relative_url: /participants/syracuse-university/
+#          - name: Code of Conduct
+ #           relative_url: /participants/code-of-conduct/
+  #        - name: FAQ
+   #         relative_url: /participants/faq/
+    #  - name: For Faculty
+     #   relative_url: /faculty/
+    #  - name: Previous Editions
+    #    menu:
+    #      - name: 2020 (current)
+    #        disabled: true
+    #      - name: 2019
+    #        relative_url: /2019/
+    #      - name: 2018
+    #        relative_url: /2018/
+
+  # Link Preview for Sharing
   link_preview:
+    # also adapt "preposition" property at top for more meaningful descriptions
     disable: false
+    img:
+      twitter: 'twitter_preview.png'      # inside /assets/images/
+      open_graph: 'facebook_preview.png'  # inside /assets/images/
+
+  # Main landing page
+  main:
+   # logo:
+    #  img: 'iqmr-logo-full.svg'
+    links:
+      - name: Schedule
+        relative_url: /schedule/
+      - name: Participant Information
+        relative_url: /participants/
+    #  - name: Tickets
+    #    disabled: true
+    #    absolute_url: ''
+
+  # Information boxes
+  #info_bars:
+  #  - title: Welcome to the Conference Theme for Jekyll!
+  #    color: primary
+  #    main_only: true
+  #    text: |
+  #      The Theme was originally made for the [Winterkongress](https://www.digitale-gesellschaft.ch/kongress/), a yearly conference of the [Digital Society Switzerland](https://digitale-gesellschaft.ch/).
+#
+  #      ---
+#
+  #      See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.
+  #  - text: This is just some random content for demonstration purposes.
+  #    color: warning
+  #    pages_only: true
+#
+  # Live indications
+  live:
+    date: 01.01.2020
+    timezone: GMT+1
+    stop:       240  # in minutes
+    streaming:
+      enable: true
+      pause:     60  # in minutes
+      prepend:    5  # in minutes
+      extend:     5  # in minutes
+    demo:
+      enable: false
+      duration: 300  # in seconds
+      pause:     10  # in seconds
+
+  talks:
+    # Talk categories
+    main_categories:
+      - name: Cat A
+        color: info
+      - name: Cat B
+        color: success
+
+    # Hide icons on talk overview page
+    hide_icons: false
 
   speakers:
+    # Show first and last name
     show_firstname: true
 
   location:
+    # Disable links to locations
+    hide: false
+    # URL of location / room overview page
     url: '/location'
-    map: true
+    # Main page title shown on location/room navigation bar
+    navbar_title: 'Location'
+    # Show map on location main page.  Set `map: false` if you don't want to
+    # display it.
+    map:
+      # Initial map center point
+      home_coord: 47.37808, 8.53935
+      # Alternative map providers can be found on https://leaflet-extras.github.io/leaflet-providers/preview/
+      # The following do match the Bootstrap design not too badly:
+      #   - Thunderforest.Neighbourhood
+      #   - Esri.WorldTopoMap
+      map_provider: "OpenStreetMap.Mapnik"
+      default_zoom: 17
 
-  program:
-    url: '/program'
-    time_steps: 15
+
+  schedule:
+    # URL of schedule page
+    url: '/schedule'
+
+    # Time steps in schedule table
+    time_steps: 15 # in minutes
+
+    # Show intermediary time steps (next to full hours)
     show_alltimes: true

@@ -28,9 +28,9 @@ window.conference = {
 };
 
 
-// Program
+// Schedule
 {% include js/lib/syncscroll.js %}
-{% include js/program.js %}
+{% include js/schedule.js %}
 
 // Leaflet (Map Display)
 {% include partials/get_enable_map.html %}

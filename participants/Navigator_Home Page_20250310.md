@@ -1,6 +1,3 @@
----
-layout: home
----
 WELCOME TO IQMR 2025!
 =====================
 

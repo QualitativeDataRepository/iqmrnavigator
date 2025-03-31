@@ -1,4 +1,4 @@
-window.conference.program = (() => {
+window.conference.schedule = (() => {
     const updateHash = (hash) => {
         const scrollPosition = document.documentElement.scrollTop;
         window.location.hash = hash;

@@ -110,7 +110,7 @@ def parse_frab(file_path):
             'talks': [],
             'speakers': [],
             'rooms': [],
-            'program': []
+            'schedule': []
         }
 
         for day in data['schedule']['conference']['days']:
@@ -219,7 +219,7 @@ def parse_frab(file_path):
                     talk_end[1] = talk_end[1] % 60
                     talk_end = "{}:{:02d}".format(talk_end[0], talk_end[1])
 
-                    content['program'].append({
+                    content['schedule'].append({
                         'name': talk['title'],
                         'date': day['date'],
                         'time_start': talk['start'],
@@ -324,13 +324,13 @@ def create_files(content, folder_name, file_name, file_content, clean=False):
                 f.write(text)
 
 
-default_program_structure = {
-    'file_path': os.path.join('_data', 'program.yml'),
+default_schedule_structure = {
+    'file_path': os.path.join('_data', 'schedule.yml'),
     'date_format': '%Y-%m-%d'
 }
 
 
-def create_program(content, file_path, date_format=None, lc_time=None):
+def create_schedule(content, file_path, date_format=None, lc_time=None):
     # verify if folder exists, otherwise create it
     if not os.path.exists(os.path.dirname(file_path)):
         os.makedirs(os.path.dirname(file_path))
@@ -420,9 +420,9 @@ if __name__ == "__main__":
     default_group.add_argument('-r', '--rooms',
                                action='store_const', const=True,
                                help='Create Markdown files for rooms')
-    default_group.add_argument('-p', '--program',
+    default_group.add_argument('-p', '--schedule',
                                action='store_const', const=True,
-                               help='Create YAML data file for program')
+                               help='Create YAML data file for schedule')
 
     manual_group = parser.add_argument_group('manual options')
 
@@ -474,7 +474,7 @@ if __name__ == "__main__":
                      clean=True)
         create_files(content['rooms'], **default_file_structure['rooms'],
                      clean=True)
-        create_program(content['program'], **default_program_structure,
+        create_schedule(content['schedule'], **default_schedule_structure,
                        lc_time=args.lc_time)
     else:
         # get default settings
@@ -515,9 +515,9 @@ if __name__ == "__main__":
 
             create_files(content, **file_args)
 
-        elif args.program:
+        elif args.schedule:
             # get default settings
-            program_args = default_program_structure
+            schedule_args = default_schedule_structure
 
             # overwrite default settings and/or define remaining settings
             if args.file_path:
@@ -528,4 +528,4 @@ if __name__ == "__main__":
                 file_args['lc_time'] = args.lc_times
 
             content = parse_csv(args.file)
-            create_program(content, **program_args)
+            create_schedule(content, **schedule_args)

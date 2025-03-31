@@ -17,6 +17,12 @@
 
   <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-regular-400.woff2" type="font/woff2" crossorigin="anonymous" />
   <link rel="preload" as="font" href="{{ site.baseurl }}/assets/webfonts/fa-solid-900.woff2" type="font/woff2" crossorigin="anonymous" />
+   <!-- Favicons -->
+   <link rel="manifest" href="{{ site.baseurl }}/assets/icons/site.webmanifest">
+   <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/assets/icons/apple-touch-icon.png">
+   <link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/assets/icons/favicon-32x32.png">
+   <link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/assets/icons/favicon-16x16.png">
+   
   {%- if site.conference.live %}
   <link rel="prefetch" as="image" href="{{ site.baseurl }}/assets/icons/live.svg" type="image/svg+xml" crossorigin="anonymous" />
   <link rel="prefetch" as="fetch" href="{{ site.baseurl }}/assets/js/data.json" type="application/json" crossorigin="anonymous" />

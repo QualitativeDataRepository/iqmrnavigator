@@ -12,8 +12,8 @@
   {%- else -%}
     {%- if page.layout == 'location' -%}
       {{- site.data.lang[site.conference.lang].location.rooms | default: "Rooms" -}}
-    {%- elsif page.layout == 'program' -%}
-      {{- site.data.lang[site.conference.lang].program.title | default: "Program" -}}
+    {%- elsif page.layout == 'schedule' -%}
+      {{- site.data.lang[site.conference.lang].schedule.title | default: "Schedule" -}}
     {%- elsif page.layout == 'speaker-overview' -%}
       {{- site.data.lang[site.conference.lang].speaker.overview | default: "Speakers" -}}
     {%- elsif page.layout == 'stream-overview' -%}

@@ -36,8 +36,8 @@ en:
     talks: Talks in this room
     focus_conf: Center map on conference location
     focus_me: Show my current location
-  program:
-    title: Program
+  schedule:
+    title: Schedule
     legend: Caption
   speaker:
     overview: Speakers
@@ -83,7 +83,7 @@ de:
     talks: Vorträge in diesem Raum
     focus_conf: Karte auf den Konferenz-Ort zentrieren
     focus_me: Meinen aktuellen Standort anzeigen
-  program:
+  schedule:
     title: Programm
     legend: Legende
   speaker:
@@ -130,7 +130,7 @@ fr:
     talks: Présentations dans cette salle
     focus_conf: Centrer la carte sur le lieu de la conférence
     focus_me: Afficher ma localisation actuelle
-  program:
+  schedule:
     title: Programme
     legend: Légende
   speaker:
@@ -177,7 +177,7 @@ pt:
     talks: Apresentações nesta sala
     focus_conf: Centralizar o mapa para o local da conferência
     focus_me: Mostrar minha localização atual
-  program:
+  schedule:
     title: Programa
     legend: Legenda
   speaker:

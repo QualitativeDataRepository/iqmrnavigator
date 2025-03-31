@@ -5,6 +5,7 @@
 .table {
   width: 100%;
   margin-bottom: $spacer;
+  margin-top: $spacer; // Added space before table
   color: $table-color;
   background-color: $table-bg; // Reset for nesting within parents with `background-color`.
 
@@ -18,10 +19,19 @@
   thead th {
     vertical-align: bottom;
     border-bottom: (2 * $table-border-width) solid $table-border-color;
+    font-size: 1.1em; // Make row headers a bit bigger
   }
 
   tbody + tbody {
     border-top: (2 * $table-border-width) solid $table-border-color;
+  }
+  
+  // Add spacing between cells
+  th, td {
+    padding-top: $table-cell-padding + 0.25rem;
+    padding-bottom: $table-cell-padding + 0.25rem;
+    padding-left: $table-cell-padding + 0.75rem;
+    padding-right: $table-cell-padding + 2rem;
   }
 }
 
@@ -74,6 +84,17 @@
 .table-striped {
   tbody tr:nth-of-type(#{$table-striped-order}) {
     background-color: $table-accent-bg;
+  }
+}
+
+// Custom alternate row shading with even/odd classes
+tbody {
+  tr.even {
+    background-color: $table-accent-bg;
+  }
+  
+  tr.odd {
+    background-color: $table-bg;
   }
 }
 
@@ -155,6 +176,17 @@
       }
     }
   }
+  
+  // Custom alternate row shading for dark tables
+  tbody {
+    tr.even {
+      background-color: $table-dark-accent-bg;
+    }
+    
+    tr.odd {
+      background-color: $table-dark-bg;
+    }
+  }
 }
 
 
@@ -174,6 +206,8 @@
         width: 100%;
         overflow-x: auto;
         -webkit-overflow-scrolling: touch;
+        margin-bottom: $spacer; // Added space after responsive table
+        margin-top: $spacer; // Added space before responsive table
 
         // Prevent double border on horizontal scroll due to use of `display: block;`
         > .table-bordered {

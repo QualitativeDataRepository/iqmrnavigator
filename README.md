@@ -4,7 +4,7 @@
 
 This is a responsive [Jekyll](http://jekyllrb.com) theme based on [Bootstrap 4](http://getbootstrap.com) for conferences. It contains
 
-- multiday program / schedule,
+- multiday schedule / schedule,
 - talk and speaker descriptions,
 - map for directions,
 - realtime live indications during the conference, and
@@ -41,9 +41,9 @@ The theme was originally created for the yearly Winterkongress conference of the
   * [Talk Settings](#talk-settings)
   * [Speaker Settings](#speaker-settings)
   * [Location Settings](#location-settings)
-  * [Program Settings](#program-settings)
+  * [Program Settings](#schedule-settings)
 - [Content](#content)
-  * [Schedule / Program](#schedule--program)
+  * [Schedule / Program](#schedule--schedule)
   * [Talks](#talks)
   * [Speakers](#speakers)
   * [Rooms](#rooms)
@@ -120,7 +120,7 @@ To install:
 
 The different talks, speakers and rooms are stored as a collection of files. Each file contains a small header in form of a YAML block (called [FrontMatter](https://jekyllrb.com/docs/front-matter/)) which is used to store additional information beside a description. Their exact use and meaning is described further below in the section _Content_. Additional configuration options can be found in the section _Configuration_.
 
-The actual schedule defining when and in which room a talk takes place is stored as a [YAML data file](https://jekyllrb.com/docs/datafiles/) under `_data/program.yml`. For further details about it see below in the section _Content_.
+The actual schedule defining when and in which room a talk takes place is stored as a [YAML data file](https://jekyllrb.com/docs/datafiles/) under `_data/schedule.yml`. For further details about it see below in the section _Content_.
 
 :warning: Please note that the generated website can be quite large containing many unnecessary whitespaces. It is recommended to minimize the generated output files before uploading them to a server (e.g. with [minify](https://github.com/tdewolff/minify)).
 
@@ -135,7 +135,7 @@ In order to be up and running simply use the default content of this repository 
 - `_talks/`
 - `index.md`
 - `location/`
-- `program/`
+- `schedule/`
 - `speakers/`
 - `talks/`
 
@@ -254,7 +254,7 @@ conference:
 
 ### Timezone
 
-Multiple dynamic features such as showing the current day in the program or live indications require correct timing. Define the timezone in which the conference takes place with the `tz` property set to a valid [UTC timezone offset](https://en.wikipedia.org/wiki/List_of_UTC_offsets) in the format `"+/-HH:MM"`:
+Multiple dynamic features such as showing the current day in the schedule or live indications require correct timing. Define the timezone in which the conference takes place with the `tz` property set to a valid [UTC timezone offset](https://en.wikipedia.org/wiki/List_of_UTC_offsets) in the format `"+/-HH:MM"`:
 
 Example:
 
@@ -274,7 +274,7 @@ conference:
   navigation:
     links:
       - name: Program
-        relative_url: /program/
+        relative_url: /schedule/
       - live: true
       - name: Previous Editions
         menu:
@@ -352,8 +352,8 @@ conference:
   main:
     ...
     links:
-      - name: Program
-        relative_url: /program/
+      - name: Schedule
+        relative_url: /schedule/
       - name: Tickets
         disabled: true
         absolute_url: ''
@@ -394,11 +394,11 @@ conference:
 
 ### Live Indications & Streaming
 
-In order to help users navigating the program during the congress, a _Live_ indication can be shown next to talks which are currently taking place. A small JavaScript functions keeps the site automatically up-to-date (without the need to refresh) showing the indication as soon as the talk has started and hiding it once it is over (according to the timetable indicated in the `_data/program.yml` file).
+In order to help users navigating the schedule during the congress, a _Live_ indication can be shown next to talks which are currently taking place. A small JavaScript functions keeps the site automatically up-to-date (without the need to refresh) showing the indication as soon as the talk has started and hiding it once it is over (according to the timetable indicated in the `_data/schedule.yml` file).
 
 This can be further extended if some of the talks have an associated live stream: Upon clicking one of the live indications a modal will open containing the corresponding embedded live stream. The URL to the live stream has to be set via `live` property in each room (see the _Content_ > _Room_ section below). Instead of opening the modal an external link can also be used.
 
-In order to activate these functionalities, each day in the `program.yml` file must contain a `date` property (see section _Content_ > _Schedule / Program_ below) and the `live` property has to be set in the configuration file containing
+In order to activate these functionalities, each day in the `schedule.yml` file must contain a `date` property (see section _Content_ > _Schedule / Program_ below) and the `live` property has to be set in the configuration file containing
 
 - how long a pause between two consecutive talks has to be for the live indication to pause (`stop`),
 - optionally under the `streaming` property:
@@ -408,7 +408,7 @@ In order to activate these functionalities, each day in the `program.yml` file m
   + how long a pause between two consecutive talks has to be for the stream to pause (`pause`), and
   + optionally an external (absolute) link to which the user will be redirected instead of opening the modal (`external`),
 - optionally under the `demo` property:
-  + if a demonstration mode should be enabled (`enable`), whereby the JavaScript function cycles continuously through the entire program in a few minutes, and if enabled
+  + if a demonstration mode should be enabled (`enable`), whereby the JavaScript function cycles continuously through the entire schedule in a few minutes, and if enabled
   + how long the demonstration should take (`duration`), and
   + how long the pause between two demonstration cycle should be (`pause`).
 
@@ -444,7 +444,7 @@ conference:
 
 ### Talk Settings
 
-Each talk can have one or multiple categories associated via FrontMatter (see the _Individual Pages: Talks_ section below for more details). Some of these categories can be elevated to so called main categories". These are used to color group the talks across the entire website, particularly in the program. In order to do so add the `main_categories` property under the `talks` property. It consists of a list of all main categories. Each main category consists of:
+Each talk can have one or multiple categories associated via FrontMatter (see the _Individual Pages: Talks_ section below for more details). Some of these categories can be elevated to so called main categories". These are used to color group the talks across the entire website, particularly in the schedule. In order to do so add the `main_categories` property under the `talks` property. It consists of a list of all main categories. Each main category consists of:
 
 - its name (`name`, must be corresponding to the listed categories in the talk's FrontMatter), and
 - a color (`color`) following the Bootstrap color scheme (see below), possible values are:
@@ -477,7 +477,7 @@ conference:
 
 ### Speaker Settings
 
-In the program as well as the speaker's overview the speaker's first name can be abbreviated to its first letter. Of course, you also have the option to not specify a first name for each speaker in the first place. In order to shorten the first name add the `show_firstname: true` setting (default: `false`) to the `speakers` property.
+In the schedule as well as the speaker's overview the speaker's first name can be abbreviated to its first letter. Of course, you also have the option to not specify a first name for each speaker in the first place. In order to shorten the first name add the `show_firstname: true` setting (default: `false`) to the `speakers` property.
 
 Example:
 
@@ -542,17 +542,17 @@ window.conference.awaitReady().then(() => {
 
 ### Program Settings
 
-The schedule shown as program can be slightly customized:
+The schedule shown as schedule can be slightly customized:
 
 - The time steps shown with a new line can be adapted with the `time_steps` setting given in minute (default: `15` minutes)
 - Besides the full hour the individual time steps can be hidden by setting `show_alltimes: false` (default: `true`)
 
-If your `program` file is not located under `/program` you can indicate an alternative path by setting the `url` property (default: `/program`) under the `program` property.
+If your `schedule` file is not located under `/schedule` you can indicate an alternative path by setting the `url` property (default: `/schedule`) under the `schedule` property.
 Example:
 
 ```yaml
 conference:
-  program:
+  schedule:
     time_steps: 15 # in minutes
     show_alltimes: true
 ```
@@ -562,9 +562,9 @@ conference:
 The different talks, speakers and rooms are stored as a collection of file. Each file contains a small header in form of a YAML block (called [FrontMatter](https://jekyllrb.com/docs/front-matter/)) which is used to store additional information beside a description.
 The actual schedule defining when and in which room a talk takes place is stored as a [YAML data file](https://jekyllrb.com/docs/datafiles/).
 
-### Schedule / Program
+### Schedule / Schedule
 
-The schedule of the conference linking the talks with the rooms and indicating when each talk talks place and how long it goes is set in the `_data/program.yml` file. It contains a list of days, whereby each day contains a list of rooms, whereby each room contains a list of talks.
+The schedule of the conference linking the talks with the rooms and indicating when each talk talks place and how long it goes is set in the `_data/schedule.yml` file. It contains a list of days, whereby each day contains a list of rooms, whereby each room contains a list of talks.
 
 Each day consists of
 
@@ -578,7 +578,7 @@ Each room consists of
 - the room's `name` (must correspond to one of the room identifier), and
 - a list of talks (`talks`) which also can be empty `[]`.
 
-The order of the rooms in the list defines the order of the rooms as shown in the schedule on the program page. For the live streaming or the room overview the order of the rooms is alphabetical but can be adapted via the [main configuration file](https://jekyllrb.com/docs/collections/#sort-by-front-matter-key).
+The order of the rooms in the list defines the order of the rooms as shown in the schedule on the schedule page. For the live streaming or the room overview the order of the rooms is alphabetical but can be adapted via the [main configuration file](https://jekyllrb.com/docs/collections/#sort-by-front-matter-key).
 
 Each talk consists of
 
@@ -715,19 +715,19 @@ There exists a Python file in this repository, `_tools/import_resources.py`, whi
 
 ## Overview Pages
 
-For each of the three collections there exist a dedicated layout giving an overview among all items of the collection. Furthermore, there exists a layout to show the program as a time schedule. Simply create an empty page and associate the corresponding layout with it:
+For each of the three collections there exist a dedicated layout giving an overview among all items of the collection. Furthermore, there exists a layout to show the schedule as a time schedule. Simply create an empty page and associate the corresponding layout with it:
 
 - `talks/index.md` with `layout: talk-overview`
 - `speakers/index.md` with `layout: speaker-overview`
 - `location/index.md` with `layout: location`
-- `program/index.md` with `layout: program`
+- `schedule/index.md` with `layout: schedule`
 
 They can be empty but should contain the `layout` property in the FrontMatter header.
 
 If you choose a different location for the overview pages you must:
 
 - in case of the `talks` and `speaker` overview file, adapt the URL of the two collections as described further above in the section _Collection URLs_, and
-- in case of the `location` and `program` file, adapt the corresponding `url` parameter as described further above in the sections _Location Settings_ and _Program Settings_.
+- in case of the `location` and `schedule` file, adapt the corresponding `url` parameter as described further above in the sections _Location Settings_ and _Program Settings_.
 
 ### Location / Room Overview
 
