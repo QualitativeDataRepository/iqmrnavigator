@@ -23,8 +23,13 @@ PARTICIPANT RESPONSIBILITIES
 ----------------------------
 
 This table outlines your main responsibilities as an IQMR participant. Please **carry out your responsibilities and provide requested information in a timely manner.** Your doing so will help the Institute run as smoothly as possible.
-
-<table>
+<style>
+tr, td{padding-top:  0.25rem;
+    padding-bottom:  0.25rem;
+    padding-left: 0.75rem;
+    padding-right:  0.75rem;}
+    </style>
+<table >
 <thead>
 <tr class="header">
 <th><strong>Participant Responsibilities</strong></th>
@@ -43,8 +48,7 @@ This table outlines your main responsibilities as an IQMR participant. Please **
 <td>Attendance confirmation</td>
 </tr>
 <tr class="even">
-<td><p>Indicate whether you will present a proto or full research design</p>
-<p>(See <a href="https://docs.google.com/document/d/1Bm0NvStd-bueI_Oda9RB_vAs4lsdSUkGpaUuneHO0MA/edit?tab=t.0"><span class="underline">Research Design Instructions here</span></a>)</p></td>
+<td><p>Indicate whether you will present a proto or full research design. (See <a href="https://docs.google.com/document/d/1Bm0NvStd-bueI_Oda9RB_vAs4lsdSUkGpaUuneHO0MA/edit?tab=t.0"><span class="underline">Research Design Instructions here</span></a>)</p></td>
 <td>Complete the Software+Res Des + DMP Survey</td>
 <td>March 31</td>
 <td>April 15</td>
