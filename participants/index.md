@@ -35,7 +35,7 @@ tr, td{padding-top:  0.25rem;
 <th><strong>Participant Responsibilities</strong></th>
 <th><strong>How You Carry Out this Responsibility</strong></th>
 <th><strong>Date You Can Begin</strong></th>
-<th><strong>DUE DATE</strong></th>
+<th><strong>Due Dates</strong></th>
 <th><strong>Information and</strong> <strong>Link</strong></th>
 </tr>
 </thead>
