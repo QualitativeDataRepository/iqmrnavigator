@@ -100,7 +100,7 @@ conference:
           - name: Readings and Materials
             relative_url: /participants/readings
           - name: Research Design Instructions
-            relative_url: /participants/research-design-instrucions
+            relative_url: /participants/research-design-instructions
           - name: Research Design Sessions
             relative_url: /participants/research-design-groups
           - name: Syracuse University
