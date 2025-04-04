@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Syracuse University Campus
 ---
 
-SYRACUSE UNIVERSITY CAMPUS
-==========================
 
 INTERNET ACCESS
 ---------------

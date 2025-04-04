@@ -1,9 +1,7 @@
 ---
 layout: page
+title: IQMR 2025 Research Design Instructions
 ---
-
-IQMR 2025 RESEARCH DESIGN INSTRUCTIONS 
-======================================
 
 Research Design Due Date: June 1, 2025 
 --------------------------------------

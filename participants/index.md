@@ -1,12 +1,7 @@
 ---
 layout: page
+title: Participant Information
 ---
-
-PARTICIPANT INFORMATION 
-=======================
-
-WELCOME TO IQMR 2025!
-=====================
 
 OVERVIEW
 --------

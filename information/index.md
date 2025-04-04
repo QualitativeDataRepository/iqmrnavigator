@@ -1,10 +1,7 @@
 ---
 layout: page
+title: General Information
 ---
-
-GENERAL INFORMATION 
-===================
-
 
 Schedule and Lingo
 ------------------

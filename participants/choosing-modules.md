@@ -1,9 +1,7 @@
 ---
 layout: page
+title: Choosing Which Modules to Take
 ---
-
-CHOOSING WHICH MODULES TO TAKE
-==============================
 
 A typical instructional day at IQMR comprises three 90-minute instructional sessions focused on a particular topic (a "module") (as well as breaks and a research design discussion group session, outlined below). On most days, participants choose one from among four modules (e.g., process tracing, different fieldwork techniques, or text as data). Thus for the nine instructional days (excluding the first Sunday), participants will select nine modules to take from the 36 offered.
 

@@ -1,9 +1,7 @@
 ---
 layout: page
+title: Research Design Discussion Group Sessions
 ---
-
-RESEARCH DESIGN DISCUSSION GROUP SESSIONS
-=========================================
 
 **Presenting a research design for discussion at IQMR is required**. Institute participants routinely highlight the feedback they receive in such sessions as one of the most valuable aspects of IQMR. You can review [instructions for preparing the research design here](https://docs.google.com/document/d/1Bm0NvStd-bueI_Oda9RB_vAs4lsdSUkGpaUuneHO0MA/edit?tab=t.0).
 

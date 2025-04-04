@@ -1,9 +1,7 @@
 ---
 layout: page
+title: Module Prerequisites
 ---
-
-MODULE PREREQUISITES
-====================
 
 Some of IQMR's modules require participants to have basic familiarity with R or python. This requirement helps to ensure that the modules are maximally useful for everyone, focusing on methods and techniques, and not basic instruction in how to use the software.
 
