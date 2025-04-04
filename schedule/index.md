@@ -2,9 +2,6 @@
 layout: page
 ---
 
-IQMR 2025 Schedule
-======================
-
 ## Sunday, June 15
 
 -   Unified sessions\

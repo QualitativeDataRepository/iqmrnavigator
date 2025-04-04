@@ -13,7 +13,7 @@ OVERVIEW
 
 We look forward to welcoming you to Syracuse University for the Institute for Qualitative and Multi-Method Research (IQMR) 2025!
 
-Please review carefully the information included on this page. Email Sebastian Karcher ([skarcher\@maxwell.syr.edu](mailto:skarcher@maxwell.syr.edu)) with any questions you have.
+Please review carefully the information included on this page. Email Sebastian Karcher ([skarcher@syr.edu](mailto:skarcher@syr.edu)) with any questions you have.
 
 You will **arrive in Syracuse** on Saturday June 14, and IQMR will commence on Sunday June 15. There will be a one-day break on June 19 ("Juneteenth"), and a two-day break on June 21 and 22. No classes are scheduled on these days and students are free to make their own arrangements. We will offer a special event in the evening on June 19. After the weekend break, IQMR will continue on the morning of Monday June 23 and run until late afternoon on Friday June 27. You will **depart** late afternoon or evening on Friday, or on Saturday June 28.
 
@@ -126,22 +126,22 @@ tr, td{padding-top:  0.25rem;
 CHOOSING WHICH MODULES TO TAKE
 ------------------------------
 
-A typical instructional day at IQMR comprises three 90-minute instructional sessions focused on a particular topic (a "module") (as well as breaks and a research design discussion group session, outlined below). On most days, participants choose one from among four modules (e.g., process tracing, different fieldwork techniques, or text as data). Thus for the nine instructional days (excluding the first Sunday), participants will select nine modules to take from the 36 offered. This page offers more information on how to choose which modules to take.
+A typical instructional day at IQMR comprises three 90-minute instructional sessions focused on a particular topic (a "module") (as well as breaks and a research design discussion group session, outlined below). On most days, participants choose one from among four modules (e.g., process tracing, different fieldwork techniques, or text as data). Thus for the nine instructional days (excluding the first Sunday), participants will select nine modules to take from the 36 offered. [More information on how to choose which modules to take](/participants/choosing-modules).
 
 MODULE PREREQUISITES
 --------------------
 
-Some of IQMR's modules require participants to have basic familiarity with R or python. This requirement helps to ensure that the modules are maximally useful for everyone, focusing on methods and techniques, and not basic instruction in how to use the software. Click here to find out more about module prerequisites.
+Some of IQMR's modules require participants to have basic familiarity with R or python. This requirement helps to ensure that the modules are maximally useful for everyone, focusing on methods and techniques, and not basic instruction in how to use the software. More about module prerequisites.
 
 SUPPORTING MATERIALS -- READINGS AND MORE
 -----------------------------------------
 
-It is very important that you do as much of the required reading as possible before the Institute, leaving yourself time to network, interact with faculty and colleagues, socialize, relax, and enjoy your down time when you are at IQMR. Click here to learn more about readings and accessing readings on the Syracuse University Blackboard site.
+It is very important that you do as much of the required reading as possible before the Institute, leaving yourself time to network, interact with faculty and colleagues, socialize, relax, and enjoy your down time when you are at IQMR. More about [readings and accessing readings on Zotero](/participants/readings).
 
 RESEARCH DESIGN DISCUSSION GROUP SESSIONS
 -----------------------------------------
 
-**Presenting a research design for discussion at IQMR is required**. Institute participants routinely highlight the feedback they receive in such sessions as one of the most valuable aspects of IQMR. You can review [instructions for preparing the research design here](https://docs.google.com/document/d/1Bm0NvStd-bueI_Oda9RB_vAs4lsdSUkGpaUuneHO0MA/edit?tab=t.0). Click here to learn more about presenting your research design and commenting on others' research designs.
+**Presenting a research design for discussion at IQMR is required**. Institute participants routinely highlight the feedback they receive in such sessions as one of the most valuable aspects of IQMR. You can review [instructions for preparing the research design here](/participants/research-design-instructions). Click here to learn more about presenting your research design and commenting on others' research designs.
 
 SU ID NUMBER and SU NetID
 -------------------------
@@ -157,12 +157,12 @@ SYRACUSE UNIVERSITY CAMPUS
 
 [Syracuse University](https://www.syracuse.edu/) is a private research university located in the heart of New York State. The university is home to approximately 15,000 undergraduate students and 7,000 graduate students. Students can choose from more than 200 majors, 100 minors, and 200 advanced degree programs across the university's 13 schools and colleges. The Maxwell School of Citizenship and Public Affairs, IQMR's home at Syracuse, has repeatedly been ranked as the best school of public affairs in the United States.
 
-More details on internet access, printing, Institute classroom, library facilities, the Syracuse University Student Center, and gyms can be found on this page.
+[More on internet access, printing, Institute classroom, library facilities, the Syracuse University Student Center, and gyms.](/participants/syracuse-university)
 
 ACCOMMODATIONS: MILTON HALL 
 ---------------------------
 
-All IQMR attendees will stay in two or four-bedroom suites in [Milton Hall](https://housingmealplans.syr.edu/residential-facilities/apartment-housing/milton-hall/), a modern dormitory on the Syracuse University campus. Click here to learn more about Milton Hall, accessing it, and its rules and amenities.
+All IQMR attendees will stay in two or four-bedroom suites in [Milton Hall](https://housingmealplans.syr.edu/residential-facilities/apartment-housing/milton-hall/), a modern dormitory on the Syracuse University campus. More about Milton Hall, accessing it, and its rules and amenities.
 
 COMMUNICATIONS
 --------------
@@ -176,7 +176,7 @@ Syracuse is located approximately 250 miles northwest of New York City.
 
 Many IQMR participants will be flying to Syracuse, arriving at Syracuse Hancock International Airport (<http://www.syrairport.org/>). The airport has a single terminal divided into separate concourses. The airport is about 10 miles (15-minute drive) from the university. Other IQMR participants will be arriving in Syracuse by Greyhound bus or Amtrak train.
 
-All IQMR participants nominated by their home department are responsible for making their own travel arrangements and paying for their own travel. Christiane Page, Associate Director of the Center for Qualitative and Multi-Method Inquiry at Syracuse ([mpage\@syr.edu](mailto:mpage@syr.edu)), will be in touch with all IQMR participants selected through "Open Pool" application process (General, Africa, Latin America, and MENA) concerning travel.
+All IQMR participants nominated by their home department are responsible for making their own travel arrangements and paying for their own travel, as are participants selected through the general open pool. Christiane Page, Associate Director of the Center for Qualitative and Multi-Method Inquiry at Syracuse ([cmpage@syr.edu](mailto:cmpage@syr.edu)), will be in touch with all IQMR participants selected through "Open Pool" application process for Africa and Latin America concerning travel. Open Pool participants from the MENA region will make travel arrangements via the American Political Science Association (APSA).
 
 IQMR will arrange for a shuttle bus to run from the airport, and from the train and bus stations, to Milton Hall on Saturday June 14. We will add contact details and hours of operation for the residence hall shuttle bus closer to the institute.
 
@@ -185,12 +185,12 @@ Guests arriving by car should drive directly to Milton Hall, use street parking,
 LOCAL TRANSPORTATION
 --------------------
 
-For travel around the campus and to points of interest in Syracuse, you can use the Centro bus service. [Some buses are free](https://www.centro.org/colleges/syracuse-university) to SU ID holders, otherwise bus fares in Syracuse are listed on [the Centro homepage](https://www.centro.org/fares-passes/fares-syracuse). There is a [mobile phone app for the Centro bus service](https://www.centro.org/service_schedules/transit-tools/mobile-app) which includes a bus tracker and travel planner:
+For travel around the campus and to points of interest in Syracuse, you can use the Centro bus service. [Some buses are free](https://www.centro.org/colleges/syracuse-university) to SU ID holders, otherwise bus fares in Syracuse are listed on [the Centro homepage](https://www.centro.org/fares-passes/fares-syracuse). There is a [mobile phone app for the Centro bus service](https://www.centro.org/service_schedules/transit-tools/mobile-app) which includes a bus tracker and travel planner. Syracuse also has a popular e-scooter program through [the Veo app](https://www.veoride.com/). You can find scooters all around the university neighborhood and downtown, but they are not allowed (and will turn off) on campus.
 
 FOOD 
 ----
 
-Breakfast is provided for you on all instructional days.
+Breakfast is provided for you on all instructional days in the Maxwell Commons (2nd floor of Eggers Hall).
 
 We also provide twice-daily coffee breaks with complimentary tea/coffee and light refreshments
 
@@ -206,7 +206,7 @@ Dress is casual. Please wear what you would wear in a classroom in your home ins
 HEALTH
 ------
 
-What to do if you get sick.
+What to do if you get sick. (to come)
 
 ### MEDICAL INSURANCE
 
