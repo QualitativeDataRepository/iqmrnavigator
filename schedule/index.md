@@ -72,11 +72,11 @@ title: Schedule
 
 -   Authors Workshop -- Advances in Qualitative and Multi-Method Research
 
-Sunday, June 22
+## Sunday, June 22
 
 -   Authors Workshop -- Emerging Methodologists Workshop
 
-Monday, June 23
+## Monday, June 23
 
 -   Module Section A: Integrating Qualitative and Experimental Methods I\
     > Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tunon
