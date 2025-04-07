@@ -38,29 +38,29 @@ tr, td{padding-top:  0.25rem;
 <tr class="odd">
 <td>Confirm you will attend IQMR and provide some initial information about your interests</td>
 <td>Complete Qualtrics Attendance Confirmation Form</td>
-<td>March 31</td>
+<td>April 7</td>
 <td>April 15</td>
-<td>Attendance confirmation</td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3KI371EUxl944ui">Attendance confirmation</a></td>
 </tr>
 <tr class="even">
-<td><p>Indicate whether you will present a proto or full research design. (See <a href="https://docs.google.com/document/d/1Bm0NvStd-bueI_Oda9RB_vAs4lsdSUkGpaUuneHO0MA/edit?tab=t.0"><span class="underline">Research Design Instructions here</span></a>)</p></td>
+<td><p>Indicate whether you will present a proto or full research design. (See <a href="/participants/research-design-instructions">Research Design Instructions here</a>)</p></td>
 <td>Complete the Software+Res Des + DMP Survey</td>
-<td>March 31</td>
-<td>April 15</td>
-<td>Software+ResDes+DMP Survey</td>
+<td>April 7</td>
+<td>May 1</td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_eR0SO8R60bKkB4a">Software+ResDes+DMP Survey</a></td>
 </tr>
 <tr class="odd">
 <td>Indicate prior experience with required software (if needed / if any)</td>
 <td>Complete the Software+Res Des + DMP Survey</td>
-<td>March 31</td>
-<td>April 15</td>
+<td>April 7</td>
+<td>May 1</td>
 <td>Software+ResDes+DMP Survey</td>
 </tr>
 <tr class="even">
 <td>Indicate interest in a one-on-one consultation on DMP with a data expert in the weeks preceding, during, or following the Institute (optional)</td>
 <td>Complete the Software+Res Des + DMP Survey</td>
-<td>March 31</td>
-<td>April 15</td>
+<td>April 7</td>
+<td>May 1</td>
 <td>Software+ResDes+DMP Survey</td>
 </tr>
 <tr class="odd">
@@ -68,7 +68,7 @@ tr, td{padding-top:  0.25rem;
 <td>Complete Lodging Survey</td>
 <td>April 15</td>
 <td>May 1</td>
-<td>Lodging preferences survey</td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_bsh0K6f5CnjxtnE">Lodging preferences survey</a></td>
 </tr>
 <tr class="even">
 <td>Register for SU ID (allows access to campus facilities) and SU NetID (allows login to SU Blackboard)</td>
@@ -107,10 +107,10 @@ tr, td{padding-top:  0.25rem;
 </tr>
 <tr class="odd">
 <td>Sign up for research design discussion groups you will join as a commenter at IQMR</td>
-<td>ResDes discussion group schedule and link to signup form will be provided by June 6</td>
+<td>Research Design discussion group schedule and link to signup form will be provided by June 6</td>
 <td>June 8</td>
 <td>June 15</td>
-<td>Res Des discussion group survey</td>
+<td>Research Design discussion group survey</td>
 </tr>
 </tbody>
 </table>
@@ -126,7 +126,7 @@ A typical instructional day at IQMR comprises three 90-minute instructional sess
 MODULE PREREQUISITES
 --------------------
 
-Some of IQMR's modules require participants to have basic familiarity with R or python. This requirement helps to ensure that the modules are maximally useful for everyone, focusing on methods and techniques, and not basic instruction in how to use the software. More about module prerequisites.
+Some of IQMR's modules require participants to have basic familiarity with R or python. This requirement helps to ensure that the modules are maximally useful for everyone, focusing on methods and techniques, and not basic instruction in how to use the software. More about module prerequisites to come.
 
 SUPPORTING MATERIALS -- READINGS AND MORE
 -----------------------------------------
@@ -136,12 +136,12 @@ It is very important that you do as much of the required reading as possible bef
 RESEARCH DESIGN DISCUSSION GROUP SESSIONS
 -----------------------------------------
 
-**Presenting a research design for discussion at IQMR is required**. Institute participants routinely highlight the feedback they receive in such sessions as one of the most valuable aspects of IQMR. You can review [instructions for preparing the research design here](/participants/research-design-instructions). Click here to learn more about presenting your research design and commenting on others' research designs.
+**Presenting a research design for discussion at IQMR is required**. Institute participants routinely highlight the feedback they receive in such sessions as one of the most valuable aspects of IQMR. You can review [instructions for preparing the research design here](/participants/research-design-instructions). More about [presenting your research design](/participants/research-design-groups) and commenting on others' research designs.
 
 SU ID NUMBER and SU NetID
 -------------------------
 
-Syracuse University will provide you with two different unique identifiers: your SU ID number (noted on your SU ID card), and your SU NetID. Your SU ID card gives you access to various locations and services such as the gym, library, and other SU facilities. Your SU NetID allows you to login to SU\'s Blackboard website where IQMR materials are housed.
+Syracuse University will provide you with two different unique identifiers: your SU ID number (noted on your SU ID card), and your SU NetID. Your SU ID card gives you access to various locations and services such as the gym, library, and other SU facilities. Your SU NetID allows you access to Syracuse University's digital resources (such as online journals).
 
 You will need to register in order to get an SU ID number and an SU NetID. We will send you more information on how to register in April.
 
@@ -154,17 +154,17 @@ SYRACUSE UNIVERSITY CAMPUS
 
 [More on internet access, printing, Institute classroom, library facilities, the Syracuse University Student Center, and gyms.](/participants/syracuse-university)
 
-ACCOMMODATIONS: MILTON HALL 
+LODGING: MILTON HALL 
 ---------------------------
 
-All IQMR attendees will stay in two or four-bedroom suites in [Milton Hall](https://housingmealplans.syr.edu/residential-facilities/apartment-housing/milton-hall/), a modern dormitory on the Syracuse University campus. More about Milton Hall, accessing it, and its rules and amenities.
+All IQMR attendees will stay in two or four-bedroom suites in [Milton Hall](https://housingmealplans.syr.edu/residential-facilities/apartment-housing/milton-hall/), a modern dormitory on the Syracuse University campus. [More about Milton Hall](/participants/lodging), accessing it, and its rules and amenities.
 
 COMMUNICATIONS
 --------------
 
-While you are in Syracuse, we will communicate with you via email and the official IQMR WhatsApp group...
+While you are in Syracuse, we will communicate with you via email and a chat app to be determined.
 
-TRANSPORTATION 
+GETTING TO SYRACUSE
 --------------
 
 Syracuse is located approximately 250 miles northwest of New York City.
@@ -175,6 +175,8 @@ All IQMR participants nominated by their home department are responsible for mak
 
 IQMR will arrange for a shuttle bus to run from the airport, and from the train and bus stations, to Milton Hall on Saturday June 14. We will add contact details and hours of operation for the residence hall shuttle bus closer to the institute.
 
+PARKING
+--------------
 Guests arriving by car should drive directly to Milton Hall, use street parking, and get your ID. You can then use your ID to swipe in and out of parking. You will park at [the University Garage](https://parking.syr.edu/visitors-to-campus/lot-directions-and-maps/university-avenue-garage-uag-directions/.), 1101 East Adams Street, Syracuse, 13210.
 
 LOCAL TRANSPORTATION

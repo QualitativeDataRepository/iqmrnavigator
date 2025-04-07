@@ -10,6 +10,8 @@ url: "https://iqmrnavigator.org" # the base hostname & protocol for your site, e
 remote_theme: "DigitaleGesellschaft/jekyll-theme-conference@v3.6.1"
 # Build settings
 markdown: kramdown
+plugins:
+  - jekyll-target-blank
 sass:
   style: compressed
 
@@ -86,13 +88,13 @@ conference:
        #     relative_url: /information/travel/
         #  - name: Contact
         #    relative_url: /information/contact/
-      - name: For Participants
+      - name: Participant Information
         relative_url: /participants/
         menu:
           - name: Overview
             relative_url: /participants
-          - name: Accomodations
-            relative_url: /participants/accomodations
+          - name: Lodging
+            relative_url: /participants/lodging
           - name: Choosing Modules
             relative_url: /participants/choosing-modules
         #  - name: Module Prerequisites

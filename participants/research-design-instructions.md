@@ -3,17 +3,16 @@ layout: page
 title: IQMR 2025 Research Design Instructions
 ---
 
-Research Design Due Date: June 1, 2025 
---------------------------------------
+**Research Design Due Date: June 1, 2025** 
 
 All IQMR participants are required to present a research design. Doing so offers an opportunity to receive helpful suggestions and critiques on a proposed or in-progress project. The designs are presented and discussed in seminars that bring together participants with related interests, and are led by an IQMR faculty member. The sessions are constructive, supportive, and typically provide presenters with valuable new ideas for their projects. IQMR participants routinely indicate that the research design sessions were among the most valuable aspects of IQMR.
 
-It is understood that IQMR participants' research projects may be at different stages of development. If it would not be helpful for you to present a full research design at IQMR in June, you may instead choose to present a shorter, "Proto Research Design" in which you will outline key elements of your project for discussion and feedback. More details on each type of IQMR research design are outlined below.
+It is understood that IQMR participants’ research projects may be at different stages of development. We thus offer two options with regard to the research design you submit in advance of the Institute and present at the Institute: (1) a shorter, “proto research design” in which you  outline key elements of your project or (2) a full research design.  More details on each type of IQMR research design are outlined below.
+
 
 **IMPORTANT**: No matter whether you submit / present a Proto Research Design or a Full Research please make sure you have:
 
 -   A clear title
-
     -   The title of your project will be listed on a public web site; consider taking particular care with your title if you have carried out or will carry out research in challenging contexts
 
 -   A clear 300-word abstract that includes the substantive topic of your research, the time period of focus, the geography of focus, the methods of data collection that you plan to use and the methods of data analysis that you plan to use
@@ -68,37 +67,27 @@ As noted below, your research design should include a one-page data management p
 
 17. Provide a descriptive overview of your expected findings. Then, describe the contributions that such findings could potentially make to your investigation, and in particular to answering your research question. Finally, comment on how your project contributes to the broader research agenda of which it forms part, and to theoretical understandings of the phenomenon/a under study.
 
-18. In a brief appendix, please offer a brief data management plan (DMP). Some helpful guidelines for creating a DMP can be found here ([https://qdr.syr.edu/guidance/managing/planning-data-management](https://qdr.syr.edu/guidance/managing/planning-data-management)), and some examples can be viewed here ([https://dmptool.org/public\_plans](https://dmptool.org/public_plans)). Your DMP should include the following points:
-
--   What personnel will work on the project (e.g., will you have collaborators or hire RAs)?
-
--   In what media/format(s) will you collect data sources/data?
-
--   How will you organize data sources/data?
-
--   How will you process and transform data sources (e.g., transcribe or translate)?
-
--   What documentation will you generate (at the data file-level, and at the project level)?
-
--   What ethical issues may attend your data (e.g., related to sensitivity / confidentiality)?
-
--   What legal issues may attend your data (e.g., related to intellectual property / copyright)?
-
--   How will data be securely stored during project execution? What is your back-up plan?
-
--   How will you securely store and preserve data sources after project completion?
-
--   How and when and where and which data will be shared (made available to others)?
+18. In a brief appendix, please offer a brief data management plan (DMP). The Qualitative Data Repository has some [helpful guidance on  creating a DMP](https://qdr.syr.edu/guidance/managing/planning-data-management), and some [public examples are available](https://dmptool.org/public_plans) via the DMP Tool. Your DMP should include the following points:
+    -   What personnel will work on the project (e.g., will you have collaborators or hire RAs)?
+    -   In what media/format(s) will you collect data sources/data?
+    -   How will you organize data sources/data?
+    -   How will you process and transform data sources (e.g., transcribe or translate)?
+    -   What documentation will you generate (at the data file-level, and at the project level)?
+    -   What ethical issues may attend your data (e.g., related to sensitivity / confidentiality)?
+    -   What legal issues may attend your data (e.g., related to intellectual property / copyright)?
+    -   How will data be securely stored during project execution? What is your back-up plan?
+    -   How will you securely store and preserve data sources after project completion?
+    -   How and when and where and which data will be shared (made available to others)?
 
 SUBMITTING YOUR RESEARCH DESIGN BY June 1, 2025
 -----------------------------------------------
 
-> Please submit your research design, as well as a 100-word abstract and keywords, via this submission form.
+> Please submit your research design, as well as a 100-word abstract and keywords, via this submission form (link to come).
 
 -   Research designs may be submitted in .doc or .pdf format
 
 -   The file name should consist of nothing more than your last name (e.g. Smith.pdf); please do not name your file \"research\_design.pdf\".
 
--   Please submit your research design by no later than **June 1, 2024**.
+-   Please submit your research design by no later than **June 1, 2025**.
 
-> If you have any questions, concerns, or issues with submitting your research design, please email Sebastian Karcher (skarcher\@maxwell.syr.edu).
+> If you have any questions, concerns, or issues with submitting your research design, please email Sebastian Karcher (skarcher@syr.edu).
