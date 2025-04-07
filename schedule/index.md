@@ -62,10 +62,10 @@ title: Schedule
 -   Module Section B: Qualitative Causal Inference\
     > Instructors: David Waldner and Ezequiel Gonzalez-Ocantos
 
--   Module Section C: Comparative Historical Analysis I\
+-   Module Section C: Comparative Historical Analysis II\
     > Instructor: Marcus Kreuzer
 
--   Module Section D: Interpretation and History I\
+-   Module Section D: Interpretation and History II\
     > Instructor: Amel Ahmed
 
 ## Saturday, June 21
@@ -92,30 +92,30 @@ title: Schedule
 
 Tuesday, June 24
 
--   Module Section A: Integrating Qualitative and Experimental Methods I\
+-   Module Section A: Integrating Qualitative and Experimental Methods II\
     > Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tunon
 
--   Module Section B: Causal Inference from Causal Models I\
+-   Module Section B: Causal Inference from Causal Models II\
     > Instructor: Alan Jacobs
 
--   Module Section C: Bayesian Inference for Qualitative Research I\
+-   Module Section C: Bayesian Inference for Qualitative Research II\
     > Instructor: Tasha Fairfield
 
--   Module Section D: Ethnographic Methods I\
+-   Module Section D: Ethnographic Methods II\
     > Instructors: Sarah Parkinson and Kanisha Bond
 
 ## Wednesday, June 25
 
--   Module Section A: Integrating Qualitative and Experimental Methods I\
+-   Module Section A: Integrating Qualitative and Experimental Methods III\
     > Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tunon
 
--   Module Section B: Causal Inference from Causal Models I\
+-   Module Section B: Causal Inference from Causal Models III\
     > Instructor: Alan Jacobs
 
--   Module Section C: Bayesian Inference for Qualitative Research I\
+-   Module Section C: Bayesian Inference for Qualitative Research III\
     > Instructor: Tasha Fairfield
 
--   Module Section D: Ethnographic Methods I\
+-   Module Section D: Ethnographic Methods III\
     > Instructors: Sarah Parkinson and Kanisha Bond
 
 ## Thursday, June 26
@@ -137,7 +137,7 @@ Tuesday, June 24
 -   Module Section A: Geographic Information Systems II\
     > Instructor: Jonnell Robinson
 
--   Module Section B: Multi-Method Research I\
+-   Module Section B: Multi-Method Research II\
     > Instructor: Jaye Seawright
 
 -   Module Section C: Process Tracing and Typological Theories II\
