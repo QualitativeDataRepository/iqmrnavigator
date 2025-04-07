@@ -40,14 +40,14 @@ tr, td{padding-top:  0.25rem;
 <td>Complete Qualtrics Attendance Confirmation Form</td>
 <td>April 7</td>
 <td>April 15</td>
-<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3KI371EUxl944ui">Attendance confirmation</a></td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3KI371EUxl944ui" target="_blank">Attendance confirmation</a></td>
 </tr>
 <tr class="even">
-<td><p>Indicate whether you will present a proto or full research design. (See <a href="/participants/research-design-instructions">Research Design Instructions here</a>)</p></td>
+<td><p>Indicate whether you will present a proto or full research design. (See <a href="/participants/research-design-instructions" target="_blank">Research Design Instructions here</a>)</p></td>
 <td>Complete the Software+Res Des + DMP Survey</td>
 <td>April 7</td>
 <td>May 1</td>
-<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_eR0SO8R60bKkB4a">Software+ResDes+DMP Survey</a></td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_eR0SO8R60bKkB4a" target="_blank">Software+ResDes+DMP Survey</a></td>
 </tr>
 <tr class="odd">
 <td>Indicate prior experience with required software (if needed / if any)</td>
@@ -68,7 +68,7 @@ tr, td{padding-top:  0.25rem;
 <td>Complete Lodging Survey</td>
 <td>April 15</td>
 <td>May 1</td>
-<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_bsh0K6f5CnjxtnE">Lodging preferences survey</a></td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_bsh0K6f5CnjxtnE" target="_blank">Lodging preferences survey</a></td>
 </tr>
 <tr class="even">
 <td>Register for SU ID (allows access to campus facilities) and SU NetID (allows login to SU Blackboard)</td>
@@ -85,7 +85,7 @@ tr, td{padding-top:  0.25rem;
 <td>Module selection form</td>
 </tr>
 <tr class="even">
-<td>Submit research design (See <a href="https://docs.google.com/document/d/1Bm0NvStd-bueI_Oda9RB_vAs4lsdSUkGpaUuneHO0MA/edit?tab=t.0"><span class="underline">Research Design Instructions here</span></a>)</td>
+<td>Submit research design (See <a href="/participants/research-design-instructions">Research Design Instructions here</a>)</td>
 <td>Complete Research Design Submission form</td>
 <td>May 15</td>
 <td>June 1</td>
