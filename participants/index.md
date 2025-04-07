@@ -66,7 +66,7 @@ tr, td{padding-top:  0.25rem;
 <tr class="odd">
 <td>Tell us about your lodging preferences</td>
 <td>Complete Lodging Survey</td>
-<td>April 15</td>
+<td>April 7</td>
 <td>May 1</td>
 <td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_bsh0K6f5CnjxtnE" target="_blank">Lodging preferences survey</a></td>
 </tr>
