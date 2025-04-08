@@ -74,7 +74,7 @@ tr, td{padding-top:  0.25rem;
 <td>Register for SU ID (allows access to campus facilities) and SU NetID (allows login to SU Blackboard)</td>
 <td>Detailed instructions to register will be emailed in April</td>
 <td>April 30</td>
-<td>May 26</td>
+<td>May 15</td>
 <td></td>
 </tr>
 <tr class="odd">
