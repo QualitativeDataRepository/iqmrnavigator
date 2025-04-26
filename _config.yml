@@ -97,8 +97,8 @@ conference:
             relative_url: /participants/lodging
           - name: Choosing Modules
             relative_url: /participants/choosing-modules
-        #  - name: Module Prerequisites
-         #   relative_url: /participants/module-prerequisites
+          - name: Module Prerequisites
+            relative_url: /participants/module-prerequisites
           - name: Readings and Materials
             relative_url: /participants/readings
           - name: Research Design Instructions
@@ -111,9 +111,10 @@ conference:
  #           relative_url: /participants/code-of-conduct/
   #        - name: FAQ
    #         relative_url: /participants/faq/
-    #  - name: For Faculty
-     #   relative_url: /faculty/
-    #  - name: Previous Editions
+    #  - name: Instructors
+     #   relative_url: /instructors/
+    #  - name: Advances in Qualitative Methods Workshop
+      #    relative_url: /advances/
     #    menu:
     #      - name: 2020 (current)
     #        disabled: true

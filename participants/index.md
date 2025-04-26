@@ -75,7 +75,7 @@ tr, td{padding-top:  0.25rem;
 <td>Detailed instructions to register will be emailed in April</td>
 <td>April 30</td>
 <td>May 15</td>
-<td></td>
+<td><a href="/participants/syracuse-registration">Syracuse University Registration Instructions</a></td>
 </tr>
 <tr class="odd">
 <td>Select modules that you will take at IQMR</td>
