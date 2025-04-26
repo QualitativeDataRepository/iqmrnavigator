@@ -96,7 +96,7 @@ tr, td{padding-top:  0.25rem;
 <td>Some more technical modules may have modest prerequisites (e.g., take a short online R workshop)</td>
 <td>June 1</td>
 <td>June 8</td>
-<td>Information to follow</td>
+<td><a href="/participants/module-prerequisites">Module prerequisites</a></td>
 </tr>
 <tr class="even">
 <td>Provide proof that you have completed any required prerequisite for the modules you have decided to take</td>

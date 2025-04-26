@@ -5,7 +5,7 @@ title: Module Prerequisites
 
 Some of IQMR's modules require participants to have basic familiarity with some content, such as a programming language or basic statistical concepts. This requirement helps to ensure that the modules are maximally useful for everyone, focusing on methods and techniques, and not basic instruction in how to use the software.
 
-Participants who plan to take modules with prerequisites **are required** to either take a short (asynchronous) online workshop providing basic familiarity, or demonstrate their pre-existing knowledge of the software, by **June 6, 2025**.
+Participants who plan to take modules with prerequisites **are required** to either take a short (asynchronous) online workshop providing basic familiarity, or demonstrate their pre-existing knowledge of the software, by **June 8, 2025**.
 
 IQMR will also offer participants the opportunity to attend drop-in office hours for additional help with some of these software packages. Details on those office hours will be provided here in the coming months.
 
@@ -23,7 +23,7 @@ Problem set (to come)
 
 ## M2 / M6 -- Text as Data (Shen-Bayh)
 
-### Prerequisite: 
+### Prerequisite 
     
 The “Text as Data” module sequence assumes basic familiarity with python, in particular
 1.	Python basics, including how to do a basic for loop, function writing, loading data.
@@ -33,7 +33,7 @@ The “Text as Data” module sequence assumes basic familiarity with python, in
 If you’ve done any programming in python in the past, you will be fine. Otherwise, we recommend working through the free, interactive lesson  “Learn String Manipulation by Building a Cipher” on Free Code Camp. For the course, you will work in a Jupyter Notebook on Google Collab. 
 
 
-### Demonstration of completion of prerequisite:
+### Demonstration of completion of prerequisite
 To demonstrate basic proficiency, please upload a screenshot of your solution to the following task running in Google Collab. Please don’t just use an LLM to write your answer: you’re not doing yourself a favor. We will have office hours in the 2 weeks prior to IQMR to help you if you’re struggling.
 
 
@@ -66,7 +66,6 @@ Write a function called analyze_grades that:
 
 ## (Perhaps) M29 / M33 -- Geographic Information Systems (Robinson)
 
-    -   SOFTWARE: QGIS
     -   Prerequisite: TBD
     -   Demonstration of completion of prerequisite: TBD
 
