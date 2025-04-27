@@ -71,8 +71,3 @@ If driving your own vehicle to Syracuse, the University will reimburse you at it
 Choose from W-9 or W-8BEN (consult your accountant if you have any questions). The payee is responsible to know their tax status and appropriate withholding form to file, and should consult their tax advisor for guidance if needed.
 -   [W-8BEN](https://finance.syr.edu/wp-content/uploads/2019/02/fw8ben.pdf){:target="_blank"} \[PDF\] form (Part I and Part III only) to claim nonresident tax status
 -   [W-9 form](https://finance.syr.edu/wp-content/uploads/2019/02/fw9.pdf){:target="_blank"} \[PDF\] to claim resident tax status by virtue of being in the U.S. long enough to pass the IRS Substantial Presence Test (SPT)
-
-Evaluation
-----------
-
-IQMR participants are offered the opportunity to evaluate IQMR constantly throughout the Institute. They are sent surveys to complete at the conclusion of each module, and they complete an exit survey at the close of the Institute. IQMR leadership reviews this feedback and distributes it to instructors in the months following the Institute. Instructors are encouraged to carefully review the feedback and keep it in mind in subsequent teaching opportunities at IQMR.

@@ -21,8 +21,7 @@ Please keep in mind the following due dates for materials related to the modules
 
 -   **MAY 1**: Face book photo
     -   To help participants meet and network with each other and with instructors, we publish a face book of all instructors and attendees.
-    -   Email a photo to Diana ([dk784@georgetown.edu](mailto:dk784@georgetown.edu)) OR email confirmation that the photo in the IQMR 2025 face book is acceptable;
-        -   [IQMR 2024 face book](https://drive.google.com/file/d/1O4OXWmKVoLcJ_RrBRtbcK7z6QlXQFu8p/view)
+    -   Email a photo to Diana ([dk784@georgetown.edu](mailto:dk784@georgetown.edu)) OR email confirmation that the photo in the IQMR 2024 face book is acceptable;
         -   **NOTE**: if we have a photo and you do not send a new photo, we will use the photo we have
 
 
@@ -83,7 +82,7 @@ Code of Conduct
 
 Syracuse University policies set parameters for all University community members, and while participating in IQMR, you are subject to [relevant University policies](https://policies.syr.edu/){:target="_blank"}, including those [governing the conduct of regular faculty](https://academicaffairs.syracuse.edu/faculty-affairs/policies-and-procedures/faculty-manual/4-1-inappropriate-conduct-by-faculty-members/){:target="_blank"}. The University may address potential violations of University policies according to terms or procedures separate from those listed in the policies, as you are considered a guest and independent contractor, and not a University employee. The University may discontinue its relationship with you at any time for any reason.
 
-Travel
+Travel and Hotel
 ------
 Christiane Pagé, Associate Director of the Center for Qualitative and Multi-Method Inquiry at Syracuse University, can answer any questions you have about making your travel arrangements. Christiane will also arrange for you to be reimbursed for your travel costs after the Institute. [More about travel to and lodging](/instructors/travel-lodging) in Syracuse. 
 

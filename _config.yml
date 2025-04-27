@@ -111,7 +111,7 @@ conference:
  #           relative_url: /participants/code-of-conduct/
   #        - name: FAQ
    #         relative_url: /participants/faq/
-      - name: Instructors
+      - name: Instructor Information
         relative_url: /instructors/
         menu:
           - name: Overview
@@ -126,17 +126,12 @@ conference:
             relative_url: /instructors/travel-lodging
           - name: Honorarium Payment, Per Diem, and Travel Reimbursement
             relative_url: /instructors/honoraria-logistics
+      - name: Weekend Workshops
+        relative_url: /authors-workshops/
+        menu:
+          - name: Overview
+            relative_url: /authors-workshops/
      
-
-    #  - name: Advances in Qualitative Methods Workshop
-      #    relative_url: /advances/
-    #    menu:
-    #      - name: 2020 (current)
-    #        disabled: true
-    #      - name: 2019
-    #        relative_url: /2019/
-    #      - name: 2018
-    #        relative_url: /2018/
 
   # Link Preview for Sharing
   link_preview:
@@ -153,22 +148,22 @@ conference:
     links:
       - name: Schedule
         relative_url: /schedule/
-      - name: Participant Information
-        relative_url: /participants/
-      - name: Instructors
-        relative_url: /instructors/
-      - name: General Information
+      - name: General Info
         relative_url: /information/ 
-    #  - name: Tickets
-    #    disabled: true
-    #    absolute_url: ''
+      - name: Participant Info
+        relative_url: /participants/
+      - name: Instructor Info
+        relative_url: /instructors/
+      - name: Weekend Workshops
+        relative_url: /authors-workshop/
+
 
   # Information boxes
   info_bars:
-    - title: Welcome to IQMR 2025 Authors Workshop
+    - title: Welcome to the IQMR 2025 Weekend Workshops
       color: primary
       text: |
-        The Authors Workshop is for invited authors only. IQMR Participants are encourage to spend the weekend enjoying the beautiful central New York region (and/or catching up on readings)
+        "Advances in Qualitative Methods" and the "Emerging Methodologist Workshop" are for invited authors only. IQMR Participants are encouraged to spend the weekend getting to know each other better and enjoying the beautiful central New York region.
   #      ---
 #
   #      See the [README](github.com/DigitaleGesellschaft/jekyll-theme-conference/) on the project's GitHub repository for further information on how to configure and adapt it to your needs.

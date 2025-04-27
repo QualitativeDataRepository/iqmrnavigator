@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Authors Workshop
+title: Weekend Workshops
 ---
 
 
@@ -19,23 +19,16 @@ Please contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown
 ## Overall Schedule
 
 -   Friday, June 20 -- Dinner for workshop participants
-
     -   7:00pm
-
     -   Location TBD
 
 -   Saturday, June 21 -- "Advances in Qualitative and Multi-Method Research"
-
     -   9:00am to 5:15pm -- Workshop
-
     -   6:00pm -- Dinner at Sebastian Karcher's home
 
 -   Sunday, June 22 -- [Emerging Methodologists Workshop](https://sigla.georgetown.domains/emworkshop/){:target="_blank"}
-
     -   9:00am to 5:30pm -- Workshop
-
     -   6:30pm -- Dinner for workshop participants
-
     -   Location TBD
 
 ## Travel to and from Syracuse
@@ -67,48 +60,38 @@ We will request that you complete a tax form while you are in Syracuse which we 
 We will aim to transmit your reimbursement to you within two months after the workshop. Please note that time frames for processing reimbursements can vary.
 
 
-**Saturday, June 21**
----------------------
+## Saturday, June 21
 
-**Advances in Qualitative and Multi-Method Research** 
------------------------------------------------------
+### Advances in Qualitative and Multi-Method Research 
 
 **9:00am-9:15am -- Welcome and Introductions**
 
 Everyone!
 
 **9:15am-10:15am** -- James Mahoney (Professor), Talia Rueschemeyer-Bailey (PhD Candidate), and Ana Vedovato (PhD Candidate), Department of Political Science, Northwestern University -- "The Logic of Narrative Analysis: A Block Diagram Framework"
-
 -   Discussant --
 
 **10:15am-11:15am** -- Jeffrey Checkel, Professor, Department of Political and Social Sciences, European University Institute (Italy) -- "Process Analytics: How, Why & Where Next"
-
 -   Discussant --
 
 **11:15am-11:30am** -- COFFEE BREAK
 
 **11:30am-12:30pm** -- Shagun Gupta, PhD Candidate and Adjunct Instructor, School of International Service, American University -- "What\'s in an Interview? Follow-ups as Moments of Clarity and Information in Qualitative Research"
-
 -   Discussant --
 
 **12:30pm to 1:45pm**
 
-**LUNCH**
-
-(Catered in Eggers)
+**CATERED LUNCH**
 
 **1:45pm-2:45pm** -- Daniel de Kadt, Assistant Professor, London School of Economics (UK) -- Distance and Physical Space
-
 -   Discussant --
 
 **2:45pm-3:45pm** -- Mitchell Bosley, Postdoctoral Researcher at the Schwartz Reisman Institute for Technology and Society at the University of Toronto (Canada) -- "Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates"
-
 -   Discussant --
 
 **3:45pm-4:00pm** -- COFFEE BREAK
 
 **4:00pm-5:00pm** -- Emre Amasyali, Postdoctoral Researcher, Institut Barcelona d'Estudis Internacionals (Spain) -- **\"**The Closing of the Social Science Mind: Anachronism's Pitfalls, Deadly Sins, and Varieties"
-
 -   Discussant --
 
 **6:00pm**
@@ -117,13 +100,11 @@ Everyone!
 
 **Home of Sebastian Karcher**
 
-**\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\***
+-------
 
-**Sunday, June 22**
--------------------
+## Sunday, June 22 
 
-**Emerging Methodologists Workshop** 
-------------------------------------
+### Emerging Methodologists Workshop 
 
 **9:00am - 9:30am -- Welcome and Introductions**
 
@@ -134,19 +115,13 @@ Everyone!
 **Chair: Hillel David Soifer**
 
 **9:30am-10:30am** -- Qin Huang, PhD Candidate, Department of Political Science, Northwestern University -- "Clustering, Conceptualization, and Typology: A Multi-Methods Approach Combining Machine-Learning Algorithms and Field Research"
-
 -   Discussants
-
     -   Presenter
-
     -   Mentor
 
 **10:30am-11:30am** -- Flavia Batista da Silva, PhD candidate, Department of Government and Politics, University of Maryland, College Park -- "Voices Behind the Data: Integrating Thick Description through Audio Responses in Survey Experiments"
-
 -   Discussants
-
     -   Presenter
-
     -   Mentor
 
 **11:30am-11:45am** -- COFFEE BREAK
@@ -154,51 +129,36 @@ Everyone!
 **11:45am-12:45pm** -- Sarah Dreier, Assistant Professor, Department of Political Science, University of New Mexico -- "New Approaches for Annotating Real-World Data"
 
 -   Discussants
-
     -   Presenter
-
     -   Mentor
 
 **12:45pm to 2pm**
 
-**LUNCH**
-
-(Catered in Eggers)
+**CATERED LUNCH**
 
 **2:00pm--5:15pm -- Panel \#2**
 
 **Chair: Diana Kapiszewski**
 
 **2:00pm-3:00pm** -- Elizabeth Parker-Magyar (Biff), Postdoctoral Fellow, Weatherhead Center for International Affairs, Harvard University and Assistant Professor, Department of Political Science, Yale University -- "Ethnographic Insights on Enumerating a Survey Eliciting Social Networks "
-
 -   Discussants
-
     -   Presenter
-
     -   Mentor
 
 **3:00pm-4:00pm** -- Mohamed Dhia Hammami, PhD candidate, Department of Political Science, Syracuse University -- "Network-Based Cluster Sampling: A Novel Approach to Elite Interview Recruitment"
-
 -   Discussants
-
     -   Presenter
-
     -   Mentor
 
 **4:00pm-4:15pm** -- COFFEE BREAK
 
 **4:15pm-5:15pm** -- Klaudia Wegschaider, Postdoctoral Associate, [Institution for Social and Policy Studies](https://isps.yale.edu/), Yale University -- **\"**Episode Analysis in Case Study Research"
-
 -   Discussants
-
     -   Presenter
-
     -   Mentor
 
 **5:15pm-5:30pm -- DEBRIEF and WRAP-UP**
-
 -   Next steps
-
 -   Quick survey
 
 **6:30pm**
