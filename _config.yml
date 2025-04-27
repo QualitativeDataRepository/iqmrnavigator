@@ -127,10 +127,10 @@ conference:
           - name: Honorarium Payment, Per Diem, and Travel Reimbursement
             relative_url: /instructors/honoraria-logistics
       - name: Weekend Workshops
-        relative_url: /authors-workshops/
+        relative_url: /authors-workshop/
         menu:
           - name: Overview
-            relative_url: /authors-workshops/
+            relative_url: /authors-workshop/
      
 
   # Link Preview for Sharing
