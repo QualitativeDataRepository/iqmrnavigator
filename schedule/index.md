@@ -90,7 +90,7 @@ title: Schedule
 -   Module Section D: Ethnographic Methods I\
     > Instructors: Sarah Parkinson and Kanisha Bond
 
-Tuesday, June 24
+## Tuesday, June 24
 
 -   Module Section A: Integrating Qualitative and Experimental Methods II\
     > Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tunon
