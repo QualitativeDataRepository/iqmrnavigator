@@ -13,7 +13,7 @@ Please read the instructions carefully before starting.
 
 3. You will receive two separate emails containing your temporary NetID and your temporary password. Check your spam/junk folder if you do not receive them. You will log back into the same website with this information and register using the instructions below. Approximately 48-72 business hours after your registration you will receive an email with instructions on how activate your permanent NetID. 
  
-4. For these purposes, the SU system treats IQMR as a single “class.” Under the class verification section, you will need a five-digit code for the class. You will receive this code in an email from Sebastian. **The deadline to add this class is: May 15, 2025. Participants will not be able to register after this date. **
+4. For these purposes, the SU system treats IQMR as a single “class.” Under the class verification section, you will need a five-digit code for the class. You will receive this code in an email from Sebastian. **The deadline to add this class is: May 15, 2025. Participants will not be able to register after this date.**
  
 5. After you enter all the information, you should see a payment page. The payment total should be $0 (that is, zero dollars) and click “complete my registration” to finish the process.
  
