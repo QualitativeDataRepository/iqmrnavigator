@@ -117,7 +117,7 @@ conference:
           - name: Overview
             relative_url: /instructors
           - name: Designing and Teaching Your Modules
-            relative_url: /instructors/designin-teaching 
+            relative_url: /instructors/designing-teaching 
           - name: Chairing Research Design Sessions
             relative_url: /instructors/chairing-research-design
           - name: Materials, Technology, and Services
