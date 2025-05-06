@@ -23,5 +23,5 @@ The readings for some modules include a book or books that must be purchased, or
 To the extent possible, IQMR uses the most up-to-date readings on the methods covered at the Institute. One consequence is that we often use manuscripts that are either in press or in progress. Please note that the authors are allowing us to use these materials as a courtesy. As with all IQMR materials, they are made available for current attendees' use only.
 
 ## ACCESSING ZOTERO
-We will provide detailed instructions on accessing materials in the IQMR 2025 Zotero group.
+We will provide detailed instructions on accessing materials for each module in the IQMR 2025 Zotero group.
 
