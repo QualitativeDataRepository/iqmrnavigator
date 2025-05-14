@@ -293,7 +293,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title">Research Ethics, Surveys, and Interviews</div>
-                            <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
+                            <div class="session-instructors">Instructors: Lauren MacLean and Robert Mickey</div>
                         </div>
                     </td>
                     <td class="session-cell">
@@ -382,7 +382,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title">Interviews, Focus Groups, and Observation</div>
-                            <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
+                            <div class="session-instructors">Instructors: Diana Kapiszewski, Lauren MacLean, and Robert Mickey</div>
                         </div>
                     </td>
                     <td class="session-cell">
