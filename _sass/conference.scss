@@ -28,6 +28,20 @@ $fa-font-path: '/assets/webfonts' !default;
 @import 'leaflet/leaflet-locatecontrol';
 
 
+
+// IQMR Custom settings
+h2.module-sub {
+  margin-top: 2.5rem;
+}
+
+h2:has(+ h3) {
+  margin-bottom: 1rem; // Adjust value as needed
+}
+
+#module-date{
+  font-weight: bolder;
+  font-size: 1.5rem;
+}
 // Adapt Bootstrap Elements
 
 //   Alert
