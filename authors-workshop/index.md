@@ -116,21 +116,21 @@ Everyone!
 
 **9:30am-10:30am** -- Qin Huang, PhD Candidate, Department of Political Science, Northwestern University -- "Clustering, Conceptualization, and Typology: A Multi-Methods Approach Combining Machine-Learning Algorithms and Field Research"
 -   Discussants
-    -   Presenter
-    -   Mentor
+    -   Presenter: Sarah Dreier
+    -   Mentor: Alan Jacobs
 
 **10:30am-11:30am** -- Flavia Batista da Silva, PhD candidate, Department of Government and Politics, University of Maryland, College Park -- "Voices Behind the Data: Integrating Thick Description through Audio Responses in Survey Experiments"
 -   Discussants
-    -   Presenter
-    -   Mentor
+    -   Presenter: Klaudia Wegschaider
+    -   Mentor: Dan de Kadt
 
 **11:30am-11:45am** -- COFFEE BREAK
 
 **11:45am-12:45pm** -- Sarah Dreier, Assistant Professor, Department of Political Science, University of New Mexico -- "New Approaches for Annotating Real-World Data"
 
 -   Discussants
-    -   Presenter
-    -   Mentor
+    -   Presenter: Qin Huang
+    -   Mentor: Charles Crabtree
 
 **12:45pm to 2pm**
 
@@ -142,20 +142,20 @@ Everyone!
 
 **2:00pm-3:00pm** -- Elizabeth Parker-Magyar (Biff), Postdoctoral Fellow, Weatherhead Center for International Affairs, Harvard University and Assistant Professor, Department of Political Science, Yale University -- "Ethnographic Insights on Enumerating a Survey Eliciting Social Networks "
 -   Discussants
-    -   Presenter
-    -   Mentor
+    -   Presenter: Dhia Hammami
+    -   Mentor: Beth Leech
 
 **3:00pm-4:00pm** -- Mohamed Dhia Hammami, PhD candidate, Department of Political Science, Syracuse University -- "Network-Based Cluster Sampling: A Novel Approach to Elite Interview Recruitment"
 -   Discussants
-    -   Presenter
-    -   Mentor
+    -   Presenter: Biff Parker-Magyar
+    -   Mentor: Jonathan Renshon
 
 **4:00pm-4:15pm** -- COFFEE BREAK
 
 **4:15pm-5:15pm** -- Klaudia Wegschaider, Postdoctoral Associate, [Institution for Social and Policy Studies](https://isps.yale.edu/), Yale University -- **\"**Episode Analysis in Case Study Research"
 -   Discussants
-    -   Presenter
-    -   Mentor
+    -   Presenter: Flavia Batista da Silva
+    -   Mentor: Paul Staniland
 
 **5:15pm-5:30pm -- DEBRIEF and WRAP-UP**
 -   Next steps
