@@ -69,30 +69,31 @@ We will aim to transmit your reimbursement to you within two months after the wo
 Everyone!
 
 **9:15am-10:15am** -- James Mahoney (Professor), Talia Rueschemeyer-Bailey (PhD Candidate), and Ana Vedovato (PhD Candidate), Department of Political Science, Northwestern University -- "The Logic of Narrative Analysis: A Block Diagram Framework"
--   Discussant --
+-   Discussant -- Shagun Gupta
 
 **10:15am-11:15am** -- Jeffrey Checkel, Professor, Department of Political and Social Sciences, European University Institute (Italy) -- "Process Analytics: How, Why & Where Next"
--   Discussant --
+-   Discussant -- Emre Amasyali
 
 **11:15am-11:30am** -- COFFEE BREAK
 
 **11:30am-12:30pm** -- Shagun Gupta, PhD Candidate and Adjunct Instructor, School of International Service, American University -- "What\'s in an Interview? Follow-ups as Moments of Clarity and Information in Qualitative Research"
--   Discussant --
+-   Discussant -- Jeffrey Checkel
 
 **12:30pm to 1:45pm**
 
 **CATERED LUNCH**
 
 **1:45pm-2:45pm** -- Daniel de Kadt, Assistant Professor, London School of Economics (UK) -- Distance and Physical Space
--   Discussant --
+-   Discussant -- Mitchell Bosley
 
 **2:45pm-3:45pm** -- Mitchell Bosley, Postdoctoral Researcher at the Schwartz Reisman Institute for Technology and Society at the University of Toronto (Canada) -- "Towards Qualitative Measurement at Scale: A Prompt-Engineering Framework for Large-Scale Analysis of Deliberative Quality in Parliamentary Debates"
--   Discussant --
+-   Discussant -- Daniel de Kadt
 
 **3:45pm-4:00pm** -- COFFEE BREAK
 
-**4:00pm-5:00pm** -- Emre Amasyali, Postdoctoral Researcher, Institut Barcelona d'Estudis Internacionals (Spain) -- **\"**The Closing of the Social Science Mind: Anachronism's Pitfalls, Deadly Sins, and Varieties"
--   Discussant --
+**4:00pm-5:00pm** -- Emre Amasyali, Postdoctoral Researcher, Institut Barcelona d'Estudis Internacionals (Spain) -- "The Closing of the Social Science Mind: Anachronism's Pitfalls, Deadly Sins, and Varieties"
+-   Discussant -- James Mahoney / Talia Rueschemeyer-Bailey / Ana Vedovato
+
 
 **6:00pm**
 
