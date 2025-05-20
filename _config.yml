@@ -95,6 +95,8 @@ conference:
             relative_url: /participants
           - name: Lodging
             relative_url: /participants/lodging
+          - name: Module Descriptions
+            relative_url: /modules/
           - name: Choosing Modules
             relative_url: /participants/choosing-modules
           - name: Module Prerequisites

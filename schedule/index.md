@@ -592,7 +592,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Re-thinking Small-N Comparisons I</div>
+                            <div class="session-title"><a href="/modules/rethinking-small-n#re-thinking-small-n-comparisons-i-m32-june-26">Re-thinking Small-N Comparisons I</a></div>
                             <div class="session-instructors">Instructor: Nicholas Rush</div>
                         </div>
                     </td>
@@ -625,7 +625,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Re-thinking Small-N Comparisons II</div>
+                            <div class="session-title"><a href="/modules/rethinking-small-n#re-thinking-small-n-comparisons-ii-m36-june-27">Re-thinking Small-N Comparisons II</a></div>
                             <div class="session-instructors">Instructor: Nicholas Rush Smith</div>
                         </div>
                     </td>
