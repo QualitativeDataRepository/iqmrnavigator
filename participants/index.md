@@ -82,7 +82,7 @@ tr, td{padding-top:  0.25rem;
 <td>Complete Module selection form</td>
 <td>May 15</td>
 <td>June 1</td>
-<td>Module selection form</td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3w4yi9cObc72erA" target="_blank">Module selection form</a></td>
 </tr>
 <tr class="even">
 <td>Submit research design (See <a href="/participants/research-design-instructions">Research Design Instructions here</a>)</td>
