@@ -6,8 +6,6 @@ title: Geographic Information Systems (Modules 29, 33)
 Thursday, June 26; Friday, June 27
 {: #module-date}
 
-**Thursday, June 26; Friday, June 27**
-
 **Jonnell Robinson (Syracuse University)**
 
 This module sequence introduces participants to Geographic Information Systems (GIS), a tool for social science research. Hands-on sessions teach participants basic GIS mapping and spatial analysis techniques and principles of map visualization, particularly the tools that are most commonly used by social scientists. Sessions explore basic visualization and analytical functions such as building and displaying attribute table data on maps and mapping distributions and concentrations as multiple scales. The module also reviews the types and sources of data that are available for GIS users, the ethics of using mapping in research, and how to effectively communicate mapped data using professional cartographic design standards.. Other sessions introduce open source geovisualization and analysis tools including Open Street Map, Google My Maps, and QGIS; demonstrate data collection techniques for archival research, field work, participatory and community‐based mapping, and information about how and where to further hone GIS mapping and spatial analysis skills.
@@ -48,7 +46,7 @@ This session explores basic map visualization and spatial analysis functions suc
 
 **Required readings:**
 
-  - ESRI. (n.d.). *About ArcGIS Pro*. About ArcGIS Pro-ArcGIS Pro | Documentation. Retrieved May 10, 2023, from [https://pro.arcgis.com/en/pro-app/2.8/get-started/get-](https://pro.arcgis.com/en/pro-app/2.8/get-started/get-started.htm) [started.htm](https://pro.arcgis.com/en/pro-app/2.8/get-started/get-started.htm)
+  - ESRI. (n.d.). *About ArcGIS Pro*. About ArcGIS Pro-ArcGIS Pro Documentation. Retrieved May 10, 2023, from [https://pro.arcgis.com/en/pro-app/2.8/get-started/get-](https://pro.arcgis.com/en/pro-app/2.8/get-started/get-started.htm) [started.htm](https://pro.arcgis.com/en/pro-app/2.8/get-started/get-started.htm)
 
   - Branch, J. (2016). Geographic Information Systems (GIS) in International Relations. *International Organization*, 70(4), 845-869. [https://doi.org/10.1017/S0020818316000199](https://doi.org/10.1017/S0020818316000199)
 
