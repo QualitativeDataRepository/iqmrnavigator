@@ -6,8 +6,6 @@ title: Interpretive Methods (Modules 4, 8)
 Monday, June 16; Tuesday, June 17
 {: #module-date}
 
-**Monday, June 16; Tuesday, June 17**
-
 **Lisa Wedeen (University of Chicago) and William Mazzarella (University of Chicago)**
 
 This two-module sequence (Module 4 and 8) provides students with an introduction to various modes of discourse analysis and ideology critique. Students will learn to “read” texts while becoming familiar with contemporary thinking about interpretation, narrative, genre, and
@@ -31,7 +29,7 @@ This session introduces participants to Ludwig Wittgenstein’s thought and its 
 
   - Wittgenstein, *The Philosophical Investigations* (Translated by G.E.M. Anscombe), (Blackwell Publishers, 2001), Paragraphs 1-33; paragraph 154; pages 194-195.
 
-### 1:30pm - 3:00pm – Foucauldian Discourse Analysis (Wedeen)
+### 1:30pm - 3:00pm – Foucauldian Discourse Analysis
 
 **Lisa Wedeen**
 
