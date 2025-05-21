@@ -22,19 +22,21 @@ IQMR lingo
 Most instructional days follow the same schedule: 
 ------------------
 
+-   8:00--8:45am -- Breakfast
+  
 -   8:45--10:15am -- Module session 1
 
 -   10:15--10:45am -- Coffee Break
 
--   10:45am--12pm -- Research Design Discussion (not part of Module)
+-   10:45--12:00pm -- Research Design Discussion (not part of Module)
 
--   12:00-1:30pm -- Lunch
+-   12:00--1:30pm -- Lunch
 
--   1:30-3:00pm -- Module session 2
+-   1:30--3:00pm -- Module session 2
 
--   3-3:30pm -- Coffee Break
+-   3:00--3:30pm -- Coffee Break
 
--   3:30-5pm -- Module session 3
+-   3:30--5:00pm -- Module session 3
 
 [See the detailed day-by-day schedule for IQMR 2025](/schedule).
 
