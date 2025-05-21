@@ -6,8 +6,6 @@ title: Causal Inference from Causal Models (Modules 18, 22, 26)
 Monday, June 23; Tuesday, June 24; Wednesday, June 25
 {: #module-date}
 
-**Monday, June 23; Tuesday, June 24; Wednesday, June 25**
-
 **Alan Jacobs (University of British Columbia)**
 
 This module explores the use of causal models to design and implement qualitative and mixed-method empirical strategies of causal inference. A great deal of recent methodological progress in the social sciences has focused on how features of a research design – such as randomization by the researcher or by nature - can allow for causal identification with minimal assumptions. Yet, for many of the questions of greatest interest to social scientists and policymakers, randomization or its close equivalents are unavailable. We are, in short, often forced to rely on beliefs about how the world works - that is, on models. Based on the book *Integrated Inferences* by Macartan Humphreys and Alan Jacobs, this module examines how we can engage in systematic model-based causal inference. Specifically, we will explore how researchers can encode their prior knowledge in a causal model and learn about causation at the level of both individual cases and populations, using both qualitative and quantitative data. The advantages of this approach include making process tracing more analytically explicit and transparent, better connecting theory and data, and the integration of small-N and large-N methods in a manner that allows each approach to strengthen the other.  
