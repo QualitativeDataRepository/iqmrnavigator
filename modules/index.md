@@ -3,7 +3,7 @@ layout: page
 title: IQMR 2025 Modules
 ---
 
-*Below please find descriptions of the module sequences that will be offered at IQMR 2025. The module sequences are listed in alphabetical order (which does not match the order in which they will be offered). The descriptions will be iteratively added to and updated by IQMR instructors.*
+*Below please find descriptions of the module sequences that will be offered at IQMR 2025. The module sequences are listed in alphabetical order (which does not match the order in which they will be offered).*
 
 ## Bayesian Inference for Qualitative Research  
 *Tasha Fairfield*
@@ -35,7 +35,7 @@ This module explores three distinct contributions that CHA makes to our understa
 
 Overall, the module encourages students to spot elements of time that are hidden in their fields of research and explore how CHA can help them think about such elements more systematically, and thus enrich their analysis.
 
-## Designing and Conducting Fieldwork  
+## [Designing and Conducting Fieldwork](/modules/fieldwork)  
 *Diana Kapiszewski, Lauren MacLean, Robert Mickey, and Jessie Trudeau*
 
 This module sequence discusses strategies for designing, planning, and conducting fieldwork in the social sciences. We begin by considering the multiple aspects of preparing for field research, and then discuss some practical elements – with intellectual implications – of operating in the field. On the second day we talk through key questions relating to research ethics – the importance of which is discussed throughout the module sequence – and consider two “more-interactive” forms of data collection, surveys and interviews. The third module continues the discussion of interview techniques, and also covers focus groups, as well as the types of observation in which all social scientists who conduct field research engage. Finally, the fourth module considers the conduct of archival research, and the various ways in which scholars iterate on their research design and field research design as they conduct fieldwork. Each session of each module is conducted with the understanding that participants have carefully read the assigned materials. The instructors present key points drawing on the assigned readings, other published work on field research, and the experiences they and others have had with managing fieldwork's diverse challenges. Interaction and discussion in small and large groups is encouraged.
@@ -50,7 +50,7 @@ How can ethnographic methodologies and methods inform the study of politics? The
 
 The module sequence introduces participants to Geographic Information Systems (GIS) spatial data visualization and analysis. Six sessions provide participants with hands-on experience using ESRI’s ArcGIS software suite and a variety of open-source mapping programs including QGIS, Open Street Map, and Google My Maps. Participants will learn to locate and generate high quality spatial data, display mapped data using professional cartographic principles, perform basic spatial data analysis, and how to further hone their GIS skills. The modules also introduce critical GIS and review important ethical concerns when mapping socially constructed data. Participants are welcome to work with their own data during the mapping exercises. Participants will leave the module with the skills and confidence to create simple yet powerful maps.
 
-## Integrating Qualitative and Experimental Methods  
+## [Integrating Qualitative and Experimental Methods](/modules/integrating-qualitative-and-experimental-methods)  
 *Chris Carter, Charles Crabtree, Tesalia Rizzo Reyes, Guadalupe Tuñón*
 
 In this module sequence, we introduce natural and randomized experiments and discuss their strengths and limitations through a survey of recent examples from political science and economics. We introduce a common framework for understanding and assessing natural and randomized experiments based on the credibility of causal and statistical assumptions. We discuss tools for developing and accessing experimental designs, such as instrumental variable analysis, sampling principles, power analysis, data collection do's and don'ts as well as a variety of robustness tests. We then discuss how to bolster the credibility of natural and randomized experiments in the design stage. We will focus on the role of "ex-ante" approaches to improve the quality and transparency of research designs, such as the use of pre-analysis plans. The module incorporates applied research and practical advice, especially on how to conduct fieldwork, collect data, and analyze the logistics and ethics surrounding experiments. We end the module by evaluating the promise and obstacles to the use of multi-method research in the analysis of natural and randomized experiments. We discuss how qualitative methods can help address some of the criticisms of experiments, as well as how experiments can bolster the inferences drawn from qualitative evidence.
@@ -65,7 +65,7 @@ What is historical interpretation? In one sense interpretation is a part of all 
 
 This two-module sequence provides students with an introduction to various modes of discourse analysis and ideology critique. Students will learn to "read" texts while becoming familiar with contemporary thinking about interpretation, narrative, genre, and criticism. In the first four sessions we shall explore the following methods: Wittgenstein's understanding of language as activity and its practical relevance to ordinary language-use analysis; Foucault's "interpretive analytics" with hands-on exercises applying his genealogical method; and various versions (two sessions) of cultural Marxism—with specific attention to "ideology critique." The last two classes will consider how anthropological discussions of participant observation can unsettle current versions of fieldwork in political science including the limits of standardized codes of ethics for ethnographic research.
 
-## Logic of Qualitative Methods  
+## [Logic of Qualitative Methods](/modules/logic-of-qualitative-methods)  
 *James Mahoney, Gary Goertz, and Laura Garcia Montoya*
 
 These modules cover many classic and standard topics of qualitative methodology, with a special focus on how to write a qualitative dissertation or manuscript for publication as a book at an excellent university press. We survey the key research design, case selection, and theoretical issues that arise with such a project. The sessions use logic and set theory as a foundation for discussing and elucidating qualitative methods. The individual topics for the first module include a regularity theory of causality, a session on concepts and a session on multi-method research designs including Large-N qualitative analysis (LNQA), and case study research. The second module focuses on process tracing. After an introduction to process tracing, the module zooms in into two key topics: causal mechanisms and counterfactual analysis. The module concludes by demonstrating how to move from theoretical frameworks to practical applications, using real research examples that integrate process tracing and critical event analysis.
@@ -90,7 +90,7 @@ This module introduces students to *Qualitative Causal Inference (QCI),* a hybri
 
 Why do we compare? Typically, in political science research, causal inference is taken as the primary goal. Similarly, research that is generalizable to as many cases as possible tends to be valued more than research which can explain only a few. This unit will push past these assumptions in two ways. First, it will provide logics for generalization not rooted in ideas of statistical generalizability or mechanical reproduction. Second, it will expand the goals of comparison from causal inference to alternative practices like creative redescription or conceptual development. Third, we will explore how we can leverage strategies for rethinking comparison to address the practical challenges and unexpected discoveries that often upend pre-established research designs. When a "crisis of research design" strikes, how can researchers cope with partially implemented data collection plans to still generate meaningful theoretical and empirical insights? How can scholars salvage their research designs while maintaining methodological rigor? Finally, we will critique short research designs that will be provided in advance. Among other questions, we will ask ourselves: What kinds of claims can the author make with this research design and why? What are the limits on the kinds of claims they can make? How convincing is this research design? If you were on the selection committee of a funding agency, how would you rate this research design?
 
-## Text as Data
+## [Text as Data](//modules/text-as-data)
 
 *Fiona Shen-Bayh*
 

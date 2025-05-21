@@ -254,19 +254,19 @@ title: IQMR 2025 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Preparing for Fieldwork and Operating in the Field</div>
+                            <div class="session-title"><a href="/modules/fieldwork#preparing-for-fieldwork-and-operating-in-the-field-m1-june-16">Preparing for Fieldwork and Operating in the Field</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Text as Data</div>
+                            <div class="session-title"><a href="/modules/text-as-data#quantifying-texts-m2-june-16">Text as Data I</a></div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Logic of Qualitative Methods I</div>
+                            <div class="session-title"><a href="/modules/logic-of-qualitative-methods#logic-of-qualitative-methods-i-m3-june-16">Logic of Qualitative Methods I</a></div>
                             <div class="session-instructors">Instructors: James Mahoney, Gary Goertz and Laura Garcia</div>
                         </div>
                     </td>
@@ -292,19 +292,19 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Research Ethics, Surveys, and Interviews</div>
+                            <div class="session-title"><a href="/modules/fieldwork#research-ethics-surveys-and-interviews-m5-june-17">Research Ethics, Surveys, and Interviews</a></div>
                             <div class="session-instructors">Instructors: Lauren MacLean and Robert Mickey</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Text as Data</div>
+                            <div class="session-title"><a href="/modules/text-as-data#modeling-and-measuring-texts-m6-june-17">Text as Data II</a></div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Logic of Qualitative Methods II</div>
+                            <div class="session-title"><a href="/modules/logic-of-qualitative-methods#logic-of-qualitative-methods-ii-m7-june-17">Logic of Qualitative Methods II</a></div>
                             <div class="session-instructors">Instructors: James Mahoney, Gary Goertz and Laura Garcia</div>
                         </div>
                     </td>
@@ -325,7 +325,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Interviews, Focus Groups, and Observation</div>
+                            <div class="session-title"><a href="/modules/fieldwork#interviews-focus-groups-and-observation-m9-june-18">Interviews, Focus Groups, and Observation</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
                         </div>
                     </td>
@@ -381,7 +381,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Interviews, Focus Groups, and Observation</div>
+                            <div class="session-title"><a href="/modules/fieldwork#archival-research-and-dynamic-research-design-m13-june-20">Archival Research and Dynamic Research Design</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski, Lauren MacLean, and Robert Mickey</div>
                         </div>
                     </td>
@@ -470,7 +470,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Integrating Qualitative and Experimental Methods I</div>
+                            <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-i-m17-june-23">Integrating Qualitative and Experimental Methods I</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
                         </div>
                     </td>
@@ -508,7 +508,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Integrating Qualitative and Experimental Methods II</div>
+                            <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-ii-m21-june-24">Integrating Qualitative and Experimental Methods II</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
                         </div>
                     </td>
@@ -541,7 +541,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Integrating Qualitative and Experimental Methods III</div>
+                            <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-iii-m25-june-25">Integrating Qualitative and Experimental Methods III</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
                         </div>
                     </td>
