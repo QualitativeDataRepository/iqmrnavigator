@@ -6,8 +6,6 @@ title: Comparative Historical Analysis (Modules 11, 15)
 Wednesday, June 18; Friday, June 20
 {: #module-date}
 
-**Wednesday, June 18; Friday, June 20**
-
 **Marcus Kreuzer (Villanova University)**
 
 We live in a constantly emerging world in which studying changes across time are just as crucial as analyzing differences across cases to understand our contemporary politics. Comparative historical analysis (CHA) has long studied such historical changes and made important contributions to our understanding of how to use time to study the past. It goes back to the 19th century classics and shares more recently its ambitions with American Political Development, historical institutionalism, and a long historical tradition in international relations. These approaches all point out that time is to the past what grammar is to language and maps are to space: an essential tool of analysis. This module explores three distinct contributions that CHA makes to our understanding of time.
