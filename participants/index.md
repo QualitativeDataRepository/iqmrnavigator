@@ -89,7 +89,7 @@ tr, td{padding-top:  0.25rem;
 <td>Complete Research Design Submission form</td>
 <td>May 15</td>
 <td>June 1</td>
-<td>Research Design submission</td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_0oEXzQ6eTGTBuxU" target="_blank">Research Design submission</a></td>
 </tr>
 <tr class="odd">
 <td>Complete any required prerequisites for the modules you have decided to take</td>
