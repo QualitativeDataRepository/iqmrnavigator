@@ -6,8 +6,6 @@ title: Bayesian Inference for Qualitative Research (Modules 23, 27)
 Tuesday, June 24; Wednesday, June 25
 {: #module-date}
 
-**Tuesday, June 24; Wednesday, June 25**
-
 **Tasha Faifield (London School of Economics and Political Science)**
 
 The way we intuitively approach qualitative research is similar to how we read detective novels. We consider different hypotheses to explain what happened—whether democratization in South Africa, or the death of Samuel Ratchett on the Orient Express—drawing on the literature we have read (e.g. theories of regime change, or other Agatha Christie mysteries) and any other salient knowledge we have. As we gather evidence and discover clues, we update our views about which hypothesis provides the best explanation—or we may introduce a new alternative that we think up along the way. Bayesianism provides a logically rigorous and intuitive framework that governs how we should revise our views about which hypothesis is more plausible, given our relevant prior knowledge and the evidence that we find during our investigation. Bayesianism is enjoying a revival across many fields, and it offers a powerful tool for improving inference and analytic transparency in qualitative research.
