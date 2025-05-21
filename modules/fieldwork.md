@@ -6,10 +6,11 @@ title: Designing and Conducting Fieldwork (Modules 1, 5, 9, 13)
 Monday, June 16; Tuesday, June 17; Wednesday, June 18; Friday, June 20
 {: #module-date}
 
-
 **Diana Kapiszewski (Georgetown University), Lauren M. MacLean (Northeastern University), and Rob Mickey (University of Michigan), and Jessie Trudeau (Syracuse University)**
 
 This module sequence discusses strategies for designing, planning, and conducting fieldwork in the social sciences. We begin by considering the multiple aspects of preparing for field research, and then discuss some practical elements – with intellectual implications – of operating in the field. On the second day we talk through key questions relating to research ethics – the importance of which is discussed throughout the module sequence – and consider two “more-interactive” forms of data collection, surveys and interviews. The third module continues the discussion of interview techniques, and also covers focus groups, as well as the types of observation in which all social scientists who conduct field research engage. Finally, the fourth module considers the conduct of archival research, and the various ways in which scholars iterate on their research design and field research design as they conduct fieldwork. Each session of each module is conducted with the understanding that participants have carefully read the assigned materials. The instructors present key points drawing on the assigned readings, other published work on field research, and the experiences they and others have had with managing fieldwork's diverse challenges. Interaction and discussion in small and large groups is encouraged.
+
+**Book to Purchase:** Kapiszewski, D., MacLean, L. M., & Read, B. L. (2015). _Field research in political science: practices and principles._ Cambridge University Press.
 
 ***Participants may enter the module sequence after it has begun.***
 
@@ -46,7 +47,7 @@ Suggested readings:
 
   - Hummel, Calla, and Dana El Kurd. (2021). "Mental health and fieldwork." *PS: Political Science & Politics* 54.1: 121-125. [https://doi.org/10.1017/S1049096520001055](https://doi.org/10.1017/S1049096520001055)
     
-      - Digital Fieldwork website ([www.digitalfieldwork.org)](http://www.digitalfieldwork.org/)
+  - Digital Fieldwork website ([www.digitalfieldwork.org)](http://www.digitalfieldwork.org/)
 
 ### 1:30pm - 3:00pm – Preparing for Fieldwork 
 
@@ -209,17 +210,14 @@ Suggested readings:
 
 Suggested readings:
 
-  - 
 ### 3:30pm - 5:00pm – Observation and Ethnography (For All\!)
 
 **Lauren MacLean**
 
 **Required readings:**
 
-  - 
 Suggested readings:
 
-  - 
 ## Archival Research and Dynamic Research Design (M13, June 20)
 {: .module-sub }
 
