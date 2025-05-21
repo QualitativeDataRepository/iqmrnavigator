@@ -80,8 +80,8 @@ conference:
         menu:
           - name: Overview
             relative_url: /information
-        #  - name: Location
-        #    relative_url: /information/location/
+          - name: Zotero
+            relative_url: /information/zotero
         #  - name: Accommodations
         #    relative_url: /information/accommodations/
         #  - name: Travel

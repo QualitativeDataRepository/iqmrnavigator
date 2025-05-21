@@ -80,8 +80,8 @@ tr, td{padding-top:  0.25rem;
 <tr class="odd">
 <td>Select modules that you will take at IQMR</td>
 <td>Complete Module selection form</td>
-<td>May 15</td>
-<td>June 1</td>
+<td>May 20</td>
+<td>June 3</td>
 <td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3w4yi9cObc72erA" target="_blank">Module selection form</a></td>
 </tr>
 <tr class="even">
