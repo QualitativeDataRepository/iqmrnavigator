@@ -6,11 +6,11 @@ title: Process Tracing and Typological Theories (Modules 31, 35)
 Thursday, June 26; Friday, June 27
 {: #module-date}
 
-**Thursday, June 26; Friday, June 27**
-
 **Andy Bennett (Georgetown University)**
 
 This module examines the inferential logic of process tracing, which is used extensively in qualitative case studies. We will use Bayesian probability as one foundation for causal inference in process tracing, which entails assessing which hypothesis or theory provides the best explanation for the evidence at hand. We will cover practical advice for conducting process-tracing research as well as best practices for applying Bayesian reasoning in case study analysis. Finally, the module introduces typological theorizing as a way to address interaction effects and an aid in selecting cases for process tracing, and we will discuss examples of typological theories proposed in students' own work as well as in published research.
+
+**Book to Purchase:** Alexander L. George and Andrew Bennett, _Case Studies and Theory Development in the Social Sciences._ (2005)
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
@@ -37,9 +37,7 @@ Suggested readings:
 ### 1:30pm - 3:00pm – Traditional and Formal Bayesian Process Tracing
 
 
-This session outlines the method of process tracing and provides a brief introduction to formal Bayesian process tracing (those interested in learning further about formal Bayesian process
-
-tracing are highly encouraged to take Tasha Fairfield’s module on this topic, M31 and M35 in the second week of the institute on Thursday and Friday).
+This session outlines the method of process tracing and provides a brief introduction to formal Bayesian process tracing (those interested in learning further about formal Bayesian process tracing are highly encouraged to take Tasha Fairfield’s module on this topic, M31 and M35 in the second week of the institute on Thursday and Friday).
 
 **Required readings:**
 
