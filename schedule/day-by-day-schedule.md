@@ -25,7 +25,7 @@ title: Day-by-Day Schedule
 ## Tuesday, June 17
 
 -   Module Section A: Research Ethics, Surveys, and Interviews\
-    > Instructors: Diana Kapiszewski and Lauren MacLean
+    > Instructors: Diana Kapiszewski, Lauren MacLean, and Jessie Trudeau
 
 -   Module Section B: Text as Data\
     > Instructor: Fiona Shen-Bayh
@@ -57,7 +57,7 @@ title: Day-by-Day Schedule
 ## Friday, June 20
 
 -   Module Section A: Interviews, Focus Groups, and Observation\
-    > Instructors: Diana Kapiszewski and Lauren MacLean
+    > Instructors: Diana Kapiszewski, Lauren MacLean, RoB Mickey
 
 -   Module Section B: Qualitative Causal Inference\
     > Instructors: David Waldner and Ezequiel Gonzalez-Ocantos
