@@ -18,6 +18,8 @@ We live in a constantly emerging world in which studying changes across time are
 
 - Third, CHA draws heavily on process tracing to answer macro-historical questions but supplements it by highlighting temporal causal mechanisms (e.g. path dependency, sequencing, intercurrences, diffusion, tipping points) and the role causal diagrams play in the theorizing process.
 
+**Book to Purchase:** Marcus Kreuzer. _The Grammar of Time: A Toolkit for Comparative Historical Analysis_ (Cambridge: Cambridge University Press, 2023)
+
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
 ## Comparative Historical Analysis I (M11, June 18) 
@@ -45,8 +47,6 @@ Suggested readings:
   - Timmermans, Stefan, and Iddo Tavory. 2012. “Theory Construction in Qualitative Research: From Grounded Theory to Abductive Analysis.” *Sociological Theory* 30(3):167–86. doi: 10.1177/0735275112457914.
 
 ### 1:30pm - 3:00pm – Thinking Temporally: Varieties of Time
-
-# 
 
 Thinking historically involves thinking temporally. Historical thinking appears at first sight to involve a serendipitous and largely unsystematic sleuthing. On closer analysis, it is structured by deploying two notions of time—historical and physical time—as well as a specific temporal vocabulary. Temporal thinking does not come naturally and requires mastering this temporal vocabulary, just as statistics requires mastering probability theory. This session differentiates between four notions of historical time: cyclical, bounded, serial and eventful. Each notion freezes history to a different degree, foregrounds varying levels of contextual complexity, and serves distinct methodological purposes.
 
