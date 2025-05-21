@@ -6,8 +6,6 @@ title: Integrating Qualitative and Experimental Methods (Modules 17, 21, 25)
 Monday, June 23; Tuesday, June 24, Wednesday, June 25
 {: #module-date}
 
-**Monday, June 23; Tuesday, June 24, Wednesday, June 25**
-
 **Chris Carter (University of Virginia), Guadalupe Tuñón (Princeton University), Tesalia Rizzo Reyes (UC Merced), Charles Crabtree (Dartmouth College)**
 
 In this module sequence, we introduce natural and randomized experiments and discuss their strengths and limitations through a survey of recent examples from political science and economics. We introduce a common framework for understanding and assessing natural and randomized experiments based on the credibility of causal and statistical assumptions. We discuss tools for developing and accessing experimental designs, such as instrumental variable analysis, sampling principles, power analysis, data collection do’s and don’ts as well as a variety of robustness tests. We then discuss how to bolster the credibility of natural and randomized experiments in the design stage. We will focus on the role of “ex-ante” approaches to improve the quality and transparency of research designs, such as the use of pre-analysis plans. The module incorporates applied research and practical advice, especially on how to conduct fieldwork, collect data, and analyze the logistics and ethics surrounding experiments. We end the module by evaluating the promise and obstacles to the use of multi-method research in the analysis of natural and randomized experiments. We discuss how qualitative methods can help address some of the criticisms of experiments, as well as how experiments can bolster the inferences drawn from qualitative evidence.
@@ -37,9 +35,7 @@ Suggested Reading:
 
   - Jeremy Ferwerda and Nicholas Miller. (2015). “Rail Lines and Demarcation Lines: A Response”
 
-  - Gerber, A. S., & Green, D. P. (2008). “Field experiments and natural
-
-experiments.” In *The Oxford Handbook of Political Science*.
+  - Gerber, A. S., & Green, D. P. (2008). “Field experiments and natural experiments.” In *The Oxford Handbook of Political Science*.
 
   - Rosenbaum, P. (2010). *Design of Observational Studies*. Springer. Chapter 3. (ebook pdf is also available at SU library)
 
@@ -55,9 +51,9 @@ In this session, we discuss the role of causal and statistical assumptions in th
 
 Suggested Readings:
 
-  - 17.2.2. Clingingsmith, D., Khwaja, A. I., & Kremer, M. (2009). Estimating the impact of the Hajj: religion and tolerance in Islam's global gathering. *The Quarterly Journal of Economics*, 124(3), 1133-1170.
+  - Clingingsmith, D., Khwaja, A. I., & Kremer, M. (2009). Estimating the impact of the Hajj: religion and tolerance in Islam's global gathering. *The Quarterly Journal of Economics*, 124(3), 1133-1170.
 
-  - 17.2.3. Di Tella, R., Galiant, S., & Schargrodsky, E. (2007). “The formation of beliefs: evidence from the allocation of land titles to squatters.” *The Quarterly Journal of Economics*, 122(1), 209-241.
+  - Di Tella, R., Galiant, S., & Schargrodsky, E. (2007). “The formation of beliefs: evidence from the allocation of land titles to squatters.” *The Quarterly Journal of Economics*, 122(1), 209-241.
 
 ### 3:30pm - 5:00pm – Multi-method approaches to Regression-Discontinuity (RD) Designs
 
@@ -69,9 +65,8 @@ In this session we focus on a second broad category of natural experiments, regr
 
   - Dunning, T. (2012). *Natural experiments in the social sciences: A design-based approach*. Cambridge University Press. Chapter 3. (Book to obtain, ebook pdf is available at SU library)
 
-  - Hinnerich, B. T., & Pettersson-Lidbom, P. (2014). “Democracy, redistribution, and
+  - Hinnerich, B. T., & Pettersson-Lidbom, P. (2014). “Democracy, redistribution, and political participation: Evidence from Sweden 1919–1938.” *Econometrica*, 82(3), 961-993.
 
-political participation: Evidence from Sweden 1919–1938.” *Econometrica*, 82(3), 961-993.
 Suggested Readings:
 
   - Posner, D. N. (2004). The political salience of cultural difference: Why Chewas and Tumbukas are allies in Zambia and adversaries in Malawi. *American Political Science Review*, 98(4), 529-545.
@@ -230,8 +225,7 @@ Suggested Additional Cases:
   - Bhandari, A. (2022). Political determinants of economic exchange: evidence from a business experiment in Senegal. *American Journal of Political Science*, *66*(4), 835-852.
 
   - Cantoni, D., Yang, D. Y., Yuchtman, N., & Zhang, Y. J. (2019). Protests as strategic games: Experimental evidence from Hong Kong's anti-authoritarian movement. *Quarterly Journal of Economics*, 134(2), 1021–1077.
-
-#   
+  
 
 ### 1:30pm - 3:00pm – Advanced Topics in Experiments: Ecological validity
 
@@ -241,10 +235,8 @@ In this session, we examine ecological validity in survey experiments, focusing 
 
 **Required readings:**
 
-  - 
 Suggested readings:
 
-  - 
 ### 3:30pm - 5:00pm – Advanced Topics in Experiments: Information Equivalence
 
 Crabtree
@@ -253,7 +245,4 @@ In this session, we examine information equivalence in survey experiments, focus
 
 **Required readings:**
 
-  - 
 Suggested readings:
-
-  - 
