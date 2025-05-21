@@ -14,6 +14,8 @@ The way we intuitively approach qualitative research is similar to how we read d
 
 The principles we will cover in this module can be applied to single case studies (within-case analysis), comparative case studies (cross-case analysis), and multi-method research that draws on both qualitative evidence and quantitative data. Throughout, we will work with examples and exercises drawn from published social science research.
 
+**Book to Purchase:** Tasha Fairfield, and Andrew Charman. 2022. _Social Inquiry and Bayesian Inference: Rethinking Qualitative Research._ Cambridge University Press.
+
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged. The material is highly cumulative.***
 
 ## Bayesian Inference for Qualitative Research I (M23, June 24) 
