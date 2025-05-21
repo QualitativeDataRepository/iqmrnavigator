@@ -235,7 +235,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content special-content">
-                            <div class="session-title">Unified sessions</div>
+                            <div class="session-title"><a href="/modules/unified">Unified sessions</a></div>
                             <div class="session-instructors">Instructors: James Mahoney, Jaye Seawright and Lisa Wedeen</div>
                         </div>
                     </td>
@@ -272,7 +272,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Interpretive Methods I</div>
+                            <div class="session-title"><a href="/modules/interpretive-methods#interpretive-methods-i-m4-june-16">Interpretive Methods I</a></div>
                             <div class="session-instructors">Instructors: Lisa Wedeen and William Mazzarella</div>
                         </div>
                     </td>
@@ -310,7 +310,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Interpretive Methods II</div>
+                            <div class="session-title"><a href="/modules/interpretive-methods#interpretive-methods-ii-m8-june-17">Interpretive Methods II</a></div>
                             <div class="session-instructors">Instructors: Lisa Wedeen and William Mazzarella</div>
                         </div>
                     </td>
@@ -331,13 +331,13 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Qualitative Causal Inference</div>
+                            <div class="session-title"><a href="/modules/qualitative-causal-inference#qualitative-causal-inference-fundamentals-and-applications-i-m10-june-18">Qualitative Causal Inference I</a></div>
                             <div class="session-instructors">Instructors: David Waldner and Ezequiel Gonzalez-Ocantos</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Comparative Historical Analysis I</div>
+                            <div class="session-title"><a href="/modules/comparative-historical-analysis#comparative-historical-analysis-i-m11-june-18">Comparative Historical Analysis I</a></div>
                             <div class="session-instructors">Instructor: Marcus Kreuzer</div>
                         </div>
                     </td>
@@ -387,13 +387,13 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Qualitative Causal Inference</div>
+                            <div class="session-title"><a href="/modules/qualitative-causal-inference#qualitative-causal-inference-fundamentals-and-applications-ii-m14-june-20">Qualitative Causal Inference II</a></div>
                             <div class="session-instructors">Instructors: David Waldner and Ezequiel Gonzalez-Ocantos</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Comparative Historical Analysis II</div>
+                            <div class="session-title"><a href="/modules/comparative-historical-analysis#comparative-historical-analysis-ii-m15-june-20">Comparative Historical Analysis II</a></div>
                             <div class="session-instructors">Instructor: Marcus Kreuzer</div>
                         </div>
                     </td>
@@ -413,7 +413,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content workshop-content">
-                            <div class="session-title">Weekend Workshops – Advances in Qualitative and Multi-Method Research</div>
+                            <div class="session-title">Weekend Workshops – <a href="/authors-workshop/#advances-in-qualitative-and-multi-method-research">Advances in Qualitative and Multi-Method Research</a></div>
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>
@@ -448,7 +448,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content workshop-content">
-                            <div class="session-title">Weekend Workshops – Emerging Methodologists Workshop</div>
+                            <div class="session-title">Weekend Workshops – <a href="/authors-workshop/#emerging-methodologists-workshop">Emerging Methodologists Workshop</a></div>
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>
@@ -476,13 +476,13 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Causal Inference from Causal Models I</div>
+                            <div class="session-title"><a href="/modules/causal-inference-from-causal-models#what-is-a-causal-model-m18-june-23">Causal Inference from Causal Models I</a></div>
                             <div class="session-instructors">Instructor: Alan Jacobs</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Choosing Spatial Units of Analysis</div>
+                            <div class="session-title"><a href="/modules/choosing-spatial-units-of-analysis">Choosing Spatial Units of Analysis</a></div>
                             <div class="session-instructors">Instructor: Hillel Soifer</div>
                         </div>
                     </td>
@@ -514,13 +514,13 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Causal Inference from Causal Models II</div>
+                            <div class="session-title"><a href="/modules/causal-inference-from-causal-models#causal-models-for-case-level-inquiry-process-tracing-m22-june-24">Causal Inference from Causal Models II</a></div>
                             <div class="session-instructors">Instructor: Alan Jacobs</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Bayesian Inference for Qualitative Research II</div>
+                            <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#bayesian-inference-for-qualitative-research-i-m23-june-24">Bayesian Inference for Qualitative Research I</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
                         </div>
                     </td>
@@ -547,13 +547,13 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Causal Inference from Causal Models III</div>
+                            <div class="session-title"><a href="/modules/causal-inference-from-causal-models#mixing-methods-with-causal-models-m26-june-25">Causal Inference from Causal Models III</a></div>
                             <div class="session-instructors">Instructor: Alan Jacobs</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Bayesian Inference for Qualitative Research III</div>
+                            <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#bayesian-inference-for-qualitative-research-ii-m27-june-25">Bayesian Inference for Qualitative Research II</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
                         </div>
                     </td>
@@ -574,19 +574,19 @@ title: IQMR 2025 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Geographic Information Systems I</div>
+                            <div class="session-title"><a href="/modules/geographic-information-systems#geographic-information-systems-i-m29-june-26">Geographic Information Systems I</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Multi-Method Research I</div>
+                            <div class="session-title"><a href="/modules/multi-method-research#multi-method-research-i-m30-june-26">Multi-Method Research I</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Process Tracing and Typological Theories I</div>
+                            <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#process-tracing-and-typological-theories-i-m31-june-26">Process Tracing and Typological Theories I</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
                         </div>
                     </td>
@@ -607,19 +607,19 @@ title: IQMR 2025 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Geographic Information Systems II</div>
+                            <div class="session-title"><a href="/modules/geographic-information-systems#geographic-information-systems-ii-m33-june-27">Geographic Information Systems II</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Multi-Method Research II</div>
+                            <div class="session-title"><a href="/modules/multi-method-research#multi-method-research-ii-m34-june-27">Multi-Method Research II</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Process Tracing and Typological Theories II</div>
+                            <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#process-tracing-and-typological-theories-ii-m34-june-27">Process Tracing and Typological Theories II</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
                         </div>
                     </td>

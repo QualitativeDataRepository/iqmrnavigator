@@ -130,9 +130,7 @@ conference:
             relative_url: /instructors/honoraria-logistics
       - name: Weekend Workshops
         relative_url: /authors-workshop/
-        menu:
-          - name: Overview
-            relative_url: /authors-workshop/
+
      
 
   # Link Preview for Sharing
