@@ -6,11 +6,11 @@ title: Multi-Method Research (Modules 30, 34)
 Thursday, June 26; Friday, June 27
 {: #module-date}
 
-**Thursday, June 26; Friday, June 27**
-
 **Jaye Seawright (Northwestern University)**
 
 This module sequence looks at how to productively combine qualitative and quantitative methods. For example, one session looks closely at adding case studies to regression, offering research designs for testing assumptions connected with measurement, confounding, and the existence of a hypothesized causal path. Another will investigate case selection, asking how cases should best be selected from a larger population. Participants will also investigate how multi-method research works in the context of random (or as-if random) assignment, exploring how to design case studies in conjunction with experimental or natural-experimental research. Another session will consider what tools from statistics and machine learning can add to causal inferences based on process tracing. We will also consider mixed-method designs aimed at concept formation and measurement.
+
+**Book to Purchase:** Seawright, Jason. 2016. _Multi-Method Social Science: Combining Qualitative and Quantitative Tools._ Cambridge: Cambridge University Press.
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
