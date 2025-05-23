@@ -231,18 +231,90 @@ Suggested Additional Cases:
 
 **Crabtree**
 
-In this session, we examine ecological validity in survey experiments, focusing on how well experimental findings generalize to real-world settings. We discuss how qualitative methods can help assess external validity, uncover contextual factors that shape responses, and improve study design. We review recent applications and explore strategies for strengthening ecological validity.
+In this session, we examine ecological validity in survey experiments,
+focusing on how well experimental findings generalize to real-world
+settings. We discuss how qualitative methods can help assess external
+validity, uncover contextual factors that shape responses, and improve
+study design. We review recent experimental work, explore ecological
+limitations, and outline strategies and concrete recommendations for
+strengthening ecological validity. To ground understanding of this
+issue, we’ll work through a toy research design that examines race-based
+discrimination.
 
 **Required readings:**
 
+  -  Trochim, W. M., & Donnelly, J. P. (2001). *Research methods
+     knowledge base* (Vol. 3). Cincinnati, OH: Atomic dog publishing.
+     Chapter 3.
+
+  -  Kaufman, A., Celaya, C., & Grumbach, J. (2024). Improving
+     Compliance in Experimental Studies of Discrimination. *Journal of
+     Politics.*
+
+  -  Crabtree, C., Holbein, J., & Gaddis, M. S. (2025). How Should
+     Researchers Signal Race in Correspondence Audits? Considering The
+     Experimental Validity of Names and Photographs. *Working paper*.
+
 Suggested readings:
+
+  -  Costello, T. H., Pennycook, G., & Rand, D. G. (2024). Durably
+     reducing conspiracy beliefs through dialogues with AI. *Science*,
+     *385*(6714), eadq1814.
+
+  -  Brutger, R., Kertzer, J. D., Renshon, J., Tingley, D., & Weiss, C.
+     M. (2023). Abstraction and detail in experimental design.
+     *American Journal of Political Science*, *67*(4), 979-995.
+
+  -  Druckman, J. N., & Green, D. P. (Eds.). (2021). *Advances in
+     experimental political science*. Cambridge University Press.
+     Selections.
+
+  -  Kihlstrom, J. F. (2021). Ecological validity and “ecological
+     validity”. *Perspectives on Psychological Science*, *16*(2),
+     466-471.
+
+  -  Westreich, D., Edwards, J. K., Lesko, C. R., Cole, S. R., &
+     Stuart, E. A. (2019). Target validity and the hierarchy of study
+     designs. *American journal of epidemiology*, *188*(2), 438-443.
 
 ### 3:30pm - 5:00pm – Advanced Topics in Experiments: Information Equivalence
 
-Crabtree
+**Crabtree**
 
-In this session, we examine information equivalence in survey experiments, focusing on how experimental treatments convey meaning to respondents. We discuss challenges in ensuring treatments are understood as intended and explore how qualitative methods can identify variation in interpretation. We review recent applications and strategies for designing treatments with high levels of construct validity.
+In this session, we examine information equivalence in survey
+experiments, focusing on how experimental treatments convey meaning to
+respondents. We discuss challenges in ensuring treatments are understood
+as intended and explore how qualitative methods can identify variation
+in interpretation. We review recent experimental work, explore issues
+related to information equivalence, and outline strategies and concrete
+recommendations for designing treatments with high levels of construct
+validity. To ground understanding of this issue, we’ll work through a
+toy research design that examines gender-based discrimination.
 
 **Required readings:**
 
+  -  Trochim, W. M., & Donnelly, J. P. (2001). *Research methods
+     knowledge base* (Vol. 3). Cincinnati, OH: Atomic dog publishing.
+     Chapter 3.
+
+  -  Dafoe, A., Zhang, B., & Caughey, D. (2018). Information
+     equivalence in survey experiments. *Political Analysis*, *26*(4),
+     399-416.
+
+  -  Hou, Y., Liu, C., & Crabtree, C. (2020). Anti-Muslim bias in the
+     Chinese labor market. *Journal of Comparative Economics*, *48*(2),
+     235-250.
+
 Suggested readings:
+
+  -  Druckman, J. N., & Green, D. P. (Eds.). (2021). *Advances in
+     experimental political science*. Cambridge University Press.
+     Selections.
+
+  -  Crabtree, C., Gaddis, S. M., Holbein, J. B., & Larsen, E. N.
+     (2022). Racially distinctive names signal both race/ethnicity and
+     social class. *Sociological Science*, *9*, 454-472.
+
+  -  Adcock, R., & Collier, D. (2001). Measurement validity: A shared
+     standard for qualitative and quantitative research. *American
+     Political Science Review*, *95*(3), 529-546.
