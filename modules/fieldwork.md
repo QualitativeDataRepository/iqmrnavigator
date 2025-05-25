@@ -10,11 +10,9 @@ Monday, June 16; Tuesday, June 17; Wednesday, June 18; Friday, June 20
 
 This module sequence discusses strategies for designing, planning, and conducting fieldwork in the social sciences. We begin by considering the multiple aspects of preparing for field research, and then discuss some practical elements – with intellectual implications – of operating in the field. On the second day we talk through key questions relating to research ethics – the importance of which is discussed throughout the module sequence – and consider two “more-interactive” forms of data collection, surveys and interviews. The third module continues the discussion of interview techniques, and also covers focus groups, as well as the types of observation in which all social scientists who conduct field research engage. Finally, the fourth module considers the conduct of archival research, and the various ways in which scholars iterate on their research design and field research design as they conduct fieldwork. Each session of each module is conducted with the understanding that participants have carefully read the assigned materials. The instructors present key points drawing on the assigned readings, other published work on field research, and the experiences they and others have had with managing fieldwork's diverse challenges. Interaction and discussion in small and large groups is encouraged.
 
-**Book to Purchase:** Kapiszewski, D., MacLean, L. M., & Read, B. L. (2015). _Field research in political science: practices and principles._ Cambridge University Press.
-
 ***Participants may enter the module sequence after it has begun.***
 
-## Preparing for Fieldwork and Operating in the Field (M1 June 16) 
+## Preparing for Fieldwork and Operating in the Field (M1, June 16) 
 {: .module-sub }
 
 This module introduces the fieldwork module sequence, considering the structure of the modules and presenting some of the overarching themes we will consider over the next three days. The module then begins to discuss the design, planning, and execution of field research. We offer strategies for addressing the intellectual, social, emotional, health, and logistical challenges that carrying out field research can involve. Each session is conducted with the understanding that participants have carefully read the assigned materials. The instructors present key points drawing on the assigned readings, other published work on field research, and the experiences they and others have had with managing fieldwork’s diverse challenges. Interaction and discussion in small and large groups is encouraged.
@@ -47,7 +45,7 @@ Suggested readings:
 
   - Hummel, Calla, and Dana El Kurd. (2021). "Mental health and fieldwork." *PS: Political Science & Politics* 54.1: 121-125. [https://doi.org/10.1017/S1049096520001055](https://doi.org/10.1017/S1049096520001055)
     
-  - Digital Fieldwork website ([www.digitalfieldwork.org)](http://www.digitalfieldwork.org/)
+      - Digital Fieldwork website ([www.digitalfieldwork.org)](http://www.digitalfieldwork.org/)
 
 ### 1:30pm - 3:00pm – Preparing for Fieldwork 
 
@@ -61,7 +59,7 @@ This session addresses pre-dissertation and other exploratory research, logistic
 
   - Przeworski, A., & Salomon, F. (1995). The art of writing proposals: Some candid suggestions for applicants to Social Science Research Council competitions. *Social Science Research Foundation*.
 
-  - Symposium: Back to the Field: Uncertainty and Risk in Field Research. (2022) *Qualitative and Multi-Method Research.* Vol 20.2. Contributors: Jannis J. Grimm, Ellen Lust, Kevin Koehler, Sarah E. Parkinson, Isabell Schierenbeck, and Dina Zayed. https://[www.qmmrpublication.com/\_files/ugd/7e043e\_dcf1320d629441a9a5cb93be211b1](http://www.qmmrpublication.com/_files/ugd/7e043e_dcf1320d629441a9a5cb93be211b1) 85f.pdf
+  - Symposium: Back to the Field: Uncertainty and Risk in Field Research. (2022) *Qualitative and Multi-Method Research.* Vol 20.2. Contributors: Jannis J. Grimm, Ellen Lust, Kevin Koehler, Sarah E. Parkinson, Isabell Schierenbeck, and Dina Zayed. [https://www.qmmrpublication.com/\_files/ugd/7e043e\_dcf1320d629441a9a5cb93be211b185f.pdf](http://www.qmmrpublication.com/_files/ugd/7e043e_dcf1320d629441a9a5cb93be211b185f.pdf) 
 
 Suggested readings:
 
@@ -70,6 +68,8 @@ Suggested readings:
   - Barrett, C. B., & Cason, J. (2020). Predeparture Preparations. *Overseas research II: A practical guide*. Routledge. (ebook pdf is available at SU library)
 
   - Altman, M. (2009). Funding, funding. *PS: Political Science & Politics*, *42*(03), 521-526. doi:10.1017/S1049096509090830
+
+  - Awal, Mohammed, et al. Forthcoming. “Perfect Planning May be Impossible… but You *Can* Work to Change Knowledge Production.” In *The Handbook of Field Research*, edited by Naomi Holmes and Dan Hammett, Routledge.
 
 ### 3:30pm - 5:00pm – Operating in the Field: Overview of Data-Collection Techniques 
 
@@ -98,18 +98,19 @@ Suggested readings:
 ## Research Ethics, Surveys, and Interviews (M5, June 17)
 {: .module-sub }
 
-This module begins with a discussion of research ethics. The rest of the sessions of this module and the first two of the following module in this sequence consider a range of “more-interactive” data-collection techniques, i.e., techniques in which information is obtained or generated through interacting with people. We discuss surveys and focus groups, and conclude with two sessions on interviewing. We consider both the digital and traditional forms of all of these techniques, and the ethical underpinnings of each.
+This module begins with a discussion of research ethics. The rest of the sessions of this module and the first two of the following modules in this sequence consider a range of “more-interactive” data-collection techniques, i.e., techniques in which information is obtained or generated through interacting with people. We discuss surveys and focus groups, and conclude with two sessions on interviewing. We consider both the digital and traditional forms of all of these techniques, and the ethical underpinnings of each.
 
 ### 8:45am - 10:15am – Research Ethics
 
 **Diana Kapiszewski, Lauren M. MacLean, and Jessie Trudeau**
+
 Research ethics form the bedrock of all social science inquiry. We consider when and how ideas about research ethics in the social sciences developed and became formalized, and discuss the rules and organizations that guide and regulate research ethics in the social sciences. We also think through the various dimensions of ethics in practice, and reasons why social scientists may design, conduct, and disseminate research more or less ethically. We argue that research that is conducted ethically is better research, and consider three pathways through which the ethical conduct of inquiry strengthens research and foments the cumulation of knowledge: contextualization, reflexivity and transparency.
 
 **Required readings:**
 
-  - Baarts, C. (2009). Stuck in the middle: Research ethics caught between science and politics. *Qualitative Research*, 9, 423–439.
+  - Baarts, C. (2009). “Stuck in the middle: Research ethics caught between science and politics.” *Qualitative Research*, 9, 423–439.
 
-  - Bailey, Kenneth D. 1988. “Ethical Dilemmas in Social Problems Research: A Theoretical Framework.” The American Sociologist 19 (2): 121-137. [https://https://doi.article/10.1007/BF02691806](about:blank).
+  - Bailey, Kenneth D. 1988. “Ethical Dilemmas in Social Problems Research: A Theoretical Framework.” The American Sociologist 19 (2): 121-137. [https://https://doi.article/10.1007/BF02691806](https://https://doi.article/10.1007/BF02691806).
 
   - Wackenhut, A. F. (2018). “Ethical Considerations and Dilemmas Before, During and After Fieldwork in Less-Democratic Contexts: Some Reflections from Post-Uprising Egypt.” *The American Sociologist*, 49(2), 242-257.
 
@@ -117,29 +118,31 @@ Research ethics form the bedrock of all social science inquiry. We consider when
 
 Suggested readings:
 
+  - Porisky, Alesha and Lauren M. MacLean. Forthcoming. “The Ethics of Compensation in Political Science Research.” *Comparative Political Studies*.
+
   - Cronin-Furman, Kate, and Milli Lake. 2018. “Ethics Abroad: Fieldwork in Fragile and Violent Contexts.” *PS: Political Science & Politics* 51 (3): 607–14.
 
   - Parkinson, S. E. (2022). (Dis)courtesy Bias: “Methodological Cognates,” Data Validity, and Ethics in Violence-Adjacent Research. *Comparative Political Studies*, 55(3), 420–450. [https://doi.org/10.1177/00104140211024309](https://doi.org/10.1177/00104140211024309)
 
-  - Müller-Funk, L. (2021). Research with Refugees in Fragile Political Contexts: How Ethical Reflections Impact Methodological Choices, *Journal of Refugee Studies* 34, no 2, 2308–2332, <https://doi.org/10.1093/jrs/feaa013.
+  - Müller-Funk, L. (2021). “Research with Refugees in Fragile Political Contexts: How Ethical Reflections Impact Methodological Choices,” *Journal of Refugee Studies* 34, no 2, 2308–2332, [https://doi.org/10.1093/jrs/feaa013](https://doi.org/10.1093/jrs/feaa013).
 
-  - Davis, J. M., & Wilfahrt, M. (2023). Enumerator Experiences in Violent Research Environments. Comparative Political Studies, 57(4), 675-709. https://doi.org/10.1177/00104140231178735
+  - Davis, J. M., & Wilfahrt, M. (2023). “Enumerator Experiences in Violent Research Environments.” *Comparative Political Studies*, 57(4), 675-709. [https://doi.org/10.1177/00104140231178735](https://doi.org/10.1093/jrs/feaa013)
 
-### 1:30pm - 3:00pm – Surveys 
+### 1:30pm - 3:00pm – The Benefits and Challenges of Surveys 
 
 **Lauren M. MacLean and Jessie Trudeau**
 
-This session introduces surveys as a data collection technique. It considers the benefits and challenges of conducting surveys, and what survey data can teach us about the world. We introduce important research choices related to fieldwork and survey implementation, including survey mode, sampling, and questionnaire design.
+This session introduces surveys as a data collection technique. It considers the benefits and challenges of conducting surveys, and what survey data can teach us about the world. We introduce important research choices related to fieldwork and survey implementation, including survey mode, sampling, and questionnaire design. We emphasize the importance of connecting the data collection plan for your project to the questions included in your questionnaire and anticipating the potential model and analysis. We discuss the costs and benefits of different types of survey question types.
 
 **Required readings:**
 
   - Kapiszewski, D., MacLean, L.M., Read, B.L. (2015). Surveys in the Context of Field Research. *Field Research in Political Science: Practices and Principles*. Cambridge University Press*.* Chapter 8. (book to purchase)
 
-  - Jensenius, F. (2014). The Fieldwork of Quantitative Data Collection. *PS: Political Science & Politics*, 47(2), 402-404. doi:10.1017/S1049096514000298
+  - Jensenius, F. (2014). “The Fieldwork of Quantitative Data Collection.” *PS: Political Science & Politics*, 47(2), 402-404. doi:10.1017/S1049096514000298
 
 Suggested readings:
 
-  - Brady, H. E. (2000). Contributions of survey research to political science. *PS: Political Science & Politics*, *33*(01), 47-58. DOI: [10.2307/420775](http://www.jstor.org/stable/420775?origin=crossref&seq=1&page_scan_tab_contents)
+  - Brady, H. E. (2000). “Contributions of survey research to political science.” *PS: Political Science & Politics*, *33*(01), 47-58. DOI: [10.2307/420775](http://www.jstor.org/stable/420775?origin=crossref&seq=1&page_scan_tab_contents)
 
   - Schaeffer, N. C., & Presser, S. (2003). The science of asking questions. *Annual review of sociology*, *29*(1), 65-88. DOI: [10.1146/annurev.soc.29.110702.110112](https://doi.org/10.1146/annurev.soc.29.110702.110112)
 
@@ -149,11 +152,11 @@ Suggested readings:
 
   - Stantcheva, S. 2022. “How to Run Surveys.” https://scholar.harvard.edu/files/stantcheva/files/How\_to\_run\_surveys\_Stantcheva.pdf
 
-### 3:30pm - 5:00pm – Surveys and Interviews
+### 3:30pm - 5:00pm – Surveys and Qualitative Interviews
 
 **Lauren M. MacLean, Jessie Trudeau, and Diana Kapiszewski**
 
-This session continues the previous discussion about surveys, focusing on the use of cognitive interviews for survey development and asking sensitive questions. We then begin to consider the many challenges and opportunities that conducting interviews in the field entails. We discuss different types of interviews, interview preparation before leaving for the field and once arrived, respondent selection, and the design of interview protocols. Throughout, we offer a range of practical advice.
+This session continues the previous discussion about survey interviews, focusing on the use of cognitive interviews for survey development and asking sensitive questions. We then begin to consider the many challenges and opportunities that conducting interviews in the field entails. We discuss different types of interviews, interview preparation before leaving for the field and once arrived, respondent selection, and the design of interview protocols. Throughout, we offer a range of practical advice.
 
 **Required readings:**
 
@@ -163,7 +166,7 @@ This session continues the previous discussion about surveys, focusing on the us
 
   - Tavory, I. (2020) Interviews and Inference: Making Sense of Interview Data in Qualitative Research. *Qualitative Sociology* 43, 449–465
 
-  - Bleich, E. & Pekkanen, R. (2013) How to Report Interview Data. *Interview Research in Political Science.* Cornell University Press. (ebook pdf is available at SU library)
+  - Bleich, E. & Pekkanen, R. (2013) “How to Report Interview Data.” *Interview Research in Political Science.* Cornell University Press. (ebook pdf is available at SU library)
 
 Suggested readings:
 
@@ -171,7 +174,7 @@ Suggested readings:
 
   - Soss, J. (2006). Talking our way to meaningful explanations. *Interpretation and method: Empirical research methods and the interpretive turn*. Taylor and Francis. P. 127-149. (ebook pdf is available at SU library)
 
-## Interviews, Focus Groups, and Observation (M9, June 18)
+## Interviews, Focus Groups, and Ethnographic Observation (M9, June 18)
 {: .module-sub }
 
 This module continues to consider “more-interactive” data-collection techniques, i.e., techniques in which information is obtained or generated through interacting with people. We continue the discussion of interviews, and then consider focus groups. The module concludes by emphasizing the importance of reflexive observation in the field. We consider the ethical underpinnings of all of these techniques, and consider both digital and traditional forms.
@@ -180,7 +183,7 @@ This module continues to consider “more-interactive” data-collection techniq
 
 **Diana Kapiszewski**
 
-This session continues the discussion of interviewing begun in the previous module. We consider a range of choices and challenges involved in conducting interviews and following-up thereafter, options for capturing interview data, and the evidentiary strengths and weaknesses of interview data. ..conduct, and follow-up after one-on-one interviews. Participants will have the opportunity to create various tools for use in their own research, including a research pitch and an informed consent script, and sample interview questions.
+This session continues the discussion of interviewing begun in the previous module. We consider a range of choices and challenges involved in conducting interviews and following-up thereafter, options for capturing interview data, and the evidentiary strengths and weaknesses of interview data. Participants will have the opportunity to create various tools for use in their own research, including a research pitch and an informed consent script, and sample interview questions.
 
 **Required readings:**
 
@@ -194,11 +197,13 @@ Suggested readings:
 
   - Glas, A. (2021). Positionality, Power, and Positions of Power: Reflexivity in Elite Interviewing. *PS: Political Science & Politics, 54*(3), 438-442. doi:10.1017/S1049096520002048
 
-  - Fujii, L. A. (2010). Shades of truth and lies: Interpreting testimonies of war and violence. Journal of Peace Research, 47(2), 231-241. https://doi.org/10.1177/0022343309353097
+  - Fujii, L. A. (2010). “Shades of truth and lies: Interpreting testimonies of war and violence.” *Journal of Peace Research*, 47(2), 231-241. https://doi.org/10.1177/0022343309353097
 
-### 1:30pm - 3:00pm – Focus Groups
+### 1:30pm - 3:00pm – Focus Group Discussions
 
 **Lauren MacLean**
+
+This session highlights the value of focus group discussions for particular types of research questions and projects. We compare a survey instrument, qualitative interview guide and focus group question guide to uncover the key strengths and weaknesses of these different types of interviews. We discuss how to approach the logistical preparations for focus groups and the unique ethical challenges involved with informed consent and confidentiality. We emphasize the critical role of the facilitator in managing the discussion, including how to handle challenging participants of a variety of types.
 
 **Required readings:**
 
@@ -206,17 +211,41 @@ Suggested readings:
 
   - Grimm, J. J. (2022). The mixed blessing of digital fieldwork: Digital security and ethical dilemmas of remote research during and after the pandemic. *Qualitative and Multi- Method Research*, 20(2), 21–25.
 
-  - Short, S.E., Perecman, E., & Curran S.R. (2006) Focus Groups. *A Handbook for Social Science Field Research: Essays & Bibliographic Sources on Research Design and Methods.* Sage.
+  - Short, S.E., Perecman, E., & Curran S.R. (2006) “Focus Groups.” *A Handbook for Social Science Field Research: Essays & Bibliographic Sources on Research Design and Methods.* Sage.
+
+  - MacLean, Lauren. 2014. “Training Handbook for Focus Group Facilitators.” Prepared for APSA Alumni Workshop at Makerere University Business School.
 
 Suggested readings:
+
+  - Cyr, Jennifer. 2024. “Focus Groups.” In Jennifer Cyr and Sara Wallace Goodman, eds., *Doing Good Qualitative Research*. New York: Oxford University Press, p. 222-232.
 
 ### 3:30pm - 5:00pm – Observation and Ethnography (For All\!)
 
 **Lauren MacLean**
 
+This session makes a pitch for the value of ethnographic observation during any fieldwork project, whether or not you consider yourself to be “an ethnographer”. Fieldwork involves many everyday interactions and experiences that generate important insights on your research topic or question, even if they are not part of your official data collection plan. We discuss how to leverage these insights by more systematically incorporating ethnographic practices for observation, note-taking, and analysis.
+
 **Required readings:**
 
+  - KMR. 2015. “Site-Intensive Methods: Ethnography and Participant Observation.” In Field Research in Political Science: Practices and Principles. New York: Cambridge University Press, 234-265.
+
+  - Kubik, Jan. 2009. “Ethnography of Politics: Foundations, Applications, Prospects.” In Edward Schatz, ed., *Political Ethnography: What Immersion Contributes to the Study of Power*. Chicago: University of Chicago Press, p. 25-52.
+
+  - Bayard de Volo, Lorraine. 2009. “Participant Observation, Politics, and Power Relations: Nicaraguan Mothers and U.S. casino Waitresses.” In Edward Schatz, ed., *Political Ethnography,* p. 217-326.
+
 Suggested readings:
+
+  - Wedeen, Lisa. 2010. “Reflections on Ethnographic Work in Political Science.” Annual Review of Political Science 13: 255-272.
+
+  - James C. Scott. 1985. *Weapons of the Weak: Everyday Forms of Peasant Resistance*. New Haven: Yale University Press, p. 1-47.
+
+  - Fenno, Richard. 1978. *Home Style: House Members in their Districts. Boston: Little, Brown, and Company.* Appendix – Notes on method: Participant Observation.
+
+  - Katherine J. Cramer. 2016. *The Politics of Resentment. Rural Consciousness In Wisconsin And The Rise Of Scott Walker*. Chicago.
+
+  - Hocschild, Arlie. 2016. *Strangers in their Own Land: Anger and Mourning on the American Right*. New York: The New Press. National Book Award Finalist.
+
+  - Pachirat, Timothy. 2017. *Among Wolves: Ethnography and the Immersive Study of Power*. Taylor & Francis, Routledge Series on Interpretive Methods.
 
 ## Archival Research and Dynamic Research Design (M13, June 20)
 {: .module-sub }

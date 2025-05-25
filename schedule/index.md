@@ -325,7 +325,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title"><a href="/modules/fieldwork#interviews-focus-groups-and-observation-m9-june-18">Interviews, Focus Groups, and Observation</a></div>
+                            <div class="session-title"><a href="/modules/fieldwork#interviews-focus-groups-and-ethnographic-observation-m9-june-18">Interviews, Focus Groups, and Ethnographic Observation</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
                         </div>
                     </td>
@@ -343,7 +343,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Interpretation and History I</div>
+                            <div class="session-title"><a href="/modules/interpretation-and-history#m12-interpretation-and-history-m12-june-18">Interpretation and History I</a></div>
                             <div class="session-instructors">Instructor: Amel Ahmed</div>
                         </div>
                     </td>
@@ -399,7 +399,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Interpretation and History II</div>
+                            <div class="session-title"><a href="/modules/interpretation-and-history#interpretation-and-history-ii-m16-june-20">Interpretation and History II</a></div>
                             <div class="session-instructors">Instructor: Amel Ahmed</div>
                         </div>
                     </td>
