@@ -45,7 +45,7 @@ Suggested readings:
 
   - Hummel, Calla, and Dana El Kurd. (2021). "Mental health and fieldwork." *PS: Political Science & Politics* 54.1: 121-125. [https://doi.org/10.1017/S1049096520001055](https://doi.org/10.1017/S1049096520001055)
     
-      - Digital Fieldwork website ([www.digitalfieldwork.org)](http://www.digitalfieldwork.org/)
+  - Digital Fieldwork website ([www.digitalfieldwork.org)](http://www.digitalfieldwork.org/)
 
 ### 1:30pm - 3:00pm – Preparing for Fieldwork 
 
