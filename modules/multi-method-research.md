@@ -105,8 +105,6 @@ This session asks what multi-method research can add to studies that are basical
 
   - Goertz, Gary. “Multimethod Research.” Security Studies, 25:3–24. [https://doi.org/10.1080/09636412.2016.1134016](https://doi.org/10.1080/09636412.2016.1134016)
 
-Suggested readings:
-
 ### 3:30pm - 5:00pm – Multi-method Designs for Concept-formation, Theory-building, and Measurement
 
 
