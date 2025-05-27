@@ -14,10 +14,10 @@ These are the relevant module sequences, tools, prerequisites, and ways to demon
 ## M17 / M21 / M25 -- Integrating Qualitative and Experimental Methods (Carter, Crabtree, Rizzo, Tunon)
 
 ### Prerequisite 
-The module sequence will assume a basic understanding of the potential outcome framework of causation. The instructors have created two videos that will introduce these concepts.
+The module sequence will assume a basic understanding of the potential outcome framework of causation. The instructors have <a href="https://www.dropbox.com/scl/fi/tpjar9wmndvasxynrttkc/potential_outcomes.mp4?rlkey=lzbfjcborlvb4b0bjnaa4ol2m&dl=0" target="_blank">created a videos</a> introducing these concepts.
 
 ### Demonstration of completion of prerequisite: 
-Problem set (to come)
+Complete [this short problem set](/assets/documents/potential_outcomes_pset.pdf){: target="_blank"} on the potential outcomes and upload your solution (as a Word or PDF file or a picture of your handwritten solution) to [the module prequisites form](https://syracuseuniversity.qualtrics.com/jfe/form/SV_0MJlWiOmAowyjpY){: target="_blank"} (will open by June 1).
 
 ---- 
 
@@ -63,11 +63,5 @@ Write a function called analyze_grades that:
     
 
 ----
-
-## (Perhaps) M29 / M33 -- Geographic Information Systems (Robinson)
-
-    -   Prerequisite: TBD
-    -   Demonstration of completion of prerequisite: TBD
-
 
 
