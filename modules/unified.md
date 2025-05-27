@@ -19,8 +19,7 @@ This session considers IQMR’s history and how it has evolved, considers the ov
 
 **Required readings:**
 
-  - 
-
+  - David Waldner’s piece on positivism vs. interpretivism?
 
 ### 9:45am - 10:45am – Classic Qualitative Methodology
 
