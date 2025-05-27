@@ -14,7 +14,7 @@ What is historical interpretation? In one sense interpretation is a part of all 
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
-## M12 Interpretation and History (M12, June 18)
+## Interpretation and History (M12, June 18)
 {: .module-sub }
 
 ### 8:45am - 10:15am – SESSION 1: What is history? 
