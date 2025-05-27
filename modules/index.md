@@ -90,7 +90,7 @@ This module introduces students to *Qualitative Causal Inference (QCI),* a hybri
 
 Why do we compare? Typically, in political science research, causal inference is taken as the primary goal. Similarly, research that is generalizable to as many cases as possible tends to be valued more than research which can explain only a few. This unit will push past these assumptions in two ways. First, it will provide logics for generalization not rooted in ideas of statistical generalizability or mechanical reproduction. Second, it will expand the goals of comparison from causal inference to alternative practices like creative redescription or conceptual development. Third, we will explore how we can leverage strategies for rethinking comparison to address the practical challenges and unexpected discoveries that often upend pre-established research designs. When a "crisis of research design" strikes, how can researchers cope with partially implemented data collection plans to still generate meaningful theoretical and empirical insights? How can scholars salvage their research designs while maintaining methodological rigor? Finally, we will critique short research designs that will be provided in advance. Among other questions, we will ask ourselves: What kinds of claims can the author make with this research design and why? What are the limits on the kinds of claims they can make? How convincing is this research design? If you were on the selection committee of a funding agency, how would you rate this research design?
 
-## [Text as Data](//modules/text-as-data)
+## [Text as Data](/modules/text-as-data)
 
 *Fiona Shen-Bayh*
 
