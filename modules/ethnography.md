@@ -11,7 +11,8 @@ Monday, June 23; Tuesday, June 24; Wednesday, June 25
 
 How can ethnographic methods inform the study of politics? The immersive, meaning-centric, everyday-life focus that ethnographic methods offer affords social scientists insight into processes, practices, and understandings of political worlds that might otherwise remain hidden or obscure. Sometimes portrayed as “a craft” rather than “a method” or caricatured as “just hanging out,” the research approaches we explore in the Ethnographic Methods sequence explore ethnography’s immense potential in the study of power and politics. It addresses questions such as: What commitments does an ethnographic researcher make to herself, her interlocutors, the communities she studies, and to the discipline? What are the various ways in which a researcher can situate herself in a research practice where she is fundamentally the instrument? How does a researcher develop a robust ethnographic approach to a project, whether in the pursuit of writing an ethnography or as part of a multi-method endeavor? What types of data or evidence do those leveraging ethnographic methods generate, through which methods, and how do they analyse them? How have ethnographers challenged, expanded, and innovated upon the presumed fundamentals of ethnography?
 
-***Participants who did not attend the module sequence from the beginning may not join later in the sequence.***
+***Participants may enter the module sequence after it has begun.***
+
 
 ## Preparation (required): 
 {: .module-sub }
