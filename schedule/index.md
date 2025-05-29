@@ -488,7 +488,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Ethnographic Methods I</div>
+                            <div class="session-title"><a href="/modules/ethnography#ethnographic-methods-i-the-political-in-political-ethnography-m20-june-23">Ethnographic Methods I</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
                         </div>
                     </td>
@@ -526,7 +526,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Ethnographic Methods II</div>
+                            <div class="session-title"><a href="/modules/ethnography#ethnographic-methods-ii-design-technique-and-practice-m24-june-24">Ethnographic Methods II</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
                         </div>
                     </td>
@@ -559,7 +559,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Ethnographic Methods III</div>
+                            <div class="session-title"><a href="/modules/ethnography#ethnographic-methods-iii-innovations-and-reclamations-in-ethnographic-methods-m28-june-25">Ethnographic Methods III</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
                         </div>
                     </td>
