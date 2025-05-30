@@ -60,7 +60,7 @@ Suggested readings:
   - Schwedler, Jillian M., Erica Simmons, and Nicholas Smith. “Summary: Ethnography and Participant Observation.” SSRN Scholarly Paper. Rochester, NY: Social Science Research Network, February 12, 2019. [https://doi.org/10.2139/ssrn.3333471](https://doi.org/10.2139/ssrn.3333471).
 
 
-### 1:30-3:00pm – The researcher as the instrument: Positionality, reflexivity, and ethics 
+### 1:30pm - 3:00pm – The researcher as the instrument: Positionality, reflexivity, and ethics 
 
   - Format: Lecture + Writing/Reflection Activity (writing about positionality)
 
@@ -85,7 +85,7 @@ Suggested readings:
   - Hoang, Kimberly Kay. *Dealing in Desire: Asian Ascendancy, Western Decline, and the Hidden Currencies of Global Sex Work*. Berkeley, CA: University of California Press, 2015.
 
 
-### 3:30-5pm – What makes (an) ethnography *political*?
+### 3:30pm - 5:00pm – What makes (an) ethnography *political*?
 
   - Format: Lecture + Varma Case Discussion (small groups) + 5 Questions Activity (power, ethics, and responsibility)
 
@@ -117,7 +117,7 @@ Suggested readings:
 {: .module-sub }
 
 
-### 8:45–10:15am – Siting ethnography and ethnographic work 
+### 8:45am – 10:15am – Siting ethnography and ethnographic work 
 
   - Format: Interactive lecture + Siting Exercise (Small Groups) + Discussion
 
@@ -142,7 +142,7 @@ Suggested readings:
   - Pachirat, Timothy. *Every Twelve Seconds: Industrialized Slaughter and the Politics of Sight*. New Haven, CT: Yale University Press, 2011.
 
 
-### 1:30-3:00pm – On the Ground: (Participant) Observation in (Collective) Action 
+### 1:30pm - 3:00pm – On the Ground: (Participant) Observation in (Collective) Action 
 
   - Format: Lecture + Discussion + Writing Activity (field notes and field journals)
 
@@ -167,7 +167,7 @@ Suggested readings:
   - McCurdy, Patrick and Julie Uldam. 2013. Connecting Participant Observation Positions: Toward a Reflexive Framework for Studying Social Movements. *Field Methods* *26*(1): 40-55. [https://doi.org/10.1177/1525822X13500448](https://doi.org/10.1177/1525822X13500448)
 
 
-### 3:30-5pm – What does it all mean? Forms of ethnographic data/evidence
+### 3:30pm - 5:00pm – What does it all mean? Forms of ethnographic data/evidence
 
   - Format: Lecture + Discussion + Human Artifacts Exercise
 
@@ -198,7 +198,7 @@ Suggested readings:
 ##  Ethnographic Methods III: Innovations and Reclamations in Ethnographic Methods (M28, June 25)
 {: .module-sub }
 
-### 8:45–10:15am – Placing ethnography: Designing multi-method(ological) projects
+### 8:45am – 10:15am – Placing ethnography: Designing multi-method(ological) projects
 
   - Format: Lecture + Small Group Activity (workshop your research design to make it multi-method or multi-epistemological)
 
@@ -220,7 +220,7 @@ Suggested readings:
 
   - Ahmed, Amel, and Rudra Sil. “When Multi-Method Research Subverts Methodological Pluralism--Or, Why We Still Need Single-Method Research.” *Perspectives on Politics* 10, no. 4 (2012): 935–53.
 
-### 1:30-3:00pm – The Two or Three Body Problem: Comparative and multi-sited ethnography 
+### 1:30pm - 3:00pm – The Two or Three Body Problem: Comparative and multi-sited ethnography 
 
   - Format: Discussion + Paired/Three-Person Activity
 
@@ -242,7 +242,7 @@ Suggested readings:
 
   - Thaler, Gregory M. “Equifinality in the Smallholder Slot: Cash Crop Development in the Brazilian Amazon and Indonesian Borneo.” *Comparative Politics* 53, no. 4 (July 1, 2021): 687–722. [https://doi.org/10.5129/001041521X16050183696029](https://doi.org/10.5129/001041521X16050183696029).
 
-### 3:30-5pm – Modes of Immersion: Varieties of ethnography 
+### 3:30pm - 5:00pm – Modes of Immersion: Varieties of ethnography 
 
   - Format: Lecture
 
