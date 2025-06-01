@@ -107,10 +107,24 @@ tr, td{padding-top:  0.25rem;
 </tr>
 <tr class="odd">
 <td>Sign up for research design discussion groups you will join as a commenter at IQMR</td>
-<td>Research Design discussion group schedule and link to signup form will be provided by June 6</td>
+<td>Research Design discussion group schedule and link to signup form will be provided by June 8</td>
 <td>June 8</td>
 <td>June 15</td>
 <td>Research Design discussion group survey</td>
+</tr>
+<tr class="even">
+<td>Provide information about arrival times and time of arrival</td>
+<td>Complete arrival plans form</td>
+<td>June 3</td>
+<td>June 10</td>
+<td><a href="" target="_blank"></a>Form available June 3</td>
+</tr>
+<tr class="odd">
+<td>Review the IQMR Face Book and email any corrections</td>
+<td>Email requested changes (if any) to Brooklyn (brmontgo@syr.edu)</td>
+<td>June 5</td>
+<td>June 12</td>
+<td>NA</td>
 </tr>
 </tbody>
 </table>
