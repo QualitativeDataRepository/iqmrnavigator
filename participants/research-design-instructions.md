@@ -82,7 +82,7 @@ As noted below, your research design should include a one-page data management p
 SUBMITTING YOUR RESEARCH DESIGN BY June 1, 2025
 -----------------------------------------------
 
-> Please submit your research design, as well as a 100-word abstract and keywords, via this submission form (link to come).
+> Please submit your research design, as well as a 100-word abstract and keywords, [via this submission form](https://syracuseuniversity.qualtrics.com/jfe/form/SV_0oEXzQ6eTGTBuxU).
 
 -   Research designs may be submitted in .doc or .pdf format
 

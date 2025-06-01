@@ -111,8 +111,8 @@ conference:
             relative_url: /participants/syracuse-university
 #          - name: Code of Conduct
  #           relative_url: /participants/code-of-conduct/
-  #        - name: FAQ
-   #         relative_url: /participants/faq/
+          - name: Frequently Asked Questions
+            relative_url: /participants/faqs/
       - name: Instructor Information
         relative_url: /instructors/
         menu:

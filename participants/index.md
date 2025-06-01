@@ -103,7 +103,7 @@ tr, td{padding-top:  0.25rem;
 <td>Complete prerequisite proof survey</td>
 <td>June 1</td>
 <td>June 8</td>
-<td>Information to follow</td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_0MJlWiOmAowyjpY" target="_blank">Submit Module Prerequiste Proof</a></td>
 </tr>
 <tr class="odd">
 <td>Sign up for research design discussion groups you will join as a commenter at IQMR</td>
