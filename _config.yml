@@ -112,7 +112,7 @@ conference:
 #          - name: Code of Conduct
  #           relative_url: /participants/code-of-conduct/
           - name: Frequently Asked Questions
-            relative_url: /participants/faqs/
+            relative_url: /participants/faqs
       - name: Instructor Information
         relative_url: /instructors/
         menu:
