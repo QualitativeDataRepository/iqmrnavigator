@@ -12,6 +12,8 @@ This two-module sequence (Module 4 and 8) provides students with an introduction
 
 criticism. In the first four sessions we shall explore the following methods: Wittgenstein’s understanding of language as activity and its practical relevance to ordinary language-use analysis; Foucault’s “interpretive analytics” with hands-on exercises applying his genealogical method; and various versions (two sessions) of cultural Marxism—with specific attention to “ideology critique.” The last two classes will consider how anthropological discussions of participant observation can unsettle current versions of fieldwork in political science and, relatedly, how we might theorize practically forms of thought that appear to be paradoxical, nonsensical, or irrational.
 
+**Book to Purchase:** Lisa Wedeen, *Authoritarian Apprehensions: Ideology, Judgment, and Mourning in Syria* (University of Chicago Press, 2019), Preface, Introduction, Chapters 1, 3, and 5. 
+
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
 ## Interpretive Methods I (M4, June 16) 
