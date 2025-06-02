@@ -10,6 +10,8 @@ Monday, June 16; Tuesday, June 17; Wednesday, June 18; Friday, June 20
 
 This module sequence discusses strategies for designing, planning, and conducting fieldwork in the social sciences. We begin by considering the multiple aspects of preparing for field research, and then discuss some practical elements – with intellectual implications – of operating in the field. On the second day we talk through key questions relating to research ethics – the importance of which is discussed throughout the module sequence – and consider two “more-interactive” forms of data collection, surveys and interviews. The third module continues the discussion of interview techniques, and also covers focus groups, as well as the types of observation in which all social scientists who conduct field research engage. Finally, the fourth module considers the conduct of archival research, and the various ways in which scholars iterate on their research design and field research design as they conduct fieldwork. Each session of each module is conducted with the understanding that participants have carefully read the assigned materials. The instructors present key points drawing on the assigned readings, other published work on field research, and the experiences they and others have had with managing fieldwork's diverse challenges. Interaction and discussion in small and large groups is encouraged.
 
+**Book to Purchase:** Kapiszewski, D., MacLean, L. M., & Read, B. L. (2015). *Field research in political science: practices and principles.*
+
 ***Participants may enter the module sequence after it has begun.***
 
 ## Preparing for Fieldwork and Operating in the Field (M1, June 16) 
