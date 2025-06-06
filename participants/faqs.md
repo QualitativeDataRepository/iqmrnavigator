@@ -22,6 +22,8 @@ title: Frequently Asked Questions (FAQ)
   - **Do I need to purchase any materials in advance?**
       - Some modules require one book for purchase. Some of these books are available as e-books through Syracuse University (I believe you will be able to access them already using your netID). Those books are listed at the top of the respective module sequence description on navigator.
 
+  - **Will video recordings be made available of the modules?""
+      - Modules will not be recorded for later access. However, slides will be made available via Zotero 24 hours in advance of the start of the module. We ask participants to not video or audio record module sessions. 
 
   - **Will there be final assessments for the modules, and will each instructor define them individually?**
       - There is no assessment. This is a summer institute, *not* summer classes, and you will receive no credit (though there is a certificate of attendance). The expectation (and our experience) is that participants come eager to learn and don’t require additional incentives or testing.
@@ -36,7 +38,7 @@ title: Frequently Asked Questions (FAQ)
 
 
   - **Do I need to attend a research design session – in which I comment on other people’s designs, every day?**  
-      - Research design sessions are held on every instructional day with the exception of the first Sunday and the last Friday, so eight days total. We expect you to sign up for research design session on five of those days – in addition to the session in which you present your research design (so you’ll attend a total of six sessions). Participating in these sessions is a great way both to learn from and about what others do and to give constructive feedback, not to mention how much it benefits the recipients.
+      - Research design sessions are held on every instructional day with the exception of the first Sunday and the last Friday, so eight days total. We expect you to sign up for research design session on five of those days – in addition to the session in which you present your research design (so you’ll attend a total of six sessions). Participants will be given the opportunity to opt out of two research design sessions. Participating in these sessions is a great way both to learn from and about what others do and to give constructive feedback, not to mention how much it benefits the recipients.
 
 
   - **I indicated that I would submit a full/proto research design on the initial form. Can I submit a proto/full design instead_**
