@@ -19,8 +19,8 @@ Please contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown
 ## Overall Schedule
 
 -   Friday, June 20 -- Dinner for workshop participants
-    -   7:00pm
-    -   Location TBD
+    -   7:00pm 
+    -   Location -- Dinner at [Eden](https://www.edencny.com/)
 
 -   Saturday, June 21 -- "Advances in Qualitative and Multi-Method Research"
     -   9:00am to 5:15pm -- Workshop
@@ -29,7 +29,7 @@ Please contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown
 -   Sunday, June 22 -- [Emerging Methodologists Workshop](https://sigla.georgetown.domains/emworkshop/){:target="_blank"}
     -   9:00am to 5:30pm -- Workshop
     -   6:30pm -- Dinner for workshop participants
-    -   Location TBD
+    -   Location -- Dinner at [Inka's](https://inkassyracuse.com/)
 
 ## Travel to and from Syracuse
 
