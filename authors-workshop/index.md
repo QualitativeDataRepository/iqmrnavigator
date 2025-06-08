@@ -31,6 +31,10 @@ Please contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown
     -   6:30pm -- Dinner for workshop participants
     -   Location -- Dinner at [Inka's](https://inkassyracuse.com/)
 
+## Sharing your paper
+
+***Paper for the “Advances” workshop should be uploaded to the Dropbox folder (link provided via email) by Saturday June 7 and papers for the  "Emerging Methodologist" workshop should be uploaded to the Dropbox folder (link provided via email) by Friday, June 13.***
+
 ## Travel to and from Syracuse
 
 Travel to and from Syracuse for one author per paper/presentation is paid for by IQMR. (Co-authors are welcome to join the workshop via Zoom.) We ask that workshop participants **book their own economy-class round-trip ticket** to and from Syracuse.

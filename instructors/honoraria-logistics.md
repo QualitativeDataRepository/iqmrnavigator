@@ -3,7 +3,7 @@ layout: page
 title: Honorarium Payment, Per Diem, and Travel Reimbursement 
 ---
 
-IQMR will pay you an honorarium for teaching at the Institute, as well as a per diem, and will reimburse your travel to and from Syracuse. We will ask you to complete the required paperwork and forms while you are in Syracuse. We will seek to pay and reimburse you within two months following the end of the Institute, but please note that time frames for processing honoraria can vary. Instructors residing in the U.S. will be paid by check; instructors residing outside the U.S. (or who are otherwise not tax-residents of the U.S.) will be paid by foreign bank e-transfers. More information on the latter category [can be found on this web page](https://finance.syr.edu/comptroller/payroll/payroll-for-foreign-non-resident-employees/){:target="_blank"}.
+IQMR will pay you an honorarium for teaching at the Institute, as well as a per diem, and will reimburse your travel to and from Syracuse. We will ask you to complete the required paperwork and forms while you are in Syracuse (see below). We will seek to pay and reimburse you within two months following the end of the Institute, but please note that time frames for processing honoraria can vary. Instructors residing in the U.S. will be paid by check; instructors residing outside the U.S. (or who are otherwise not tax-residents of the U.S.) will be paid by foreign bank e-transfers. More information on the latter category [can be found on this web page](https://finance.syr.edu/comptroller/payroll/payroll-for-foreign-non-resident-employees/){:target="_blank"}.
 
 ## Honoraria
 
@@ -67,6 +67,8 @@ If you are flying to Syracuse, you will be reimbursed for your round-trip econom
 If driving your own vehicle to Syracuse, the University will reimburse you at its mileage rate then in force. Travel must be commensurate with the terms [set forth in the University's travel policy](https://policies.syr.edu/policies/administrative-and-financial/travel-policy/){:target="_blank"}.
 
 ## Paperwork and Forms
+We will request that you complete a tax form while you are in Syracuse which we need in order to process your honorarium and reimbursement.  After your time at IQMR, please upload to the dedicated Dropbox folder (instructions provided in an email prior to IQMR) a single PDF with an electronic receipt with the cost of your flight, as well as your tax form if you did not complete it while at IQMR.
+
 
 Choose from W-9 or W-8BEN (consult your accountant if you have any questions). The payee is responsible to know their tax status and appropriate withholding form to file, and should consult their tax advisor for guidance if needed.
 -   [W-8BEN](https://finance.syr.edu/wp-content/uploads/2019/02/fw8ben.pdf){:target="_blank"} \[PDF\] form (Part I and Part III only) to claim nonresident tax status

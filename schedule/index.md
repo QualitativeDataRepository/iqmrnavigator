@@ -173,16 +173,27 @@ title: IQMR 2025 Schedule
         
         .session-title {
             font-weight: 600;
-            margin-bottom: 0.5rem;
+            margin-bottom: 0.3rem;
             line-height: 1.3;
         }
-        
+        .session-title-2 {
+            font-weight: 600;
+            margin-top: 0.3rem;
+            margin-bottom: 0.3rem;
+            line-height: 1.3;
+        }
         .session-instructors {
             font-size: 0.8rem;
             color: #666;
             font-style: italic;
+            line-height: 1.3;
         }
-        
+        .session-location {
+            margin-top: 0.2rem;
+            font-size: 0.8rem;
+            color: #666;
+            line-height: 1.3;
+        }
         @media (max-width: 768px) {
             .session-cell {
                 height: 140px;
@@ -237,6 +248,7 @@ title: IQMR 2025 Schedule
                         <div class="session-content special-content">
                             <div class="session-title"><a href="/modules/unified">Unified sessions</a></div>
                             <div class="session-instructors">Instructors: James Mahoney, Jaye Seawright and Lisa Wedeen</div>
+                            <div class="session-location">Maxwell Auditorium</div>
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>
@@ -251,7 +263,14 @@ title: IQMR 2025 Schedule
                         <span class="day-name">Monday</span>
                         <span class="day-date">June 16</span>
                     </td>
-                    <td class="session-cell empty-cell"></td>
+                    <td class="session-cell">
+                                           <div class="session-content special-content">
+                            <div class="session-title">Regional Lunch </div>
+                            <div class="session-instructors">12pm, Eggers 341</div>
+                            <div class="session-title-2">Openning Receiption</div>
+                            <div class="session-instructors">6pm, <a href="https://maps.app.goo.gl/3zgN5QYKgBtkkFCN9" target="_blank">Institute for Veterans and Military Families IVMF</a></div>
+                        </div>
+                    </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/fieldwork#preparing-for-fieldwork-and-operating-in-the-field-m1-june-16">Preparing for Fieldwork and Operating in the Field</a></div>
@@ -286,14 +305,16 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content special-content">
-                            <div class="session-title">Tuesday Evening Talk: Research Design</div>
+                        <div class="session-title">Regional Lunch </div>
+                            <div class="session-instructors">12pm, Eggers 341</div>
+                            <div class="session-title-2">Tuesday Evening Talk: Research Design</div>
                             <div class="session-instructors">James Mahoney and Baobao Zhang</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/fieldwork#research-ethics-surveys-and-interviews-m5-june-17">Research Ethics, Surveys, and Interviews</a></div>
-                            <div class="session-instructors">Instructors: Lauren MacLean and Robert Mickey</div>
+                            <div class="session-instructors">Instructors: Diana Kapiszewski, Lauren MacLean, and Jessie Trudeau</div>
                         </div>
                     </td>
                     <td class="session-cell">
@@ -322,7 +343,13 @@ title: IQMR 2025 Schedule
                         <span class="day-name">Wednesday</span>
                         <span class="day-date">June 18</span>
                     </td>
-                    <td class="session-cell empty-cell"></td>
+                    <td class="session-cell">
+                                           <div class="session-content special-content">
+                            <div class="session-title">Regional Lunch </div>
+                            <div class="session-instructors">12pm, Eggers 341</div>
+</div>
+                    
+                    </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/fieldwork#interviews-focus-groups-and-ethnographic-observation-m9-june-18">Interviews, Focus Groups, and Ethnographic Observation</a></div>
@@ -571,7 +598,14 @@ title: IQMR 2025 Schedule
                         <span class="day-name">Thursday</span>
                         <span class="day-date">June 26</span>
                     </td>
-                    <td class="session-cell empty-cell"></td>
+                    <td class="session-cell">
+                      <td class="session-cell">
+                        <div class="session-content special-content">
+                            <div class="session-title">Closing Reception</div>
+                            <div class="session-location">Maxwell Foyer and Patio</div>
+                        </div>
+                    </td>
+                    </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/geographic-information-systems#geographic-information-systems-i-m29-june-26">Geographic Information Systems I</a></div>
