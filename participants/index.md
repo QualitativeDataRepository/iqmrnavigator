@@ -117,7 +117,7 @@ tr, td{padding-top:  0.25rem;
 <td>Complete arrival plans form</td>
 <td>June 3</td>
 <td>June 10</td>
-<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_ai2OT97Z7lwjBAO" target="_blank"></a>Arrival Plans form</td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_ai2OT97Z7lwjBAO" target="_blank">Arrival Plans form</a></td>
 </tr>
 <tr class="odd">
 <td>Review the IQMR Face Book and email any corrections</td>
