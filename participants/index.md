@@ -120,6 +120,13 @@ tr, td{padding-top:  0.25rem;
 <td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_ai2OT97Z7lwjBAO" target="_blank">Arrival Plans form</a></td>
 </tr>
 <tr class="odd">
+<td>Upload your SUID photo</td>
+<td>Upload your SUID photo; make sure to use your <a href="https://su-jsm.atlassian.net/wiki/spaces/ITHELP/pages/159941384/Email+SUMail" target="_blank">SU email address</a></td>
+<td>June 8</td>
+<td>June 10</td>
+<td>Follow the <a href="https://housingmealplans.syr.edu/idcards/photo-submission/" target="_blank">instructions provided by the university</a></td>
+</tr>
+<tr class="even">
 <td>Review the IQMR Face Book and email any corrections</td>
 <td>Email requested changes (if any) to Brooklyn (brmontgo@syr.edu)</td>
 <td>June 5</td>
