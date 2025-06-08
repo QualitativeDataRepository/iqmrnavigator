@@ -265,7 +265,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                                            <div class="session-content special-content">
-                            <div class="session-title">Regional Lunch </div>
+                            <div class="session-title">Africa Regional Lunch </div>
                             <div class="session-instructors">12pm, Eggers 341</div>
                             <div class="session-title-2">Openning Receiption</div>
                             <div class="session-instructors">6pm, <a href="https://maps.app.goo.gl/3zgN5QYKgBtkkFCN9" target="_blank">Institute for Veterans and Military Families IVMF</a></div>
@@ -305,7 +305,7 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content special-content">
-                        <div class="session-title">Regional Lunch </div>
+                        <div class="session-title">MENA Regional Lunch </div>
                             <div class="session-instructors">12pm, Eggers 341</div>
                             <div class="session-title-2">Tuesday Evening Talk: Research Design</div>
                             <div class="session-instructors">James Mahoney and Baobao Zhang</div>
@@ -345,8 +345,11 @@ title: IQMR 2025 Schedule
                     </td>
                     <td class="session-cell">
                                            <div class="session-content special-content">
-                            <div class="session-title">Regional Lunch </div>
-                            <div class="session-instructors">12pm, Eggers 341</div>
+                            <div class="session-title">Latin America Regional Lunch</div>
+                            <div class="session-location">12pm, Eggers 341</div>
+
+                                                        <div class="session-title">Fieldwork Meeting</div>
+                            <div class="session-location">7pm, Eggers 341(TBC)</div>
 </div>
                     
                     </td>

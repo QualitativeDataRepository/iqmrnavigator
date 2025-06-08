@@ -63,6 +63,8 @@ We will request that you complete a tax form while you are in Syracuse which we 
 
 We will aim to transmit your reimbursement to you within two months after the workshop. Please note that time frames for processing reimbursements can vary.
 
+## Getting from the Hotel to Workshop
+We will walk from the hotel to Eggers Hall, where the workshop will take place, at 8:20AM on both days of the workshop. If you miss the walking group, please walk to the Northern main entrance of Eggers Hall, behind the Lincoln Statue, [following these directions](https://maps.app.goo.gl/GUrh78XmGCrPs85G7). The building is locked on weekends; someone will be there to open you, if not, call Diana, Christiane, or Sebastian.
 
 ## Saturday, June 21
 
@@ -170,4 +172,4 @@ Everyone!
 
 **Dinner**
 
-Location TBD
+[Inka's](https://inkassyracuse.com/), Downtown Syracuse
