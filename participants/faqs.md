@@ -26,6 +26,9 @@ title: Frequently Asked Questions (FAQ)
   - **Will there be final assessments for the modules, and will each instructor define them individually?**
       - There is no assessment. This is a summer institute, *not* summer classes, and you will receive no credit (though there is a certificate of attendance). The expectation (and our experience) is that participants come eager to learn and don’t require additional incentives or testing.
 
+  - **Will recordings of modules be available to participants?**
+      - No, modules will not be recorded. We also kindly ask that participants refrain from making their own video or audio recordings, in respect of faculty preferences and to maintain a focused learning environment.
+
 
 ## Research Designs
 {: .module-sub }
