@@ -214,7 +214,7 @@ Guests arriving by car should drive directly to Milton Hall, use street parking,
 LOCAL TRANSPORTATION
 --------------------
 
-For travel around the campus and to points of interest in Syracuse, you can use the Centro bus service. [Some buses are free](https://www.centro.org/colleges/syracuse-university) to SU ID holders, otherwise bus fares in Syracuse are listed on [the Centro homepage](https://www.centro.org/fares-passes/fares-syracuse). There is a [mobile phone app for the Centro bus service](https://www.centro.org/service_schedules/transit-tools/mobile-app) which includes a bus tracker and travel planner. Syracuse also has a popular e-scooter program through [the Veo app](https://www.veoride.com/). You can find scooters all around the university neighborhood and downtown, but they are not allowed (and will turn off) on campus.
+For travel around the campus and to points of interest in Syracuse, you can use the Centro bus service. [Some buses are free](https://www.centro.org/colleges/syracuse-university) to SU ID holders, otherwise bus fares in Syracuse are listed on [the Centro homepage](https://www.centro.org/fares-passes/fares-syracuse). There is a [mobile phone app for the Centro bus service](https://www.centro.org/service_schedules/transit-tools/mobile-app) which includes a bus tracker and travel planner. Syracuse also has a popular e-scooter program through [the Veo app](https://www.veoride.com/). You can find scooters all around the university neighborhood and downtown, but they are not allowed (and will turn off) on campus. **Note:** Centro City Routes (city buses) do not honor SUIDs with a few exceptions noted on the above link. If you take a city bus, please look ahead to be sure the route you choose accepts SUID.
 
 FOOD 
 ----
