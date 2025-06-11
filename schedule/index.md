@@ -387,6 +387,7 @@ title: IQMR 2025 Schedule
                         <div class="session-content special-content">
                             <div class="session-title">Film Screening and Discussion: Raise the Roof</div>
                             <div class="session-instructors">Jamila Michener and Gretchen Purser</div>
+                            <div class="session-location">4pm, Maxwell Auditorium</div>
                         </div>
                     </td>
                     <td class="session-cell">
@@ -600,12 +601,10 @@ title: IQMR 2025 Schedule
                         <span class="day-date">June 26</span>
                     </td>
                     <td class="session-cell">
-                      <td class="session-cell">
                         <div class="session-content special-content">
                             <div class="session-title">Closing Reception</div>
                             <div class="session-location">Maxwell Foyer and Patio</div>
                         </div>
-                    </td>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
@@ -639,7 +638,12 @@ title: IQMR 2025 Schedule
                         <span class="day-name">Friday</span>
                         <span class="day-date">June 27</span>
                     </td>
-                    <td class="session-cell empty-cell"></td>
+                    <td class="session-cell">
+                        <div class="session-content special-content">
+                            <div class="session-title">Closing Session and Feedback</div>
+                            <div class="session-location">Maxwell Auditorium</div>
+                        </div>
+                    </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/geographic-information-systems#geographic-information-systems-ii-m33-june-27">Geographic Information Systems II</a></div>

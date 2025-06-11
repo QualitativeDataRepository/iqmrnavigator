@@ -107,10 +107,10 @@ tr, td{padding-top:  0.25rem;
 </tr>
 <tr class="odd">
 <td>Sign up for research design discussion groups you will join as a commenter at IQMR</td>
-<td>Research Design discussion group schedule and link to signup form will be provided by June 8</td>
+<td>Research Design discussion <a href="https://www.zotero.org/groups/5976232/iqmr/collections/498N3CAN/items/B8XI2BVR/collection" target="_blank">group schedule on Zotero</a></td>
 <td>June 8</td>
 <td>June 15</td>
-<td>Research Design discussion group survey</td>
+<td>Research Design discussion group <a href="https://www.signupgenius.com/go/10C0549AEAD23A1F9C07-57256408-research" target="_blank">signup on SignUp Genius</a></td>
 </tr>
 <tr class="even">
 <td>Provide information about arrival times and time of arrival</td>
@@ -225,7 +225,7 @@ We also provide twice-daily coffee breaks with complimentary tea/coffee and ligh
 
 On each instructional day, you are on your own for lunch and dinner; there are a variety of venues nearby the Syracuse University campus.
 
-There will be a few organized lunches focusing on particular regions or topics that will be announced once the Institute starts. There will also be an organized complimentary dinner on Monday, June 16, time and location TBD, as well as a closing reception on Thursday, June 26, in the Maxwell Foyer.
+There will be a few organized lunches focusing on particular regions or topics that will be announced once the Institute starts. There will also be an organized complimentary dinner on Monday, June 16, 6pm at the Institute for Verterans and Military Families, as well as a closing reception on Thursday, June 26, in the Maxwell Foyer.
 
 ATTIRE
 ------

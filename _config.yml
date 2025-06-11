@@ -107,8 +107,10 @@ conference:
             relative_url: /participants/research-design-instructions
           - name: Research Design Sessions
             relative_url: /participants/research-design-groups
+          - name: SUID Number and SU NetID
+            relative_url: /participants/syracuse-registration
           - name: Syracuse University
-            relative_url: /participants/syracuse-university
+            relative_url: /participants/syracuse-university            
 #          - name: Code of Conduct
  #           relative_url: /participants/code-of-conduct/
           - name: Frequently Asked Questions

@@ -44,3 +44,7 @@ Research Design Discussion Groups
 ---------------------------------
 
 All IQMR participants present a research design for feedback and critique by participant peers. Research design discussion groups are held for 1 hour and 15 minutes on most mornings of the Institute. The Instructor Information and Participant Information pages have more information about [writing and presenting a research design](/participants/research-design-instructions) (participants) and chairing research design sessions (instructors, to come). The presentation schedule will be available in June.
+
+## IQMR Facebook
+
+The IQMR Facebook has names, images (unless opting out), affiliations, and email addresses of all IQMR 2025 participants and staff. Participants review a draft version about two weeks before the Institute and can request changes. The final version is made available in the IQMR Zotero group shortly before the Institute.
