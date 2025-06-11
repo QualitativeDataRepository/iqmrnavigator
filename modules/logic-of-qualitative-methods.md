@@ -46,62 +46,38 @@ Suggested readings:
 
 ### 3:30pm - 5:00pm – Research Design: Large-N Qualitative Analysis (LNQA) and Case Study Research 
 
-**Gary Goertz and Laura García Montoya**
+**Gary Goertz**
 
-This session is also divided into two parts. The first part focuses on the logic of multimethod research designs focusing on both large-N qualitative analysis (LNQA). LNQA involves exploring strong regularities in well-defined and typically small populations. When using this methodology the outcome (Y=1) or treatment (X=1) is usually a relatively rare event, a common scenario in international relations and comparative politics. The method involves establishing a regularity, but then examining all cases within the scope via process tracing and within-case causal inference. Causal inference thus relies not on the regularity but on the within-case causal inference across the whole population. The second part discusses case study research designs for causal inference.
+This session discusses large-N qualitative analysis (LNQA).   LNQA involves exploring strong regularities in well-defined and typically small populations.  When using this methodology the outcome (Y=1) or treatment (X=1)  is usually a relatively rare event, a common scenario in international relations and comparative politics.  The method involves establishing a regularity, but then examining all cases within the scope via process tracing and within-case causal inference. Causal inference thus relies not on the regularity but on the within-case causal inference across the whole population. In addition the session covers the multimethod variant of LNQA involving connecting process tracing with statistical analyses.
 
 **Required readings:**
-
-  - Gary Goertz, Multimethod Research, Causal Mechanisms, and Case Studies: An Integrated Approach (Princeton: Princeton University Press, 2017), chapter 1.
 
   - Gary Goertz and Stephan Haggard. “Large-N Qualitative Analysis (LNQA): Causal Generalization in Case Study and Multimethod Research”. *Perspectives on Politics.* 2023;21(4):1221-1239.
 
 Suggested readings:
 
-  - Khoury, Rana B. *“Introduction.”* In *Civilizing Contention*. Forthcoming. Ithaca, NY: Cornell University Press.
+  - Gary Goertz and Stephan Haggard.  2025. Large-N Qualitative Analysis:  causal generalizations and multimethod research. Book manuscript.
 
 ## Logic of Qualitative Methods II (M7, June 17) 
 {: .module-sub }
 
 ### 8:45am - 10:15am – Introduction to process tracing and Causal Mechanisms 
 
-**Laura García Montoya and Gary Goertz**
+**James Mahoney and Gary Goertz**
 
 This session offers an introduction to process tracing as a methodology for analyzing causality in individual cases with a focus on mechanisms. The first part of the session emphasizes four aspects of process tracing: mechanisms, case-based evidence, set theory and logic, and counterfactual analysis. The second part looks at creating causal models in the form of figures (i.e., theory figures), which will then guide the analysis of the individual case(s). It deals with conceptualizing and diagramming mediators, moderators, confounders, antecedent conditions, side door paths, and the like.
 
 **Required readings:**
 
-  - Liu, Amy. "Process Tracing." In Doing Good Qualitative Research, edited by Jennifer Cyr and Sara Wallace Goodman, 386-396. Oxford: Oxford University Press, 2024.
+  - Collier, David. 2011. “Understanding Process Tracing.” PS: Political Science and Politics 44: 823-830. 
 
-  - Gary Goertz. 2017. Multimethod Research, Causal Mechanisms, and Case Studies: An Integrated Approach (Princeton: Princeton University Press), Chapter 2.
-
-  - Gary Goertz and Stephan Haggard. Chapter 4, "Causal models and mechanisms," in “Large-N Qualitative Analysis" 2024.
+  - Gary Goertz and Stephan Haggard. Chapter 4, "Causal models and mechanisms," in “Large-N Qualitative Analysis" 2025, book manuscript.
 
 Suggested readings:
 
   - Gary Goertz. forthcoming. “Theorizing and diagramming causal models-mechanisms: comment on Homola et al.” Qualitative and Multi-Method Research.
 
-### 1:30pm - 3:00pm – Counterfactual Analysis
-
-**James Mahoney**
-
-This session considers the use of counterfactual analysis as a tool for evaluating complex causal theories at the level of individual cases. The session focuses on the evaluation of necessary condition hypotheses and INUS condition hypotheses with counterfactual analysis. The session uses several concrete examples to illustrate how counterfactual analysis is a crucial part of process tracing and hypothesis evaluation in qualitative research.
-
-**Required readings:**
-
-  - Jack S. Levy, “Counterfactuals and Case Studies,” in Janet M. Box-Steffensmeier, Henry E. Brady, and David Collier, eds., *The Oxford Handbook of Political Methodology* (Oxford: Oxford University Press, 2008), pp. 627-644.
-
-  - James Mahoney and Rodrigo Barrenechea, “The Logic of Counterfactual Analysis in Case-Study Explanation,” *British Journal of Sociology* 70:1 (2019), pp. 306-338.
-
-Suggested readings:
-
-  - Gary Goertz and James Mahoney, “Counterfactuals,” in A Tale of Two Cultures: Qualitative and Quantitative Research in the Social Sciences (Princeton: Princeton University Press, 2012), pp. 115-24.
-
-  - Frank P. Harvey, “President Al Gore and the 2003 Iraq War: A Counterfactual Test of Conventional Wisdom,” Canadian Journal of Political Science 45:1 (2012), pp. 1-32.
-
-  - Luis Schenoni, Sean Braniff, and Jorge Battaglino, “Was the Malvinas/Falklands a Diversionary War? A Prospect-Theory Representation of Argentina’s Decline,” Security Studies 29 (2020), pp. 34-63.
-
-### 3:30pm - 5:00pm – Applications: Critical events and process tracing:
+### 1:30pm - 3:00pm – Applications: Critical events and process tracing
 
 **Laura García Montoya**
 
@@ -109,7 +85,36 @@ This session bridges theory and practice through two concrete examples: process 
 
 **Required readings:**
 
-  - García-Montoya, Laura\*, Güiza-Gómez, Diana Isabel & Arturo Chang. 2025. “Factionalized Mobilization: Development Paradigm Shifts and Marginalization in Colombia” Studies in Comparative International Development.
+  - García-Montoya, Laura*, Güiza-Gómez, Diana Isabel & Arturo Chang. 2025. “Factionalized Mobilization: Development Paradigm Shifts and Marginalization in Colombia” Studies in Comparative International Development.
+    
+  - Liu, Amy. "Process Tracing." In Doing Good Qualitative Research, edited by Jennifer Cyr and Sara Wallace Goodman, 386-396. Oxford: Oxford University Press, 2024.
 
-  - García-Montoya, Laura, Güiza-Gómez, Diana Isabel and Ana Montoya. When En- forcers Become Spoilers: Hidden Policy Conflicts Between Reparations and Extractivism in Colombia. Working Paper
+
+Suggested readings:
+
+  - García-Montoya, Laura,  Güiza-Gómez, Diana Isabel and Ana Montoya. When En- forcers Become Spoilers: Hidden Policy Conflicts Between Reparations and Extractivism in Colombia. Working Paper
+  
+  - Khoury, Rana B. “Introduction.” In Civilizing Contention. Forthcoming. Ithaca, NY: Cornell University Press.
+
+
+### 3:30pm - 5:00pm – Counterfactual Analysis
+
+**James Mahoney**
+
+This session considers the use of counterfactual analysis as a tool for evaluating complex causal theories at the level of individual cases.  The session focuses on the evaluation of necessary condition hypotheses and INUS condition hypotheses with counterfactual analysis.  The session uses several concrete examples to illustrate how counterfactual analysis is a crucial part of process tracing and hypothesis evaluation in qualitative research.
+
+**Required readings:**
+
+  - Jack S. Levy, “Counterfactuals and Case Studies,” in Janet M. Box-Steffensmeier, Henry E. Brady, and David Collier, eds., The Oxford Handbook of Political Methodology (Oxford: Oxford University Press, 2008), pp. 627-644.
+  
+  - James Mahoney and Rodrigo Barrenechea, “The Logic of Counterfactual Analysis in Case-Study Explanation,” British Journal of Sociology 70:1 (2019), pp. 306-338.
+
+Suggested readings:
+
+  - Gary Goertz and James Mahoney, “Counterfactuals,” in A Tale of Two Cultures: Qualitative and Quantitative Research in the Social Sciences (Princeton: Princeton University Press, 2012), pp. 115-24.
+  
+  - Frank P. Harvey, “President Al Gore and the 2003 Iraq War: A Counterfactual Test of Conventional Wisdom,” Canadian Journal of Political Science 45:1 (2012), pp. 1-32.
+  
+  - Luis Schenoni, Sean Braniff, and Jorge Battaglino, “Was the Malvinas/Falklands a Diversionary War?  A Prospect-Theory Representation of Argentina’s Decline,” Security Studies 29 (2020), pp. 34-63.
+
 
