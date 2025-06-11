@@ -48,3 +48,7 @@ All IQMR participants present a research design for feedback and critique by par
 ## IQMR Facebook
 
 The IQMR Facebook has names, images (unless opting out), affiliations, and email addresses of all IQMR 2025 participants and staff. Participants review a draft version about two weeks before the Institute and can request changes. The final version is made available in the IQMR Zotero group shortly before the Institute.
+
+## Health And Safety
+
+With regard to COVID, IQMR has masks available, which you should feel free to wear if you wish. (Note that as the number of reported cases increases, we will encourage you, or potentially require you to wear masks.) If you begin to feel even slightly sick, please test immediately for COVID. If you test positive, notify IQMR staff immediately. We will isolate you in a room in Milton Hall and you will not be able to attend IQMR sessions in-person, but will be able to participate remotely (we will provide you with Zoom information). 
