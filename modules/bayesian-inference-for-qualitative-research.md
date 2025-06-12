@@ -47,7 +47,7 @@ Suggested reading:
 
   - Fairfield & Charman. 2022. "Chapter 6: Hypotheses and Priors Revisited," pp.224-238. *Social Inquiry and Bayesian Inference.* Cambridge University Press.
 
-### 3:30pm - 5:00pm – Log-Odds Updating and Weight of Evidence
+### 3:30pm - 5:00pm – Assessing the Inferential Import of Evidence
 
 
 One of the most important things that Bayesian reasoning can do for qualitative research is to help us make better judgments about how strongly our evidence favors one hypothesis relative to rivals. In this session, we will practice evaluating *likelihood ratios,* which determine the inferential import of the evidence. Here we need to “mentally inhabit the world” of each hypothesis and ask which one makes the evidence seem more expected. This is the key analytical step that tells us how to update our prior views about the relative plausibility of our hypotheses—we gain more confidence in whichever hypothesis makes the evidence more expected.
