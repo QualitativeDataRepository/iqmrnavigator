@@ -63,3 +63,10 @@ title: Frequently Asked Questions (FAQ)
   - **My flight gets into Syracuse late at night. What do I do?**    
       - You should be able to take a taxi, Uber, or Lyft to the Syracuse University campus. See the “Getting to Syracuse” section of the “[Overview” page](https://iqmrnavigator.org/participants/) under “Participant Information.”
       - There is someone on call all day and night at the residence hall at which you will be staying, Milton Hall – see the [“Lodging” page](https://iqmrnavigator.org/participants/lodging) under “Participant Information” for details.
+   
+## Milton Residential Hall 
+
+  - **What can I expect to be available at Milton Hall when I arrive?**
+      - Each Suite will be equipped with bowls, plates, cups, and silverware (1 set per participant), a sponge, dish soap, dishtowel, and toilet paper in the bathrooms. Each participant will be able to pick up a linen set (sheets, pillow, blanket, towel, and facecloth) when you arrive either from the lobby or basement. Each Suite comes equipped with an oven, microwave, and fridge but no other kitchen appliances or cookware.  
+      - Your room key and suite fob will be made available when you check in to Milton Hall - you will also receive your SUID at this time which is needed for getting into the building.
+      - Participants staying at Milton Hall will have access to laundry, lounge area, and conference rooms in the basement. The onsite gym is closed for the duration of our conference but access to the Barnes Center Gym is available for all participants. 
