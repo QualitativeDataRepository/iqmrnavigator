@@ -67,6 +67,6 @@ title: Frequently Asked Questions (FAQ)
 ## Milton Residential Hall 
 
   - **What can I expect to be available at Milton Hall when I arrive?**
-      - Each Suite will be equipped with bowls, plates, cups, and silverware (1 set per participant), a sponge, dish soap, dishtowel, and toilet paper in the bathrooms. Each participant will be able to pick up a linen set (sheets, pillow, blanket, towel, and facecloth) when you arrive either from the lobby or basement. Each Suite comes equipped with an oven, microwave, and fridge but no other kitchen appliances or cookware.  
-      - Your room key and suite fob will be made available when you check in to Milton Hall - you will also receive your SUID at this time which is needed for getting into the building.
-      - Participants staying at Milton Hall will have access to laundry, lounge area, and conference rooms in the basement. The onsite gym is closed for the duration of our conference but access to the Barnes Center Gym is available for all participants. 
+      - Each Suite comes equipped with an oven, microwave, and fridge but no other kitchen appliances or cookware. See the [“Lodging” page](https://iqmrnavigator.org/participants/lodging) under “Participant Information” for details.
+  - **Can I receive packages at Milton Hall?**
+      - No, packages cannot be delivered to Milton Hall.
