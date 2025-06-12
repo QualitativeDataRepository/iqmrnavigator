@@ -82,8 +82,8 @@ conference:
             relative_url: /information
           - name: Zotero
             relative_url: /information/zotero
-        #  - name: Accommodations
-        #    relative_url: /information/accommodations/
+          - name: Dining and Attractions
+            relative_url: /information/dining-attractions 
         #  - name: Travel
        #     relative_url: /information/travel/
         #  - name: Contact
