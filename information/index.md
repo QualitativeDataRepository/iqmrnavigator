@@ -22,7 +22,7 @@ IQMR lingo
 Most instructional days follow the same schedule: 
 ------------------
 
--   8:00--8:45am -- Breakfast
+-   8:00--8:45am -- Breakfast (Maxwell Commons, second floor of Eggers Hall)
   
 -   8:45--10:15am -- Module session 1
 
