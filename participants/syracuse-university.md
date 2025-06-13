@@ -32,4 +32,18 @@ Next to the library is the Schine Student Center. It has limited hours during th
 GYMS
 ----
 
-You will have access to the SU gyms. You will need your SU ID card to access the gyms. More information about which gyms are open, and hours, will be provided closer to the Institute.
+You have access to the gym located inside the Barnes Center at the Arch, situated near Maxwell/Eggers Hall (you can find it using the [provided maps](https://www.syracuse.edu/map/)) (or Google maps!).  
+
+You need to show your SU ID card to the attendant at the gym in order to use the gym. 
+
+Once you enter the gym, approach the front desk, mention that you are a participant at IQMR, show your ID, and ask for the sign-in sheet. Sign and date the sheet. 
+
+The  hours of operation of the gym located inside the Barnes Center at the Arc are the following:
+Monday/Wednesday/Friday 8 a.m. - 7 p.m.
+Tuesday/Thursday 7 a.m. - 7 p.m.
+Saturday/Sunday 11 a.m. - 5 p.m.
+The pool is open Monday through Friday from 11 a.m. to 2 p.m.
+
+
+Both the gym and the pool will be closed on June 19 in recognition of the Juneteenth holiday.
+
