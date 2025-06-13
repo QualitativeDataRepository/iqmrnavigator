@@ -17,7 +17,7 @@ These are the relevant module sequences, tools, prerequisites, and ways to demon
 ## M17 / M21 / M25 -- Integrating Qualitative and Experimental Methods (Carter, Crabtree, Rizzo, Tunon)
 
 ### Prerequisite 
-The module sequence will assume a basic understanding of the potential outcome framework of causation. The instructors have <a href="https://www.dropbox.com/scl/fi/tpjar9wmndvasxynrttkc/potential_outcomes.mp4?rlkey=lzbfjcborlvb4b0bjnaa4ol2m&dl=0" target="_blank">created a videos</a> introducing these concepts.
+The module sequence will assume a basic understanding of the potential outcome framework of causation. The instructors have <a href="https://www.dropbox.com/scl/fi/5h1rk32m304n1d2g2o0vz/potential_outcomes.mp4?rlkey=m4n1nwpwgc6kjw10adx4fhcpc&st=k2l7kl1v&dl=0" target="_blank">created a videos</a> introducing these concepts.
 
 ### Demonstration of completion of prerequisite: 
 Complete [this short problem set](/assets/documents/potential_outcomes_pset.pdf){: target="_blank"} on the potential outcomes and upload your solution (as a Word or PDF file or a picture of your handwritten solution) to [the module prequisites form](https://syracuseuniversity.qualtrics.com/jfe/form/SV_0MJlWiOmAowyjpY){: target="_blank"}.
