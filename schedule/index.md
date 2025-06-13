@@ -275,24 +275,28 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/fieldwork#preparing-for-fieldwork-and-operating-in-the-field-m1-june-16">Preparing for Fieldwork and Operating in the Field</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/text-as-data#quantifying-texts-m2-june-16">Text as Data I</a></div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
+                            <div class="session-location">Eggers 018</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/logic-of-qualitative-methods#logic-of-qualitative-methods-i-m3-june-16">Logic of Qualitative Methods I</a></div>
                             <div class="session-instructors">Instructors: James Mahoney, Gary Goertz and Laura Garcia</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/interpretive-methods#interpretive-methods-i-m4-june-16">Interpretive Methods I</a></div>
                             <div class="session-instructors">Instructors: Lisa Wedeen and William Mazzarella</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                 </tr>
@@ -315,24 +319,28 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/fieldwork#research-ethics-surveys-and-interviews-m5-june-17">Research Ethics, Surveys, and Interviews</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski, Lauren MacLean, and Jessie Trudeau</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/text-as-data#modeling-and-measuring-texts-m6-june-17">Text as Data II</a></div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
+                            <div class="session-location">Eggers 018</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/logic-of-qualitative-methods#logic-of-qualitative-methods-ii-m7-june-17">Logic of Qualitative Methods II</a></div>
                             <div class="session-instructors">Instructors: James Mahoney, Gary Goertz and Laura Garcia</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/interpretive-methods#interpretive-methods-ii-m8-june-17">Interpretive Methods II</a></div>
                             <div class="session-instructors">Instructors: Lisa Wedeen and William Mazzarella</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                 </tr>
@@ -355,24 +363,28 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/fieldwork#interviews-focus-groups-and-ethnographic-observation-m9-june-18">Interviews, Focus Groups, and Ethnographic Observation</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/qualitative-causal-inference#qualitative-causal-inference-fundamentals-and-applications-i-m10-june-18">Qualitative Causal Inference I</a></div>
                             <div class="session-instructors">Instructors: David Waldner and Ezequiel Gonzalez-Ocantos</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/comparative-historical-analysis#comparative-historical-analysis-i-m11-june-18">Comparative Historical Analysis I</a></div>
                             <div class="session-instructors">Instructor: Marcus Kreuzer</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/interpretation-and-history#m12-interpretation-and-history-m12-june-18">Interpretation and History I</a></div>
                             <div class="session-instructors">Instructor: Amel Ahmed</div>
+                            <div class="session-location">Eggers 018</div>
                         </div>
                     </td>
                 </tr>
@@ -412,24 +424,28 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/fieldwork#archival-research-and-dynamic-research-design-m13-june-20">Archival Research and Dynamic Research Design</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski, Lauren MacLean, and Robert Mickey</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/qualitative-causal-inference#qualitative-causal-inference-fundamentals-and-applications-ii-m14-june-20">Qualitative Causal Inference II</a></div>
                             <div class="session-instructors">Instructors: David Waldner and Ezequiel Gonzalez-Ocantos</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/comparative-historical-analysis#comparative-historical-analysis-ii-m15-june-20">Comparative Historical Analysis II</a></div>
                             <div class="session-instructors">Instructor: Marcus Kreuzer</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/interpretation-and-history#interpretation-and-history-ii-m16-june-20">Interpretation and History II</a></div>
                             <div class="session-instructors">Instructor: Amel Ahmed</div>
+                            <div class="session-location">Eggers 018</div>
                         </div>
                     </td>
                 </tr>
@@ -495,30 +511,35 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content special-content">
                            <div class="session-title">Lunch Talk: Emerging Methodologists</div>
+                           <div class="session-location">Maxwell Auditorium, 12.15pm</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-i-m17-june-23">Integrating Qualitative and Experimental Methods I</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/causal-inference-from-causal-models#what-is-a-causal-model-m18-june-23">Causal Inference from Causal Models I</a></div>
                             <div class="session-instructors">Instructor: Alan Jacobs</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/choosing-spatial-units-of-analysis">Choosing Spatial Units of Analysis</a></div>
                             <div class="session-instructors">Instructor: Hillel Soifer</div>
+                            <div class="session-location">Eggers 018</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/ethnography#ethnographic-methods-i-the-political-in-political-ethnography-m20-june-23">Ethnographic Methods I</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                 </tr>
@@ -533,30 +554,35 @@ title: IQMR 2025 Schedule
                         <div class="session-content special-content">
                             <div class="session-title">Tuesday Evening Talk: Writing Qualitative Research</div>
                             <div class="session-instructors">Alan Jacobs</div>
+                            <div class="session-location">Maxwell Auditorium, 7pm</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-ii-m21-june-24">Integrating Qualitative and Experimental Methods II</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/causal-inference-from-causal-models#causal-models-for-case-level-inquiry-process-tracing-m22-june-24">Causal Inference from Causal Models II</a></div>
                             <div class="session-instructors">Instructor: Alan Jacobs</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#bayesian-inference-for-qualitative-research-i-m23-june-24">Bayesian Inference for Qualitative Research I</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
+                            <div class="session-location">Eggers 018</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/ethnography#ethnographic-methods-ii-design-technique-and-practice-m24-june-24">Ethnographic Methods II</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                 </tr>
@@ -572,24 +598,28 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-iii-m25-june-25">Integrating Qualitative and Experimental Methods III</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/causal-inference-from-causal-models#mixing-methods-with-causal-models-m26-june-25">Causal Inference from Causal Models III</a></div>
                             <div class="session-instructors">Instructor: Alan Jacobs</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#bayesian-inference-for-qualitative-research-ii-m27-june-25">Bayesian Inference for Qualitative Research II</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
+                            <div class="session-location">Eggers 018</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/ethnography#ethnographic-methods-iii-innovations-and-reclamations-in-ethnographic-methods-m28-june-25">Ethnographic Methods III</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                 </tr>
@@ -610,24 +640,28 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/geographic-information-systems#geographic-information-systems-i-m29-june-26">Geographic Information Systems I</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
+                            <div class="session-location">LS Bld:  CST 3-116 (subject to change)</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/multi-method-research#multi-method-research-i-m30-june-26">Multi-Method Research I</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#process-tracing-and-typological-theories-i-m31-june-26">Process Tracing and Typological Theories I</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
+                            <div class="session-location">Eggers 018</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/rethinking-small-n#re-thinking-small-n-comparisons-i-m32-june-26">Re-thinking Small-N Comparisons I</a></div>
                             <div class="session-instructors">Instructor: Nicholas Rush</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                 </tr>
@@ -648,24 +682,28 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/geographic-information-systems#geographic-information-systems-ii-m33-june-27">Geographic Information Systems II</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
+                            <div class="session-location">LS Bld:  CST 3-116</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/multi-method-research#multi-method-research-ii-m34-june-27">Multi-Method Research II</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
+                            <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#process-tracing-and-typological-theories-ii-m34-june-27">Process Tracing and Typological Theories II</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/rethinking-small-n#re-thinking-small-n-comparisons-ii-m36-june-27">Re-thinking Small-N Comparisons II</a></div>
                             <div class="session-instructors">Instructor: Nicholas Rush Smith</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                 </tr>
