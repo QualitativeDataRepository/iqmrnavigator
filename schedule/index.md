@@ -224,7 +224,9 @@ title: IQMR 2025 Schedule
     
 <div class="container-fluid">
     <!-- Week 1 Schedule -->
+
     <div class="week-heading">Week 1: June 15-21</div>
+        <p style="font-size: 1.3rem;"><i>Breakfast every day from 8-8:45am in the Strasser Commons, Second Floor of Eggers Hall</i></p>
     <div class="schedule-container overflow-scroll">
         <table class="schedule-grid">
             <thead>
@@ -459,6 +461,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content workshop-content">
                             <div class="session-title">Weekend Workshops – <a href="/authors-workshop/#advances-in-qualitative-and-multi-method-research">Advances in Qualitative and Multi-Method Research</a></div>
+                            <div class="session-location">Eggers 341</div>
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>
@@ -494,6 +497,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content workshop-content">
                             <div class="session-title">Weekend Workshops – <a href="/authors-workshop/#emerging-methodologists-workshop">Emerging Methodologists Workshop</a></div>
+                            <div class="session-location">Eggers 341</div>
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>
