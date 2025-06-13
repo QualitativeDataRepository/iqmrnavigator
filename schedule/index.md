@@ -517,7 +517,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-i-m17-june-23">Integrating Qualitative and Experimental Methods I</a></div>
-                            <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
+                            <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadalupe Tuñón</div>
                             <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
@@ -560,7 +560,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-ii-m21-june-24">Integrating Qualitative and Experimental Methods II</a></div>
-                            <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
+                            <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadalupe Tuñón</div>
                             <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
@@ -597,7 +597,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#integrating-qualitative-and-experimental-methods-iii-m25-june-25">Integrating Qualitative and Experimental Methods III</a></div>
-                            <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadelupe Tuñón</div>
+                            <div class="session-instructors">Instructors: Christopher Carter, Charles Crabtree, Tesalia Rizzo, Guadalupe Tuñón</div>
                             <div class="session-location">Eggers 010</div>
                         </div>
                     </td>
