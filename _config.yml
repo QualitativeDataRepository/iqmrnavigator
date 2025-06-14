@@ -83,7 +83,7 @@ conference:
           - name: Dining and Attractions
             relative_url: /information/dining-attractions 
           - name: Research Design Schedule
-            relative_url: /information/research-design-schedule/
+            relative_url: /information/research-design-schedule
           - name: Zotero
             relative_url: /information/zotero
         #  - name: Contact
