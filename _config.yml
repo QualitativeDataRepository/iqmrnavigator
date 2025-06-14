@@ -80,12 +80,12 @@ conference:
         menu:
           - name: Overview
             relative_url: /information
-          - name: Zotero
-            relative_url: /information/zotero
           - name: Dining and Attractions
             relative_url: /information/dining-attractions 
-        #  - name: Travel
-       #     relative_url: /information/travel/
+          - name: Research Design Schedule
+            relative_url: /information/research-design-schedule/
+          - name: Zotero
+            relative_url: /information/zotero
         #  - name: Contact
         #    relative_url: /information/contact/
       - name: Participant Information
