@@ -19,6 +19,17 @@ INSTITUTE CLASSROOMS
 
 The main institute location will be Eggers Hall, home of Syracuse University's Maxwell School. Most classes will be offered in this building. It is an approximately 8 minute walk from Milton Hall. [Here is a campus map](https://www.syracuse.edu/map/) to help you navigate. More details and directions and room numbers will be provided closer to the institute.
 
+The four primary modules every day will be held in **Eggers 010, 018, 032, and 060.** Signs will be posted throughout Eggers Hall with directions to these rooms. For reference, when leaving breakfast each morning on the second level of Eggers Hall in the Maxwell Commons, the most direct route to take is down the main stairs to the basement floor. Exiting the staircase, 010 will be to the left in a large lecture room, and 018, 032, and 060 will be down the hall to the right. Each room will be labeled with signs indicating the Module occurring in that room. GIS will be held in another building (location to be posted later).
+
+**The Research Designs will be held in the following locations:**
+  - Eggers 012: located in the basement of Eggers Hall (to the left when you exit the basement stairwell from           breakfast)
+  - Eggers 018: located in basement of Eggers Hall (down the hall to the right when you exit the basement stairwell     from breakfast)
+  - Eggers 100A: located on floor 1 of Eggers Hall (to the right when you arrive at the first floor from breakfast)
+  - Eggers 111: located on floor 1 of Eggers Hall (down the hall to the right when you arrive at the first floor        from breakfast)
+  - Eggers 113: located on floor 1 of Eggers Hall (down the hall to the right when you arrive at the first floor        from breakfast)
+  - Maxwell 204b: located on the 2nd floor of Maxwell (from breakfast head through the brick facade down the hall)
+  - Eggers 306b: located on the 3rd floor of Eggers Hall (to the right when you go up the stairs from breakfast-        into the Moynihan Institute)
+
 LIBRARY FACILITIES 
 ------------------
 
