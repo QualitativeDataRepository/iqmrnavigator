@@ -47,7 +47,7 @@ All IQMR participants present a research design for feedback and critique by par
 
 ## IQMR Facebook
 
-The IQMR Facebook has names, images (unless opting out), affiliations, and email addresses of all IQMR 2025 participants and staff. Participants review a draft version about two weeks before the Institute and can request changes. The final version is made available in the IQMR Zotero group shortly before the Institute.
+The IQMR Facebook has names, images (unless opting out), affiliations, and email addresses of all IQMR 2025 participants and staff. Participants can review a draft version on [Zotero](https://www.zotero.org/groups/5976232/iqmr/collections/498N3CAN/items/B8XI2BVR/collection) and faculty can review a draft version on Dropbox and request changes. The final version is made available in the IQMR Zotero group shortly before the Institute.
 
 HEALTH AND SAFETY
 ------
