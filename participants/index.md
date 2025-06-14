@@ -232,16 +232,8 @@ ATTIRE
 
 Dress is casual. Please wear what you would wear in a classroom in your home institution. Jeans and shorts are fine. The weather is likely to be mild, but you should bring some warm clothes as well in case we have a cold snap, as well as an umbrella and/or a light raincoat.
 
-HEALTH AND SAFETY
+HEALTH, SAFETY & MEDICAL INSURANCE
 ------
 
-Syracuse University Department of Public Safety (DPS), the campus police, is available 24/7 at 315.443.2224. You can also reach DPS by dialing #78 (#SU) from your cell phone, or by utilizing the [Orange Safe app](https://dps.syr.edu/services-resources/orange-safe-app/){:target="_blank"}.
+See [General Information Page](https://iqmrnavigator.org/information/) for more information.
 
-If you become ill and would like to see a medical professional, you can go to the [WellNow Urgent Care](https://www.wellnow.com/urgent-care-centers/new-york/syracuse/1600-erie-blvd-e-13210), which is located at 1600 Erie Boulevard East, (315) 401-3204.  
-
-
-### MEDICAL INSURANCE
-
-Visitors from abroad are strongly encouraged to check with their home institutions to determine whether they will be covered for any medical costs and expenses they may incur should they fall ill or have an accident while in the United States. If not, you are strongly encouraged to purchase health insurance in your home country that will cover you in the United States for the complete duration of your stay in the event of illness or injury. Medical care in the United States is expensive, and we recommend that you secure health insurance coverage to protect against exorbitant costs.
-
-Visitors from U.S. universities should check with their health offices to ensure you are covered when away from campus and in June, and to make sure you have necessary paperwork to evidence that coverage. If you are not covered, we again strongly encourage you to purchase insurance for your time in Syracuse.
