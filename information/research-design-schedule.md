@@ -16,7 +16,7 @@ Please note that the (AI-generated) session titles are to be taken *very much* w
 - **Session 3: Africa I**
 	- *Instructor: MacLean* --- Eggers 306B
 - **Session 4: Proto: United States Politics**
-	- *Instructor: Kapiszewski* --- Eggers 204B
+	- *Instructor: Kapiszewski* --- Maxwell 204B
 - **Session 5: Proto: Africa and Middle East**
 	- *Instructor: Mahoney* --- Eggers 012
 - **Session 6: Proto: Governance and Public Policy**
@@ -27,10 +27,10 @@ Please note that the (AI-generated) session titles are to be taken *very much* w
 ## TUESDAY, JUNE 17, 2025
 *6 Sessions*
 
-- **Session 8: Local and Urban Governance II**
+- **Session 8: Local and Urban Governance I**
 	- *Instructor: Trudeau* --- Eggers 306B
 - **Session 9: Proto: Democracy and Political Regimes**
-	- *Instructor: Shen-Bayh* --- Eggers 204B
+	- *Instructor: Shen-Bayh* --- Maxwell 204B
 - **Session 10: Political Economy I**
 	- *Instructor: Mahoney* --- Eggers 111
 - **Session 11: International Relations II**
@@ -44,7 +44,7 @@ Please note that the (AI-generated) session titles are to be taken *very much* w
 *5 Sessions*
 
 - **Session 14: Local and Urban Governance II**
-	- *Instructor: MacLean* --- Eggers 204B
+	- *Instructor: MacLean* --- Maxwell 204B
 - **Session 15: Social Movements I**
 	- *Instructor: Kapiszewski* --- Eggers 100A
 - **Session 16: Environment and Climate**
@@ -68,7 +68,7 @@ Please note that the (AI-generated) session titles are to be taken *very much* w
 - **Session 23: Proto: Technology, Media, and Digital Politics**
 	- *Instructor: Kapiszewski* --- Eggers 018
 - **Session 24: Peace, Collective Action, and Mediation**
-	- *Instructor: Ahmed* --- Eggers 204B
+	- *Instructor: Ahmed* --- Maxwell 204B
 
 
 ------
@@ -80,7 +80,7 @@ Please note that the (AI-generated) session titles are to be taken *very much* w
 - **Session 25: State Power and Anti-Authoritarian Resistance**
 	- *Instructor: Tuñón* --- Eggers 113
 - **Session 26: Proto: Conflict, War, and Peace**
-	- *Instructor: Bond* --- Eggers 204B
+	- *Instructor: Bond* --- Maxwell 204B
 - **Session 27: Conflict and Peacebuilding I**
 	- *Instructor: Carter* --- Eggers 111
 - **Session 28: Political Economy II**
@@ -92,7 +92,7 @@ Please note that the (AI-generated) session titles are to be taken *very much* w
 *4 Sessions*
 
 - **Session 30: Proto: Latin America and Mexico**
-	- *Instructor: Carter* --- Eggers 204B
+	- *Instructor: Carter* --- Maxwell 204B
 - **Session 31: Conflict and Peacebuilding II**
 	- *Instructor: Parkinson* --- Eggers 111
 - **Session 32: United States Politics II**
@@ -110,7 +110,7 @@ Please note that the (AI-generated) session titles are to be taken *very much* w
 - **Session 36: Proto: International Relations and Global Politics**
 	- *Instructor: Parkinson* --- Eggers 018
 - **Session 37: Identity, Race, and Gender I**
-	- *Instructor: Bond* --- Eggers 204B
+	- *Instructor: Bond* --- Maxwell 204B
 
 ## THURSDAY, JUNE 26, 2025
 *3 Sessions*
