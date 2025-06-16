@@ -269,7 +269,7 @@ title: IQMR 2025 Schedule
                                            <div class="session-content special-content">
                             <div class="session-title">Africa Regional Lunch </div>
                             <div class="session-location">12pm, Eggers 341</div>
-                            <div class="session-title-2">Openning Receiption</div>
+                            <div class="session-title-2">Opening Reception</div>
                             <div class="session-location">6pm, <a href="https://maps.app.goo.gl/3zgN5QYKgBtkkFCN9" target="_blank">Institute for Veterans and Military Families IVMF</a></div>
                         </div>
                     </td>
