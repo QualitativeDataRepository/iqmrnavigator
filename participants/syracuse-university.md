@@ -58,3 +58,28 @@ The pool is open Monday through Friday from 11 a.m. to 2 p.m.
 
 Both the gym and the pool will be closed on June 19 in recognition of the Juneteenth holiday.
 
+ON-CAMPUS FOOD OPTIONS
+----
+
+Gerry’s Cafe - Eggers Hall 3rd floor, Room 300
+Located in the same building as IQMR, the establishment primarily serves made-to-order sandwiches and wraps, as well as premade salads, along with a limited selection of warm options and various snacks. See the menu [here.](https://campusdining.syr.edu/wp-content/uploads/Eggers-Menu.pdf) This cafe is open from 8 a.m. to 2 p.m., Monday through Friday, and closes on weekends.
+    	
+Schine Student Center Dining
+A few minutes away from Eggers Hall (please, see the map) is the Schine Student Center, described above, which offers the following options: CoreLife Eatery, Halal Shack, Panda Express, and Tavola 44. It also includes a place with pastries and sweet treats, Biscotti Cafe on the Hill, and a Dunkin’. For details on the hours of operation of each of these options, visit: [Campus Dining](https://campusdining.syr.edu/hours/schine-and-goldstein-student-center-dining/) 
+
+[Food.com](http://Food.com)
+Featuring Yella’s milkshakes, hot sandwiches, and breakfast options; Choolaah rice bowls
+Newhouse School, Room 244.
+[Yella’s Breakfast Menu](https://campusdining.syr.edu/wp-content/uploads/BREAKFAST-scaled.jpg)
+[Yella’s Lunch Menu](https://campusdining.syr.edu/wp-content/uploads/LUNCH-scaled.png)
+[Yella’s Milkshake Menu](https://campusdining.syr.edu/wp-content/uploads/SYRACUSE-MILKSHAKE-MENU.png)
+[Choolaah’s Bowl Menu](https://campusdining.syr.edu/wp-content/uploads/ChoolaahX_Menu_Dec24_SYR_01-07-2025.png)
+
+ON-CAMPUS EMERGENCY SERVICES
+----
+Syracuse University Department of Public Safety: 315.443.2224
+Syracuse University Ambulance: 315.443.4299
+
+For further information, please review [Syracuse University’s Emergency Guide and Contacts.](https://www.syracuse.edu/about/contact/emergencies/)
+
+We also recommend you download OrangeNow - The official Syracuse University daily companion app, where you can find information about on-campus facilities and events. Download it at [https://its.syr.edu/orangenow/](https://its.syr.edu/orangenow/ ) 
