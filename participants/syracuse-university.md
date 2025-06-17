@@ -30,6 +30,8 @@ The four primary modules every day will be held in **Eggers 010, 018, 032, and 0
   - Maxwell 204b: located on the 2nd floor of Maxwell (from breakfast head through the brick facade down the hall)
   - Eggers 306b: located on the 3rd floor of Eggers Hall (to the right when you go up the stairs from breakfast-        into the Moynihan Institute)
 
+  You can find maps and of Eggers and Maxwell Hall with marked rooms are [available on a dedicated page](/information/maxwell-eggers).
+
 LIBRARY FACILITIES 
 ------------------
 

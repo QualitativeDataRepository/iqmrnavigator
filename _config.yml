@@ -82,6 +82,8 @@ conference:
             relative_url: /information
           - name: Dining and Attractions
             relative_url: /information/dining-attractions 
+          - name: Eggers and Maxwell Room Maps
+            relative_url: /information/maxwell-eggers
           - name: Research Design Schedule
             relative_url: /information/research-design-schedule
           - name: Zotero
