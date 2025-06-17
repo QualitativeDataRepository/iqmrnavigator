@@ -315,6 +315,7 @@ title: IQMR 2025 Schedule
                             <div class="session-location">12pm, Eggers 341</div>
                             <div class="session-title-2">Tuesday Evening Talk: Research Design</div>
                             <div class="session-instructors">James Mahoney and Baobao Zhang</div>
+                            <div class="session-location">Maxwell Auditorium, 7pm</div>
                         </div>
                     </td>
                     <td class="session-cell">
