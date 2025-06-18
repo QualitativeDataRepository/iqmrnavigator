@@ -357,9 +357,9 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content special-content">
                             <div class="session-title">Latin America Regional Lunch</div>
-                            <div class="session-location">12pm, Eggers 341</div>
+                            <div class="session-location">12pm, Eggers 220 (Strasser Legacy)</div>
                             <div class="session-title-2">Fieldwork Meeting</div>
-                            <div class="session-location">7pm, Eggers 341(TBC)</div>
+                            <div class="session-location">7pm, Eggers 220 (Strasser Legacy)</div>
                         </div>
                     </td>
                     <td class="session-cell">
