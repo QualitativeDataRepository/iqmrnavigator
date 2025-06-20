@@ -20,7 +20,7 @@ Please contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown
 
 -   Friday, June 20 -- Dinner for workshop participants
     -   7:00pm 
-    -   Location -- Dinner at [Eden](https://www.edencny.com/)
+    -   Location -- Dinner at the [Cider Mill](https://www.thecidermill.us/)
 
 -   Saturday, June 21 -- "Advances in Qualitative and Multi-Method Research"
     -   9:00am to 5:15pm -- Workshop
