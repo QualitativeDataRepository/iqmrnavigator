@@ -645,7 +645,7 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/geographic-information-systems#geographic-information-systems-i-m29-june-26">Geographic Information Systems I</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
-                            <div class="session-location">LS Bld:  CST 3-116 (subject to change)</div>
+                            <div class="session-location">Lyman Hall 219</div>
                         </div>
                     </td>
                     <td class="session-cell">
@@ -687,7 +687,7 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/geographic-information-systems#geographic-information-systems-ii-m33-june-27">Geographic Information Systems II</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
-                            <div class="session-location">LS Bld:  CST 3-116</div>
+                            <div class="session-location">Lyman Hall 219 </div>
                         </div>
                     </td>
                     <td class="session-cell">
