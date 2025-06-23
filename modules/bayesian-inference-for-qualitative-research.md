@@ -76,7 +76,7 @@ Suggested reading:
 ### 1:30pm - 3:00pm – Bayesian Guidance for Research Design
 
 
-This session will give a Bayesian perspective on some key elements of research design: case selection, and iterative research that involves going back and forth between theory refinement, data collection, and data analysis. Bayesianism provides a rigorous justification for many practices that are commonly employed in qualitative research but go against standard methodological prescriptions.
+This session will give a Bayesian perspective on some key elements of research design: including iterative research that involves going back and forth between theory refinement, data collection, and data analysis. Bayesianism provides a rigorous justification for many practices that are commonly employed in qualitative research but go against standard methodological prescriptions.
 
 **Required readings:**
 
