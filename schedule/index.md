@@ -666,7 +666,7 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/rethinking-small-n#re-thinking-small-n-comparisons-i-m32-june-26">Re-thinking Small-N Comparisons I</a></div>
                             <div class="session-instructors">Instructor: Nicholas Rush</div>
-                            <div class="session-location">Eggers 032</div>
+                            <div class="session-location">Eggers 032 (subject to change)</div>
                         </div>
                     </td>
                 </tr>
@@ -680,7 +680,7 @@ title: IQMR 2025 Schedule
                     <td class="session-cell">
                         <div class="session-content special-content">
                             <div class="session-title">Closing Session and Feedback</div>
-                            <div class="session-location">Maxwell Auditorium</div>
+                            <div class="session-location">3.30pm--5pm, Maxwell Auditorium</div>
                         </div>
                     </td>
                     <td class="session-cell">
@@ -701,14 +701,14 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#process-tracing-and-typological-theories-ii-m34-june-27">Process Tracing and Typological Theories II</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
-                            <div class="session-location">Eggers 032</div>
+                            <div class="session-location">Eggers 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/rethinking-small-n#re-thinking-small-n-comparisons-ii-m36-june-27">Re-thinking Small-N Comparisons II</a></div>
                             <div class="session-instructors">Instructor: Nicholas Rush Smith</div>
-                            <div class="session-location">Eggers 060</div>
+                            <div class="session-location">Eggers 032 (subject to change)</div>
                         </div>
                     </td>
                 </tr>
