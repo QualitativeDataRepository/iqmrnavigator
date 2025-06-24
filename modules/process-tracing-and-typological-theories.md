@@ -74,7 +74,7 @@ This session works through exercises on process tracing, focusing on the tasks o
 
   - Briefly review “Archival Interpretation Docs full texts” (these are not self-explanatory but Prof. Bennett will explain them in class).
 
-### 1:30pm - 3:00pm – Formal Bayesian Process Tracing Exercises
+### 10:45am - 12:15pm – Formal Bayesian Process Tracing Exercises
 
 
 This session works through exercises on formal Bayesian process tracing, emphasizing the tasks of using the logic of the alternative explanations to estimate the relative likelihood of the evidence under these explanations.
@@ -85,7 +85,7 @@ This session works through exercises on formal Bayesian process tracing, emphasi
 
   - Read and prepare Bayesian process tracing exercise Iraq WMD
 
-### 3:30pm - 5:00pm – Discussion of Student Examples of Typological Theories
+### 1:30pm - 3:00pm – Discussion of Student Examples of Typological Theories
 
 
 This session will discuss examples of typological theories posed by students in the course.

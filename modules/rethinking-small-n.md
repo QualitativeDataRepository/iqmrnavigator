@@ -72,7 +72,7 @@ Unless otherwise noted, all readings are available in Erica S. Simmons and Nicho
 -   Chapter 6: From Cases to Sites: Studying Global Processes in Comparative Politics, Thea Riofrancos
 -   Chapter 9: Against Methodological Nationalism: Seeing Comparison as Encompassing through the Arab Uprisings, Jillian Schwedler
 
-###  1:30pm - 3:00pm -- Strategies of Comparison II: Studying Complex Cases
+###  10:45am - 12:30pm -- Strategies of Comparison II: Studying Complex Cases
 
 Building on the previous session, this session will examine three more strategies of comparison. First, it will examine how to compare across historical cases that interact with one another. Second, it will focus on how the comparison of contexts, rather than cases, can be leveraged for theory development---an underappreciated but critical objective of political science research. Finally, it will include a discussion of how to conduct cross-national comparisons where the two countries do not lend themselves to controlled comparison through the selection of different foci for research.
 
@@ -84,7 +84,7 @@ Unless otherwise noted, all readings are available in Erica S. Simmons and Nicho
 -   Chapter 10: Comparative Analysis for Theory Development, Mala Htun and Francesca R. Jensenius
 -   Chapter 11: Problems and Possibilities of Comparison across Regime Types: Examples Involving China, Benjamin L. Read
 
-###  3:30pm - 5:00pm -- Making General Claims from Situated Comparisons
+###  1:30pm - 3:00pm -- Making General Claims from Situated Comparisons
 
 This session will examine the ends to which we compare and ask how we can make broad claims from comparative cases. In political science, research that is generalizable to as many cases as possible tends to be valued more than research which can explain only a few. This unit will push past these assumptions in two ways. First, it will provide logics for generalization not rooted in ideas of statistical generalizability or mechanical reproduction. Second, it will ask from where our desire to generalize comes and with what political and epistemological consequences.
 

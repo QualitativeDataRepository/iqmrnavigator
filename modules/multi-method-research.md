@@ -94,7 +94,7 @@ Suggested readings:
 
   - Levy Paluck, Elizabeth. 2010. “The Promising Integration of Qualitative Methods and Field Experiments.” *The ANNALS of the American Academy of Political and Social Science* 628(1):59‐71. [https://doi.org/10.1177/0002716209351510.](https://doi.org/10.1177/0002716209351510)
 
-### 1:30pm - 3:00pm – Multi-Method Designs Centering Case Studies
+### 10:45am - 12:15pm – Multi-Method Designs Centering Case Studies
 
 
 This session asks what multi-method research can add to studies that are basically qualitative case studies. We will consider exploratory designs where statistical approaches help broaden the range of ideas explored; ways that statistical text-as-data methods can provide support in summarizing and providing context for documents analyzed within qualitative research; approaches for using multi-method designs to facilitate movement across levels of analysis within a case study; and the use of experiments embedded within case studies.
@@ -105,7 +105,7 @@ This session asks what multi-method research can add to studies that are basical
 
   - Goertz, Gary. “Multimethod Research.” Security Studies, 25:3–24. [https://doi.org/10.1080/09636412.2016.1134016](https://doi.org/10.1080/09636412.2016.1134016)
 
-### 3:30pm - 5:00pm – Multi-method Designs for Concept-formation, Theory-building, and Measurement
+### 1:30pm - 3:00pm – Multi-method Designs for Concept-formation, Theory-building, and Measurement
 
 
 This session explores the long-standing, parallel qualitative, quantitative, and statistical/machine learning literatures on description, measurement, concept formation, and theory-building, and asks whether and how these traditions can be mixed in practice to produce better description, measurements, concepts, and theories. Can this earliest stage of research benefit from the same multi-method paradigms that we earlier applied to causal inference?
