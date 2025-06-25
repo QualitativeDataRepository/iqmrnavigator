@@ -48,7 +48,7 @@ When you check in, the lodging attendant will give you your apartment key and yo
 
 **Instructions for Checkout**
 
-Please, before leaving the apartment at Milton Hall, ensure that you wash all the kitchen utensils that were distributed (bowls, plates, cups, and cutlery), leave the linens in the bedrooms, and clean up all the trash.
+Please, before leaving the apartment at Milton Hall, ensure that you wash all the kitchen utensils that were distributed (bowls, plates, cups, and cutlery) and leave them in the suite kitchen, leave the linens in the bedrooms, and clean up all the trash.
 
 Also, please leave the key and fob with the front desk staff (Usual front desk staff will be on site from 8:00 a.m. to 8:00 p.m. However, if you leave at a time outside that window, a small blue bin will be available for you to leave your key and fob in). You may need to put these in an envelope -available at the front desk- if you have already discarded or lost the envelope in which your key and fob originally came.
 
