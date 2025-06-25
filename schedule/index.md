@@ -659,7 +659,7 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#process-tracing-and-typological-theories-i-m31-june-26">Process Tracing and Typological Theories I</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
-                            <div class="session-location">Maxwell Auditorium</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
@@ -701,7 +701,7 @@ title: IQMR 2025 Schedule
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#process-tracing-and-typological-theories-ii-m34-june-27">Process Tracing and Typological Theories II</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
-                            <div class="session-location">Maxwell Auditorium</div>
+                            <div class="session-location">Eggers 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
