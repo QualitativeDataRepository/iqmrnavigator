@@ -46,4 +46,12 @@ No matter at what hour you arrive at Milton Hall, there will be a lodging attend
 
 When you check in, the lodging attendant will give you your apartment key and your room key anda bag with your towel, linens, and pillow.  **Please don’t lose your keys**; they are very expensive to replace. You will also get your SU ID and other program materials when you check in. In your apartment, you will find your cleaning supplies and plate / bowl cup / utensils and toilet paper.  
 
-You will check out of Milton Hall on the morning of Friday June 27 for a late afternoon departure, or on the morning of Saturday June 28.  Each guest must formally sign out of Milton Hall and turn in their apartment key and room key when they leave. 
+**Instructions for Checkout**
+
+Please, before leaving the apartment at Milton Hall, ensure that you wash all the kitchen utensils that were distributed (bowls, plates, cups, and cutlery), leave the linens in the bedrooms, and clean up all the trash.
+
+Also, please leave the key and fob with the front desk staff (Usual front desk staff will be on site from 8:00 a.m. to 8:00 p.m. However, if you leave at a time outside that window, a small blue bin will be available for you to leave your key and fob in). You may need to put these in an envelope -available at the front desk- if you have already discarded or lost the envelope in which your key and fob originally came.
+
+Regarding transportation to the airport, we will have a trolley picking up participants from Milton Hall between Friday, June 27, 5:00 p.m. to 9:00 p.m., and Saturday, June 28, 7:00 a.m. to 1:00 p.m. 
+**Please note that the departure from Milton Hall should be no later than Sunday at 8:00 p.m.**
+
