@@ -194,14 +194,16 @@ Many IQMR participants will be flying to Syracuse, arriving at Syracuse Hancock 
 
 All IQMR participants nominated by their home department are responsible for making their own travel arrangements and paying for their own travel, as are participants selected through the general open pool. Christiane Page, Associate Director of the Center for Qualitative and Multi-Method Inquiry at Syracuse ([cmpage@syr.edu](mailto:cmpage@syr.edu)), will be in touch with all IQMR participants selected through "Open Pool" application process for Africa and Latin America concerning travel. Open Pool participants from the MENA region will make travel arrangements via the American Political Science Association (APSA).
 
+### Cuse Trolley to/from the airport
 Syracuse University has a “'cuse trolley” that you can use to travel from the airport to Milton Apartments when you arrive, and to travel back to the airport when you are departing.
 
 ![Cuse Shuttle](/assets/images/cuse-shuttle.png){:width="300px"}
 - ARRIVALS:  On June 14, the route will start at Syracuse Hancock Airport at Terminal A, near the “SYR” sign, and run a continuous loop from Terminal A to Milton Hall and back. The trolley will depart from the airport every hour, on the hour (approximately), during the hours noted below.  
     - Saturday, June 14:  12:00 pm to 9:00 pm
 - DEPARTURES:  On June 27 and June 28, the trolley will pick participants up at Milton Hall and take them to the airport. The trolley will  depart from Milton Hall every hour, on the hour (approximately), during the hours noted below.  
-    - Saturday, June 28:  7:00 am to 1:00 pm
     - Friday, June 27: 5:00 pm to 9:00 pm
+    - Saturday, June 28:  7:00 am to 1:00 pm
+
 
 If you arrive to Syracuse outside the hours that the trolley is running you have several options to travel between the airport and Milton Hall.
 To travel from the airport to Milton Hall, there are usually cabs available at the airport at Terminal A or B (i.e., at either end of the airport; follow the signs). You can use airport wifi (or your data plan on your phone, if it is activated), to call an Uber or a Lyft. 

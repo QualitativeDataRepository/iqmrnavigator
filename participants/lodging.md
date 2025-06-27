@@ -46,12 +46,13 @@ No matter at what hour you arrive at Milton Hall, there will be a lodging attend
 
 When you check in, the lodging attendant will give you your apartment key and your room key anda bag with your towel, linens, and pillow.  **Please don’t lose your keys**; they are very expensive to replace. You will also get your SU ID and other program materials when you check in. In your apartment, you will find your cleaning supplies and plate / bowl cup / utensils and toilet paper.  
 
-**Instructions for Checkout**
+### Checking out of Milton Hall
 
 Please, before leaving the apartment at Milton Hall, ensure that you wash all the kitchen utensils that were distributed (bowls, plates, cups, and cutlery) and leave them in the suite kitchen, leave the linens in the bedrooms, and clean up all the trash.
 
-Also, please leave the key and fob with the front desk staff (Usual front desk staff will be on site from 8:00 a.m. to 8:00 p.m. However, if you leave at a time outside that window, a small blue bin will be available for you to leave your key and fob in). You may need to put these in an envelope -available at the front desk- if you have already discarded or lost the envelope in which your key and fob originally came.
+Also, please leave the key and fob with the front desk staff (Usual front desk staff will be on site from 8:00 a.m. to 8:00 p.m. If you leave at a time outside that window, a small blue bin will be available for you to leave your key and fob in). You may need to put these in an envelope -- available at the front desk -- if you have already discarded or lost the envelope in which your key and fob originally came.
 
-Regarding transportation to the airport, we will have a trolley picking up participants from Milton Hall between Friday, June 27, 5:00 p.m. to 9:00 p.m., and Saturday, June 28, 7:00 a.m. to 1:00 p.m. 
-**Please note that the departure from Milton Hall should be no later than Sunday at 8:00 p.m.**
+The [Cuse Trolley](/participants/#cuse-trolley-tofrom-the-airport) will pick up participants from Milton Hall between Friday, June 27, 5:00 p.m. to 9:00 p.m., and Saturday, June 28, 7:00 a.m. to 1:00 p.m., departing at every full hour.
+
+**Please note that you must check out of Milton Hall by Saturday, 8pm unless you have communicated with us about staying an extra night, in which case you should depart no later than Sunday at 8:00 p.m.**
 
