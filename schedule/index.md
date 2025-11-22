@@ -249,7 +249,7 @@ title: IQMR 2026 Schedule
                     <td class="session-cell">
                         <div class="session-content special-content">
                             <div class="session-title">Unified Sessions</div>
-                            <div class="session-instructors">Instructors: Jaye Seawright, James Mahoney, and Lisa Wedeen</div>
+                            <div class="session-instructors">Instructors: Jaye Seawright, David Waldner, and Lisa Wedeen</div>
                             <div class="session-location">Maxwell Auditorium</div>
                         </div>
                     </td>
@@ -310,7 +310,7 @@ title: IQMR 2026 Schedule
                     <td class="session-cell">
                         <div class="session-content special-content">
                             <div class="session-title">Tuesday Evening Talk: Publishing Qualitative and Multi-Method Research</div>
-                            <div class="session-instructors">TBD</div>
+                            <div class="session-instructors">Nicholas Rush-Smith (<i>Comparative Politics</i>), Chloe Thurston (<i>Perspectives on Politics</i>), Sebastian Karcher (<i>APSR</i>) </div>
                             <div class="session-location">Maxwell Auditorium, 7pm</div>
                         </div>
                     </td>
@@ -354,8 +354,6 @@ title: IQMR 2026 Schedule
                         <div class="session-content special-content">
                             <div class="session-title">Interest Group Lunch</div>
                             <!-- <div class="session-location">12pm, TBD</div> -->
-                            <div class="session-title-2">Fieldwork Evening Gathering</div>
-                            <!-- <div class="session-location">7pm, TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
@@ -374,15 +372,15 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Geographic Information Systems I</div>
-                            <div class="session-instructors">Instructor: Jonnell Robinson</div>
+                            <div class="session-title">Re-thinking Small-N Comparisons I</div>
+                            <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Re-thinking Small-N Comparisons I</div>
-                            <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
+                              <div class="session-title">Geographic Information Systems I</div>
+                            <div class="session-instructors">Instructor: Jonnell Robinson</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -411,15 +409,15 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Geographic Information Systems II</div>
-                            <div class="session-instructors">Instructor: Jonnell Robinson</div>
+                            <div class="session-title">Re-thinking Small-N Comparisons II</div>
+                            <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Re-thinking Small-N Comparisons II</div>
-                            <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
+                            <div class="session-title">Geographic Information Systems II</div>
+                            <div class="session-instructors">Instructor: Jonnell Robinson</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -591,7 +589,13 @@ title: IQMR 2026 Schedule
                         <span class="day-name">Wednesday</span>
                         <span class="day-date">June 24</span>
                     </td>
-                    <td class="session-cell empty-cell"></td>
+                    <td class="session-cell">
+                        <div class="session-content special-content">
+                                                  <div class="session-title-2">Fieldwork Evening Gathering</div>
+                            <!-- <div class="session-location">7pm, TBD</div> -->
+
+                         </div>
+                    </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title">Bayesian Inference for Qualitative Research I</div>
