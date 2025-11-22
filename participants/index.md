@@ -6,7 +6,7 @@ title: Participant Information
 OVERVIEW
 --------
 
-We look forward to welcoming you to Syracuse University for the Institute for Qualitative and Multi-Method Research (IQMR) 2025!
+We look forward to welcoming you to Syracuse University for the Institute for Qualitative and Multi-Method Research (IQMR) 2026!
 
 Please review carefully the information included on this page. Email Sebastian Karcher ([skarcher@syr.edu](mailto:skarcher@syr.edu)) with any questions you have.
 

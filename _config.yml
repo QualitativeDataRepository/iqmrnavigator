@@ -1,8 +1,8 @@
-title: IQMR 2025
+title: IQMR 2026
 alt_title: IQMR Navigator
 preposition: ''
 description: >-
-  Institute for Qualitative and Multi-Method Research (IQMR) 2025
+  Institute for Qualitative and Multi-Method Research (IQMR) 2026
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://iqmrnavigator.org" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -166,7 +166,7 @@ conference:
 
   # Information boxes
   info_bars:
-    - title: Welcome to the IQMR 2025 Weekend Workshops
+    - title: Welcome to the IQMR 2026 Weekend Workshops
       color: primary
       text: |
         The "Advances in Qualitative and Multi-Methods Research" Workshop and the "Emerging Methodologist Workshop" are for invited authors only. IQMR participants are encouraged to spend the weekend getting to know each other better and enjoying the beautiful central New York region.

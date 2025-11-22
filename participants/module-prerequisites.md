@@ -8,7 +8,7 @@ Some of IQMR’s module sequences have prerequisites that need to be completed i
 
 Other module sequences, listed below, require participants to have basic familiarity with some content, such as a programming language or basic statistical concepts. This requirement helps to ensure that the modules are maximally useful for everyone, focusing on methods and techniques, and not basic instruction in how to use the software.
 
-Participants who plan to take modules with prerequisites **are required** to either take a short (asynchronous) online workshop providing basic familiarity, or demonstrate their pre-existing knowledge of the software, by **June 8, 2025**.
+Participants who plan to take modules with prerequisites **are required** to either take a short (asynchronous) online workshop providing basic familiarity, or demonstrate their pre-existing knowledge of the software, by **June 8, 2026**.
 
 IQMR will also offer participants the opportunity to attend drop-in office hours for additional help with some of these software packages. Details on those office hours will be provided here in the coming months.
 

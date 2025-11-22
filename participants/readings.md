@@ -7,7 +7,7 @@ It is very important that you do as much of the required reading as possible bef
 
 Please remember that IQMR's reserves are for your use only.
 
-We will try to make all readings (and other supporting materials for IQMR 2025 available through a dedicated Zotero group by May 2025).
+We will try to make all readings (and other supporting materials for IQMR 2026 available through a dedicated Zotero group by May 2026).
 
 Some of the modules require you to read multiple chapters from the same book. For those modules, we ask you to obtain the book. Required books are noted at the top of a module sequence. Many of these required books are available online from the Syracuse University library. You should be able to access them there via the links we have included on Zotero.
 

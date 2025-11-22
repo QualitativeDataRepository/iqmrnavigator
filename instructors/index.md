@@ -9,7 +9,7 @@ Overview
 Materials to Provide to IQMR 
 ----------------------------
 
-Please keep in mind the following due dates for materials related to the modules you will teach at IQMR 2025. The more closely you follow this schedule the more smoothly IQMR will run!
+Please keep in mind the following due dates for materials related to the modules you will teach at IQMR 2026. The more closely you follow this schedule the more smoothly IQMR will run!
 
 -   **MARCH 15:** Module sequence description
     -   Update or add a description of your [module sequence to this Google Doc](https://docs.google.com/document/d/1N36CjxfIinW9W0-RUfow8LA8qYq8FrdU_P3nDd779K4/edit?tab=t.0#heading=h.mowhwuvkliet).
@@ -65,7 +65,7 @@ The first, third, and fourth sessions of each instructional day at IQMR are rese
 Materials, Technology, and Services
 -----------------------------------
 
-IQMR 2025 is innovating in a number of ways related to materials provision. [More about those changes, and additional information](/instructors/materials-service.md) on technology and services.
+IQMR is innovating in a number of ways related to materials provision. [More about those changes, and additional information](/instructors/materials-service.md) on technology and services.
 
 Chairing Research Design Sessions
 ---------------------------------

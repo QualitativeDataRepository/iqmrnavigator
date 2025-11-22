@@ -1,9 +1,9 @@
 ---
 layout: page
-title: IQMR 2025 Research Design Instructions
+title: IQMR 2026 Research Design Instructions
 ---
 
-**Research Design Due Date: June 1, 2025** 
+**Research Design Due Date: June 1, 2026** 
 
 All IQMR participants are required to present a research design. Doing so offers an opportunity to receive helpful suggestions and critiques on a proposed or in-progress project. The designs are presented and discussed in seminars that bring together participants with related interests, and are led by an IQMR faculty member. The sessions are constructive, supportive, and typically provide presenters with valuable new ideas for their projects. IQMR participants routinely indicate that the research design sessions were among the most valuable aspects of IQMR.
 

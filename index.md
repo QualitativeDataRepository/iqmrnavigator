@@ -3,9 +3,9 @@ layout: home
 title: IQMR Navigator
 ---
 
-## Welcome to IQMR 2025
+## Welcome to IQMR 2026
 
-Welcome to the Institute for Qualitative and Multi-Method Research (IQMR), and welcome to the "Navigator" website for IQMR 2025!
+Welcome to the Institute for Qualitative and Multi-Method Research (IQMR), and welcome to the "Navigator" website for IQMR 2026!
 
 IQMR is a two-week training program that takes place each June at the Maxwell School of Syracuse University. Each year approximately 160 graduate students and junior faculty from all over the United States and around the world attend IQMR. Between 25-30 instructors join us each summer. Most attendees are advanced graduate students or junior faculty in various social science disciplines (with an emphasis on political science).
 

@@ -4,11 +4,11 @@ title: Materials, Technology, and Services
 
 ---
 
-IQMR 2025 is innovating in a number of ways related to materials provision. This section outlines those changes, and offers additional information on technology and services.
+IQMR is innovating in a number of ways related to materials provision. This section outlines information on technology and services.
 
 ## Elimination of Paper
 
-Please note that beginning in 2025, IQMR is seeking to eliminate paper whenever possible. For instance, you will no longer be provided upon arrival at the Institute with copies of the research designs to be presented in the research design sessions that you are chairing, or a copy of the IQMR face book. (The forests thank you for your understanding.)
+IQMR is seeking to eliminate paper whenever possible. For instance, you will no longer be provided upon arrival at the Institute with copies of the research designs to be presented in the research design sessions that you are chairing, or a copy of the IQMR face book. (The forests thank you for your understanding.)
 
 ## Printing
 
@@ -16,7 +16,7 @@ Unfortunately, there are no printing services available to IQMR instructors. If 
 
 ## Materials Storage
 
-In 2025, IQMR is transitioning from using BlackBoard to store module readings, materials, and associated powerpoint slides to using Zotero to store these items. IQMR will manage the Zotero library and ensure that all materials are available to IQMR participants (and only to IQMR participants). We simply ask that you send us the materials that you would like distributed via Zotero following the timeline outlined above.
+IQMR has transitioned from using BlackBoard to store module readings, materials, and associated powerpoint slides to using Zotero to store these items. IQMR will manage the Zotero library and ensure that all materials are available to IQMR participants (and only to IQMR participants). We simply ask that you send us the materials that you would like distributed via Zotero following the timeline outlined above.
 
 ## Accessing Your Powerpoint Slides to Teach
 

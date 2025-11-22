@@ -58,7 +58,7 @@ Instructors are compensated an additional \$350 for each research design session
 
 ## Per Diem
 
-Beginning in 2025, IQMR instructors are reimbursed for meals that the Institute does not provide and other incidentals via a fixed per diem based on the [ GSA rate for meals and incidentals for Syracuse](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-results?fiscal_year=2024&state=NY&perdiemSearchVO_city=syracuse&action=perdiems_report&zip=&op=Find+Rates&form_build_id=form-qZpQ5pRIvtMSNASLi8edculZ7y5X_UCRrHlRCtiG8P4&form_id=perdiem_form){:target="_blank"}. You do not need to keep or submit receipts. You are responsible for the payment of any federal, state, or local taxes, or any other taxes that may be payable in respect to all amounts received as part of this agreement.
+IQMR instructors are reimbursed for meals that the Institute does not provide and other incidentals via a fixed per diem based on the [ GSA rate for meals and incidentals for Syracuse](https://www.gsa.gov/travel/plan-book/per-diem-rates/per-diem-rates-results?fiscal_year=2024&state=NY&perdiemSearchVO_city=syracuse&action=perdiems_report&zip=&op=Find+Rates&form_build_id=form-qZpQ5pRIvtMSNASLi8edculZ7y5X_UCRrHlRCtiG8P4&form_id=perdiem_form){:target="_blank"}. You do not need to keep or submit receipts. You are responsible for the payment of any federal, state, or local taxes, or any other taxes that may be payable in respect to all amounts received as part of this agreement.
 
 ## Travel Reimbursement
 
