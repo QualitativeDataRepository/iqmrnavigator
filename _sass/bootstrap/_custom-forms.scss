@@ -6,6 +6,7 @@
 // Checkboxes and radios
 //
 // Base class takes care of all the key behavioral aspects.
+@use "sass:math";
 
 .custom-control {
   position: relative;
@@ -26,13 +27,13 @@
   left: 0;
   z-index: -1; // Put the input behind the label so it doesn't overlay text
   width: $custom-control-indicator-size;
-  height: ($font-size-base * $line-height-base + $custom-control-indicator-size) / 2;
+  height: math.div(($font-size-base * $line-height-base + $custom-control-indicator-size), 2);
   opacity: 0;
 
   &:checked ~ .custom-control-label::before {
     color: $custom-control-indicator-checked-color;
     border-color: $custom-control-indicator-checked-border-color;
-    @include gradient-bg($custom-control-indicator-checked-bg);
+    height: math.div(($font-size-base * $line-height-base + $custom-control-indicator-size), 2);
     @include box-shadow($custom-control-indicator-checked-box-shadow);
   }
 
@@ -83,8 +84,7 @@
   // Background-color and (when enabled) gradient
   &::before {
     position: absolute;
-    top: ($font-size-base * $line-height-base - $custom-control-indicator-size) / 2;
-    left: -($custom-control-gutter + $custom-control-indicator-size);
+    top: math.div(($font-size-base * $line-height-base - $custom-control-indicator-size), 2);
     display: block;
     width: $custom-control-indicator-size;
     height: $custom-control-indicator-size;
@@ -96,15 +96,16 @@
   }
 
   // Foreground (icon)
-  &::after {
+    &::after {
     position: absolute;
-    top: ($font-size-base * $line-height-base - $custom-control-indicator-size) / 2;
-    left: -($custom-control-gutter + $custom-control-indicator-size);
+    top: math.div(($font-size-base * $line-height-base - $custom-control-indicator-size), 2);
     display: block;
     width: $custom-control-indicator-size;
     height: $custom-control-indicator-size;
     content: "";
-    background: no-repeat 50% / #{$custom-control-indicator-bg-size};
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-size: $custom-control-indicator-bg-size;
   }
 }
 
@@ -186,7 +187,7 @@
     }
 
     &::after {
-      top: add(($font-size-base * $line-height-base - $custom-control-indicator-size) / 2, $custom-control-indicator-border-width * 2);
+      top: add(math.div(($font-size-base * $line-height-base - $custom-control-indicator-size), 2), $custom-control-indicator-border-width * 2);
       left: add(-($custom-switch-width + $custom-control-gutter), $custom-control-indicator-border-width * 2);
       width: $custom-switch-indicator-size;
       height: $custom-switch-indicator-size;
@@ -404,7 +405,7 @@
   &::-webkit-slider-thumb {
     width: $custom-range-thumb-width;
     height: $custom-range-thumb-height;
-    margin-top: ($custom-range-track-height - $custom-range-thumb-height) / 2; // Webkit specific
+    margin-top: math.div($custom-range-track-height - $custom-range-thumb-height, 2); // Webkit specific
     @include gradient-bg($custom-range-thumb-bg);
     border: $custom-range-thumb-border;
     @include border-radius($custom-range-thumb-border-radius);
@@ -479,7 +480,7 @@
     cursor: $custom-range-track-cursor;
     background-color: transparent;
     border-color: transparent;
-    border-width: $custom-range-thumb-height / 2;
+    border-width: math.div($custom-range-thumb-height, 2);
     @include box-shadow($custom-range-track-box-shadow);
   }
 
