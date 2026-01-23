@@ -101,12 +101,12 @@ You can also find videos and getting started guides at many libraries,
 e.g. [here from the Harvard
 Libraries](https://guides.library.harvard.edu/zotero).
 
-Once you have joined the IQMR 2025 Zotero group, the group will become
+Once you have joined the IQMR 2026 Zotero group, the group will become
 available in your local Zotero app [when it
 syncs](https://www.zotero.org/support/sync). If you are not
 already syncing Zotero, the app will prompt you to set sync up with your
 username and password or you can enable sync in the preferences. When
-you have synced, the IQMR 2025 group will appear at the left, below your
+you have synced, the IQMR 2026 group will appear at the left, below your
 personal library, and sorted alphabetically among any other Zotero
 groups you may have.
 
