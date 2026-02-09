@@ -295,7 +295,7 @@ title: IQMR 2026 Schedule
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title">Interpretive Methods I</div>
-                            <div class="session-instructors">Instructors: Lisa Wedeen and Maria Blajer de la Garza</div>
+                            <div class="session-instructors">Instructors: Lisa Wedeen and Yuna Blajer de la Garza</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -338,7 +338,7 @@ title: IQMR 2026 Schedule
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title">Interpretive Methods II</div>
-                            <div class="session-instructors">Instructors: Lisa Wedeen and Maria Blajer de la Garza</div>
+                            <div class="session-instructors">Instructors: Lisa Wedeen and Yuna Blajer de la Garza</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -366,7 +366,7 @@ title: IQMR 2026 Schedule
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title">Community-Engaged Research I</div>
-                            <div class="session-instructors">Instructors: TBD</div>
+                            <div class="session-instructors">Instructors: Jamila Michener</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -396,14 +396,14 @@ title: IQMR 2026 Schedule
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title">Research Ethics</div>
-                            <div class="session-instructors">Instructors: Diana Kapiszewski and TBD</div>
+                            <div class="session-instructors">Instructors: Diana Kapiszewski and Amanda Weiss</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title">Community-Engaged Research II</div>
-                            <div class="session-instructors">Instructors: TBD</div>
+                            <div class="session-instructors">Instructors: Jamila Michener</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -504,16 +504,11 @@ title: IQMR 2026 Schedule
                         <span class="day-name">Monday</span>
                         <span class="day-date">June 22</span>
                     </td>
-                    <td class="session-cell">
-                        <div class="session-content special-content">
-                           <div class="session-title">Emerging Methodologists Lightning Talk Lunch</div>
-                           <div class="session-location">Maxwell Auditorium, 12:15pm</div>
-                        </div>
-                    </td>
+                    <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title">Integrating Qualitative and Experimental Methods I</div>
-                            <div class="session-instructors">Instructors: Christopher Carter, Guadalupe Tuñón, and Tesalia Rizzo</div>
+                            <div class="session-instructors">Instructors: Christopher Carter and Guadalupe Tuñón</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -548,15 +543,14 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content special-content">
-                            <div class="session-title">Tuesday Evening Talk</div>
-                            <div class="session-instructors">TBD</div>
-                            <div class="session-location">Maxwell Auditorium, 7pm</div>
+                            <div class="session-title">Methods Bar</div>
+                            <div class="session-location">Strasser Commons and Strasser Legacy Room, 7pm</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title">Integrating Qualitative and Experimental Methods II</div>
-                            <div class="session-instructors">Instructors: Christopher Carter, Guadalupe Tuñón, and Tesalia Rizzo</div>
+                            <div class="session-instructors">Instructors: Christopher Carter and Guadalupe Tuñón</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
