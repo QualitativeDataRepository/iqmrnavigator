@@ -22,7 +22,7 @@ and hope to have all readings available by June 1.
   - > We are collecting your Zotero username in the same survey through
     > which you upload your research design.
   - > The Zotero group will remain available for 6 months after IQMR.
-    > Your access will be removed on December 31st, 2025.
+    > Your access will be removed on December 31st, 2026.
   - > You **must not share** any resources from the IQMR Zotero group
     > with anyone who did not attend the institute. Much of the readings
     > provided, e.g., are under copyright and we do not have permission
@@ -50,7 +50,7 @@ As part of the survey through which you submit your research design, you
 will provide us with your Zotero username. If you don’t remember your
 username, you can find it in the [Zotero
 settings](https://www.zotero.org/settings). We will then invite
-you to the IQMR 2025 Zotero group, typically within 48 hours. You will
+you to the IQMR 2026 Zotero group, typically within 48 hours. You will
 receive the invitation by email. If you believe you should have received
 an invitation but haven’t, also check your
 [inbox on the Zotero
@@ -101,12 +101,12 @@ You can also find videos and getting started guides at many libraries,
 e.g. [here from the Harvard
 Libraries](https://guides.library.harvard.edu/zotero).
 
-Once you have joined the IQMR 2025 Zotero group, the group will become
+Once you have joined the IQMR 2026 Zotero group, the group will become
 available in your local Zotero app [when it
 syncs](https://www.zotero.org/support/sync). If you are not
 already syncing Zotero, the app will prompt you to set sync up with your
 username and password or you can enable sync in the preferences. When
-you have synced, the IQMR 2025 group will appear at the left, below your
+you have synced, the IQMR 2026 group will appear at the left, below your
 personal library, and sorted alphabetically among any other Zotero
 groups you may have.
 

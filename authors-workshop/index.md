@@ -18,22 +18,22 @@ Please contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown
 
 ## Overall Schedule
 
--   Friday, June 20 -- Dinner for workshop participants
+-   Friday, June 19 -- Dinner for workshop participants
     -   7:00pm 
-    -   Location -- Dinner at the [Cider Mill](https://www.thecidermill.us/)
+    -   Location -- Dinner at 
 
--   Saturday, June 21 -- "Advances in Qualitative and Multi-Method Research"
+-   Saturday, June 20 -- "Advances in Qualitative and Multi-Method Research"
     -   9:00am to 5:15pm -- Workshop
     -   6:00pm -- Dinner at Sebastian Karcher's home
 
--   Sunday, June 22 -- [Emerging Methodologists Workshop](https://sigla.georgetown.domains/emworkshop/){:target="_blank"}
+-   Sunday, June 21 -- [Emerging Methodologists Workshop](https://sigla.georgetown.domains/emworkshop/){:target="_blank"}
     -   9:00am to 5:30pm -- Workshop
     -   6:30pm -- Dinner for workshop participants
-    -   Location -- Dinner at [Inka's](https://inkassyracuse.com/)
+    -   Location -- Dinner at
 
 ## Sharing your paper
 
-***Paper for the “Advances” workshop should be uploaded to the Dropbox folder (link provided via email) by Saturday June 7 and papers for the  "Emerging Methodologist" workshop should be uploaded to the Dropbox folder (link provided via email) by Friday, June 13.***
+***Paper for the “Advances” workshop should be uploaded to the Dropbox folder (link provided via email) by Saturday June 6 and papers for the  "Emerging Methodologist" workshop should be uploaded to the Dropbox folder (link provided via email) by Friday, June 12.***
 
 ## Travel to and from Syracuse
 
@@ -66,7 +66,7 @@ We will aim to transmit your reimbursement to you within two months after the wo
 ## Getting from the Hotel to Workshop
 We will walk from the hotel to Eggers Hall, where the workshop will take place, at 8:20AM on both days of the workshop. If you miss the walking group, please walk to the Northern main entrance of Eggers Hall, behind the Lincoln Statue, [following these directions](https://maps.app.goo.gl/GUrh78XmGCrPs85G7). The building is locked on weekends; someone will be there to open you, if not, call Diana, Christiane, or Sebastian.
 
-## Saturday, June 21
+## Saturday, June 20
 
 ### Advances in Qualitative and Multi-Method Research 
 
@@ -109,7 +109,7 @@ Everyone!
 
 -------
 
-## Sunday, June 22 
+## Sunday, June 21 
 
 ### Emerging Methodologists Workshop 
 
@@ -172,4 +172,4 @@ Everyone!
 
 **Dinner**
 
-[Inka's](https://inkassyracuse.com/), Downtown Syracuse
+

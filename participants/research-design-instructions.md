@@ -79,7 +79,7 @@ As noted below, your research design should include a one-page data management p
     -   How will you securely store and preserve data sources after project completion?
     -   How and when and where and which data will be shared (made available to others)?
 
-SUBMITTING YOUR RESEARCH DESIGN BY June 1, 2025
+SUBMITTING YOUR RESEARCH DESIGN BY June 1, 2026
 -----------------------------------------------
 
 > Please submit your research design, as well as a 100-word abstract and keywords, [via this submission form](https://syracuseuniversity.qualtrics.com/jfe/form/SV_0oEXzQ6eTGTBuxU).
@@ -88,6 +88,6 @@ SUBMITTING YOUR RESEARCH DESIGN BY June 1, 2025
 
 -   The file name should consist of nothing more than your last name (e.g. Smith.pdf); please do not name your file \"research\_design.pdf\".
 
--   Please submit your research design by no later than **June 1, 2025**.
+-   Please submit your research design by no later than **June 1, 2026**.
 
 > If you have any questions, concerns, or issues with submitting your research design, please email Sebastian Karcher (skarcher@syr.edu).

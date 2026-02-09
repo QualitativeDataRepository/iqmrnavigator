@@ -40,7 +40,7 @@ Milton Hall does not permit pets. Also, Syracuse University campus and housing a
 CHECKING IN AND OUT OF MILTON HALL 
 ----------------------------------
 
-Most IQMR participants will check into Milton Hall on Saturday, June 14. (A few participants who are traveling internationally will check in on Friday June 13.) If you arrive during normal business hours, there will be an IQMR staff member there to answer questions. 
+Most IQMR participants will check into Milton Hall on Saturday, June 13. (A few participants who are traveling internationally will check in on Friday June 12.) If you arrive during normal business hours, there will be an IQMR staff member there to answer questions. 
 
 No matter at what hour you arrive at Milton Hall, there will be a lodging attendant available. If you arrive after normal business hours, you will need to call the on-call attendant; there will be a sign on the entrance door with the on-call phone number. The on-call attendant will be close by, but please be patient if it takes a little while for them to arrive to help you.
 
@@ -52,7 +52,7 @@ Please, before leaving the apartment at Milton Hall, ensure that you wash all th
 
 Also, please leave the key and fob with the front desk staff (Usual front desk staff will be on site from 8:00 a.m. to 8:00 p.m. If you leave at a time outside that window, a small blue bin will be available for you to leave your key and fob in). You may need to put these in an envelope -- available at the front desk -- if you have already discarded or lost the envelope in which your key and fob originally came.
 
-The [Cuse Trolley](/participants/#cuse-trolley-tofrom-the-airport) will pick up participants from Milton Hall between Friday, June 27, 5:00 p.m. to 9:00 p.m., and Saturday, June 28, 7:00 a.m. to 1:00 p.m., departing at every full hour.
+The [Cuse Trolley](/participants/#cuse-trolley-tofrom-the-airport) will pick up participants from Milton Hall between Friday, June 26, 5:00 p.m. to 9:00 p.m., and Saturday, June 27, 7:00 a.m. to 1:00 p.m., departing at every full hour.
 
 **Please note that you must check out of Milton Hall by Saturday, 8pm unless you have communicated with us about staying an extra night, in which case you should depart no later than Sunday at 8:00 p.m.**
 
