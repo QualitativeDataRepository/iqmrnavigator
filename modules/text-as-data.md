@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Text as Data (Modules 2, 6)
+title: Introduction to Text as Data (Modules 2, 6)
 ---
 
 Monday, June 16; Tuesday, June 17

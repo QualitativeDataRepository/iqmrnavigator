@@ -521,7 +521,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Text as Data I</div>
+                            <div class="session-title">Introduction to Text as Data I</div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -563,7 +563,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Text as Data II</div>
+                            <div class="session-title">Introduction to Text as Data II</div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
