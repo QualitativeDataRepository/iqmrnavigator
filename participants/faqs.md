@@ -54,10 +54,10 @@ title: Frequently Asked Questions (FAQ)
 
 
   - **I am traveling from abroad. Could you provide an estimate of expected expenses so I can plan and convert the necessary amount to USD?**
-      - Participants selected through the competitive application process (rather than being nominated by their departments) who are receiving a fellowship from IQMR will receive a US$700 prepaid credit card, which should cover regular expenses during the institute. These students should bring some money (e.g., to be able to pay for a cab to campus if needed) yourself, but it needn’t be more than US$100-200 dollars.
+      - Participants selected through the competitive application process (rather than being nominated by their departments) who are receiving a fellowship from IQMR will receive a US$600 (for participants from the MENA/Africa/Latin America open pool) and US$450 (for the general open pool), via a mix of cash and a prepaid credit card, which should cover regular expenses during the institute. These students should bring some money (e.g., to be able to pay for a cab to campus if needed) yourself.
       - Participants who were nominated by their department should plan to bring approximately $1,000 with them.
       - It is *possible* to spend more than $1,000 depending upon the activities in which you choose to engage in the evenings and on the weekend (e.g. traveling).
-      - If you have a credit card, there is very little in the US for which you can’t use a credit card for.
+      - If you have a credit card, there is very little in the US for which you can’t use a credit card.
 
 
   - **My flight gets into Syracuse late at night. What do I do?**    
