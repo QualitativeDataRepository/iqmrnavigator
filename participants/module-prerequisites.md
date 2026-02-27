@@ -5,10 +5,8 @@ title: Module Prerequisites
 
 
 Some of IQMR’s module sequences have prerequisites that need to be completed in advance of the Institute beginning. 
-O
-Participants who plan to take modules with prerequisites **are required** to either take a short (asynchronous) online workshop providing basic familiarity, or demonstrate their pre-existing knowledge of the software, by **June 8, 2026**.
 
-IQMR will also offer participants the opportunity to attend drop-in office hours for additional help with some of these software packages. Details on those office hours will be provided here in the coming months.
+Participants who plan to take modules with prerequisites **are required** to complete these requirements, by **June 8, 2026**.
 
 These are the relevant module sequences, tools, prerequisites, and ways to demonstrate that you have completed the prerequisite:
 
