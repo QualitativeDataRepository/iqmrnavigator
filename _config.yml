@@ -14,6 +14,7 @@ plugins:
   - jekyll-target-blank
 sass:
   style: compressed
+  quiet_deps: true
 
 # Additional exclude from processing
 exclude:
