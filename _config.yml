@@ -134,13 +134,16 @@ conference:
             relative_url: /instructors/travel-lodging
           - name: Honorarium Payment, Per Diem, and Travel Reimbursement
             relative_url: /instructors/honoraria-logistics
-      - name: EMW & AQMMR
+      - name: AQMMR & EMW 
         relative_url: /weekend-workshops/
         menu:
-          - name: Overview
+ 
+          - name: General Information
             relative_url: /weekend-workshops/
           - name: Advances in Qualitative and Multi-Method Research
             relative_url: /weekend-workshops/aqmmr
+          - name: "EMW: Overview"
+            relative_url: /weekend-workshops/emw-overview
           - name: "EMW: Call for Proposals"
             relative_url: /weekend-workshops/call-for-proposals
           - name: "EMW: Informational Webinar"

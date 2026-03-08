@@ -1,38 +1,46 @@
 ---
 layout: page
-title: EMW & AQMMR Weekend Workshops
+title: "AQMMR & EMW: General Information"
 ---
 
-Each year, two workshops take place at IQMR on the weekend in the middle of the Institute's two-week run. Both are pre-read workshops: participants should be familiar with all of the work being presented at their workshop.
+Each year, two workshops take place at IQMR on the weekend in the middle of the Institute's two-week run. The goal of both workshops is to encourage all scholars — junior and senior — to develop new methods and enhance existing methods for collecting and analyzing qualitative data, and to generate innovative techniques for combining qualitative and quantitative methods. Both workshops also aim to broaden and deepen the community of scholars developing, teaching, and writing on such methods and to encourage connections and collaboration within the QMMR community.
 
-## Advances in Qualitative and Multi-Method Research (AQMMR)
+Both workshops are "pre-read": participants should be familiar with all of the work being presented at their workshop.
 
-The "Advances in Qualitative and Multi-Method Research" workshop brings together scholars to present and receive feedback on methodological work in progress. The workshop is coordinated with Alan Jacobs and Erica Simmons, Editors of the Methods of Social Inquiry series published by Cambridge University Press.
+Please contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown.edu)) or Sebastian Karcher ([skarcher@syr.edu](mailto:skarcher@maxwell.syr.edu)) for questions about the workshops.
 
-The 2026 AQMMR workshop takes place virtually on **Saturday, June 20, 2026**.
+## Overall Schedule
 
-For logistical questions about the AQMMR, contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown.edu)) or Sebastian Karcher ([skarcher@syr.edu](mailto:skarcher@syr.edu)).
+- **Saturday, June 20** — "Advances in Qualitative and Multi-Method Research"
+  - 8:00am to 12:45pm — Workshop (VIRTUAL)
+  - 6:00pm — Dinner at Sebastian Karcher's home
 
----
+- **Sunday, June 21** — Emerging Methodologists Workshop
+  - 9:00am to 5:30pm — Workshop
+  - 6:30pm — Dinner for workshop participants (location TBD)
 
-## Emerging Methodologists Workshop (EMW)
+## Travel to and from Syracuse
 
-The Emerging Methodologists Workshop (EMW) intends to contribute to increased diversity in the field of qualitative methodology. Each year, it selects six advanced political science graduate students and junior faculty from underrepresented groups and pairs them with methods mentors, bringing them together to present their methodological contributions during the Weekend Workshops that take place in tandem with the Institute for Qualitative and Multi-Method Research at Syracuse University in June. Through this event and others, the EMW fosters the networks critical to enhancing diversity and inclusion.
+Travel to and from Syracuse is paid for by IQMR. We ask that participants book their own round-trip economy class travel to and from Syracuse. Travel arrangements should be made by **April 15, 2026**.
 
-The discipline of political science faces deep challenges related to diversity and inclusion. While the community of scholars who engage in qualitative and multi-method explanatory research is large and diverse, the group of scholars who develop, write about, and teach these methods is far smaller and more homogeneous. This deficit results, in part, from a "pipeline problem" in which junior scholars from underrepresented groups are not encouraged or actively mentored to become qualitative methodologists. The EMW intends to contribute to building this pipeline.
+Since the EMW begins early in the morning on June 21, we ask that participants **please arrive on Saturday, June 20**. Likewise, as the workshop concludes in the late afternoon on Sunday, and there will be some festivities that evening, we encourage participants to book return travel for Monday, June 22.
 
-We aim to build a network of support and mentorship to encourage underrepresented scholars to develop, write, and teach about qualitative research methods and approaches to combining the use of qualitative and quantitative methods. Early-career scholars who are selected to present papers at the workshop receive access to:
+Participants who are flying should book economy-class round-trip tickets into and out of [Syracuse Hancock International Airport](https://syrairport.org/) (SYR). Please secure the most economical rate that you can. Participants who are flying domestically should check with Diana or Sebastian before booking round-trip travel costing more than $800; participants who are flying internationally should check with Diana or Sebastian before booking round-trip travel costing more than $1,500.
 
-1. **Intensive Mentorship** — Selected participants are paired with senior faculty members who review and assist in the development of their scholarship toward peer-reviewed publication before, during, and after the workshop.
+## Hotel in Syracuse
 
-2. **Weekend Workshops** — Selected participants share their scholarship and receive feedback and support from their peers, their mentor, and other senior faculty members.
+Lodging in Syracuse is paid for by IQMR. We will make reservations for all participants at the [Collegian Hotel](https://www.wyndhamhotels.com/trademark/syracuse-new-york/collegian-hotel/overview), located at 1060 E Genesee St., Syracuse, New York 13210. We will plan for participants to arrive the night prior to, and to depart the day after, the EMW.
 
-3. **Virtual Workshop** — Selected participants connect across cohorts to share methodological works in progress.
+## Reimbursements
 
-4. **Ongoing Networking Opportunities** — Selected participants are integrated into the APSA Qualitative and Multi-Method Research (QMMR) section and introduced to new networks of qualitative methods scholars.
+We will reimburse participants for travel to and from Syracuse. Participants who fly or travel by bus or train will also be reimbursed for ground transportation to and from the airports or stations that they use. Participants who drive to Syracuse will be reimbursed for roundtrip mileage from their home to Syracuse at the mileage rate then in force at Syracuse University. Parking is free at the hotel.
 
-The EMW was funded through 2025 by the National Science Foundation, and supported by the APSA Qualitative and Multi-Method Research section; the EMW also receives multiple types of support from IQMR.
+To facilitate the reimbursement process, participants should upload receipts for flights, trains, and buses to a secure Dropbox folder (the link for which was conveyed via email) as soon as they purchase their tickets. Participants who drive to and from Syracuse should upload a Google map print-out showing the round-trip mileage. Participants should retain receipts for ground transportation associated with their travel to and from Syracuse and submit them to the same secure Dropbox folder after their travel concludes.
 
-The EMW takes place on **Sunday, June 21, 2026** at Syracuse University.
+We will provide all meals during the workshop day(s) and so will not reimburse for meal expenses.
 
-For questions about the EMW, contact the organizers at [emw.qmer@gmail.com](mailto:emw.qmer@gmail.com).
+We will aim to transmit reimbursements within two months after the workshop. Please note that time frames for processing reimbursements can vary.
+
+## Tax Document (W-9/W8-BEN)
+
+In order to pay honoraria and reimbursements, participants must complete one of the tax forms that was sent to them via email and upload them to the secure Dropbox folder that was conveyed in the same email by **April 15**. Participants should not email tax forms to us.
