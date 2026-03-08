@@ -490,6 +490,8 @@ title: IQMR 2026 Schedule
                             <div class="session-title">Weekend Workshop – Emerging Methodologists Workshop</div>
                             <div class="session-instructors">Organizers: Jennifer Bussell and Hillel Soifer</div>
                             <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-title-2">IQMR Talent Show</div>
+                            <!--<div class="session-location">Maxwell Foyer and Patio</div>-->
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>
@@ -628,9 +630,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content special-content">
-                            <div class="session-title">MASU/IQMR Lunch with Mandela Washington Fellows</div>
-                            <!-- <div class="session-location">12pm, TBD</div> -->
-                            <div class="session-title-2">Closing Reception</div>
+                            <div class="session-title">Closing Reception</div>
                             <div class="session-location">Maxwell Foyer and Patio</div>
                         </div>
                     </td>

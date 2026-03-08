@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc \"EMW Virtual Workshop program 2026.docx.docx\" -t markdown --wrap=none -o emw-program-2026.md)",
+      "Bash(pandoc \"EMW 2026_Call for Proposals.docx\" -t markdown --wrap=none -o emw-cfp-2026.md)",
+      "Bash(unzip -l presenter_images.zip)",
+      "Bash(python3 -c \":*)",
+      "WebFetch(domain:sigla.georgetown.domains)",
+      "WebFetch(domain:zenodo.org)",
+      "Bash(curl -s \"http://sigla.georgetown.domains/emworkshop/participants/\")",
+      "Bash(curl -sL \"https://sigla.georgetown.domains/emworkshop/participants/\")",
+      "Bash(npx puppeteer --version)",
+      "Bash(npm list -g puppeteer)",
+      "mcp__puppeteer__puppeteer_navigate",
+      "mcp__puppeteer__puppeteer_evaluate",
+      "Bash(pandoc \"c:/Users/karch/Documents/gits/iqmrnavigator/emw-temp/Jennifer Bussell short Bio Feb 2026.doc\" -t plain)",
+      "Bash(cp \"c:/Users/karch/Documents/gits/iqmrnavigator/emw-temp/Bussel.jpg\" \"c:/Users/karch/Documents/gits/iqmrnavigator/assets/images/emw/jennifer-bussell.jpg\")",
+      "Bash(cp \"c:/Users/karch/Documents/gits/iqmrnavigator/emw-temp/Hillel-headshot-1-edited.jpeg\" \"c:/Users/karch/Documents/gits/iqmrnavigator/assets/images/emw/hillel-soifer.jpg\")"
+    ]
+  }
+}

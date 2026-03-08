@@ -12,5 +12,8 @@ vendor/bundle/
 __pycache__/
 venv/
 
+### temp directories ###
+emw-temp/
+
 ### MacOS ###
 .DS_Store
