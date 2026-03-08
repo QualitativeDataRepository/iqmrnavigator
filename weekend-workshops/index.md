@@ -3,7 +3,17 @@ layout: page
 title: EMW & AQMMR Weekend Workshops
 ---
 
-Each year, two workshops take place at IQMR on the weekend preceding the Institute. Both are pre-read workshops: participants should be familiar with all of the work being presented at their workshop.
+Each year, two workshops take place at IQMR on the weekend in the middle of the Institute's two-week run. Both are pre-read workshops: participants should be familiar with all of the work being presented at their workshop.
+
+## Advances in Qualitative and Multi-Method Research (AQMMR)
+
+The "Advances in Qualitative and Multi-Method Research" workshop brings together scholars to present and receive feedback on methodological work in progress. The workshop is coordinated with Alan Jacobs and Erica Simmons, Editors of the Methods of Social Inquiry series published by Cambridge University Press.
+
+The 2026 AQMMR workshop takes place virtually on **Saturday, June 20, 2026**.
+
+For logistical questions about the AQMMR, contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown.edu)) or Sebastian Karcher ([skarcher@syr.edu](mailto:skarcher@syr.edu)).
+
+---
 
 ## Emerging Methodologists Workshop (EMW)
 
@@ -21,18 +31,8 @@ We aim to build a network of support and mentorship to encourage underrepresente
 
 4. **Ongoing Networking Opportunities** — Selected participants are integrated into the APSA Qualitative and Multi-Method Research (QMMR) section and introduced to new networks of qualitative methods scholars.
 
-The EMW is funded through 2025 by the National Science Foundation, and supported by the APSA Qualitative and Multi-Method Research section.
+The EMW was funded through 2025 by the National Science Foundation, and supported by the APSA Qualitative and Multi-Method Research section; the EMW also receives multiple types of support from IQMR.
 
 The EMW takes place on **Sunday, June 21, 2026** at Syracuse University.
 
 For questions about the EMW, contact the organizers at [emw.qmer@gmail.com](mailto:emw.qmer@gmail.com).
-
----
-
-## Advances in Qualitative and Multi-Method Research (AQMMR)
-
-The "Advances in Qualitative and Multi-Method Research" workshop brings together scholars to present and receive feedback on methodological work in progress. The workshop is coordinated with Alan Jacobs and Erica Simmons, Editors of the Methods of Social Inquiry series published by Cambridge University Press.
-
-The 2026 AQMMR workshop takes place virtually on **Saturday, June 20, 2026**.
-
-For logistical questions about either workshop, contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@georgetown.edu)) or Sebastian Karcher ([skarcher@syr.edu](mailto:skarcher@syr.edu)).

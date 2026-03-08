@@ -139,6 +139,8 @@ conference:
         menu:
           - name: Overview
             relative_url: /weekend-workshops/
+          - name: Advances in Qualitative and Multi-Method Research
+            relative_url: /weekend-workshops/aqmmr
           - name: "EMW: Call for Proposals"
             relative_url: /weekend-workshops/call-for-proposals
           - name: "EMW: Informational Webinar"
@@ -151,8 +153,6 @@ conference:
             relative_url: /weekend-workshops/participants
           - name: "EMW: Publications"
             relative_url: /weekend-workshops/publications
-          - name: Advances in Qualitative and Multi-Method Research
-            relative_url: /weekend-workshops/aqmmr
 
 
 
