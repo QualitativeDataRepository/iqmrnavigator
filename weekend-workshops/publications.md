@@ -33,27 +33,39 @@ Wegschaider, Klaudia. 2025. "[Episode Analysis in Qualitative Historical Politic
 
 ---
 
-### *Qualitative and Multi-Method Research* (2024 Symposium)
+### *Qualitative and Multi-Method Research*, Vol. 22, No. 2 (2024)
 
-Kapiszewski, Diana, and Hillel David Soifer. 2024. "Emerging Methodologists Workshop Symposium: Introduction to the Symposium." *Qualitative and Multi-Method Research*.
+Kapiszewski, Diana, and Hillel David Soifer. 2024. "[Emerging Methodologists Workshop: Introduction to the Symposium.](https://doi.org/10.5281/zenodo.14062803)" *Qualitative and Multi-Method Research* 22(2).
 
-Gupta, Shagun. 2024. "What's in an Interview? Follow-ups as Moments of Clarity and Information in Qualitative Research." *Qualitative and Multi-Method Research*.
+Gupta, Shagun. 2024. "[What's in an Interview? Follow-ups as Moments of Clarity and Information in Qualitative Research.](https://doi.org/10.5281/zenodo.14062813)" *Qualitative and Multi-Method Research* 22(2).
 
-Tuncel, Ozlem. 2024. "Elite Interviewing in Political Science: Insights from Leading Journals." *Qualitative and Multi-Method Research*.
+Tuncel, Ozlem. 2024. "[Elite Interviewing in Political Science: Insights from Leading Journals.](https://doi.org/10.5281/zenodo.14062819)" *Qualitative and Multi-Method Research* 22(2).
 
-Park, Eun-A. 2024. "Randomized Priming Interviews (RPI): Integrating Qualitative Interviews with Experimental Logic." *Qualitative and Multi-Method Research*.
+Park, Eun-A. 2024. "[Randomized Priming Interviews (RPI): Integrating Qualitative Interviews with Experimental Logic.](https://doi.org/10.5281/zenodo.14062823)" *Qualitative and Multi-Method Research* 22(2).
 
-Erdoğdu, Ulaş. 2024. "Nearly Realized Cases: A Novel Framework to Select Negative Cases for Comparative Theory Development." *Qualitative and Multi-Method Research*.
+Erdoğdu, Ulaş. 2024. "[Nearly Realized Cases: A Novel Framework to Select Negative Cases for Comparative Theory Development.](https://doi.org/10.5281/zenodo.14062829)" *Qualitative and Multi-Method Research* 22(2).
 
-Noor, Salih O. 2024. "Abductive Analysis in Qualitative and Multimethod Political Science." *Qualitative and Multi-Method Research*.
+Noor, Salih O. 2024. "[Abductive Analysis in Qualitative and Multi-Method Political Science.](https://doi.org/10.5281/zenodo.14062835)" *Qualitative and Multi-Method Research* 22(2).
 
-Morse, Irene. 2024. "Embracing a Mixed Methods Approach to Text as Data." *Qualitative and Multi-Method Research*.
+Morse, Irene. 2024. "[Embracing a Mixed Methods Approach to Text as Data.](https://doi.org/10.5281/zenodo.14062843)" *Qualitative and Multi-Method Research* 22(2).
 
 ---
 
-### *Qualitative and Multi-Method Research* (2023 Symposium)
+### *Qualitative and Multi-Method Research*, Vol. 21, No. 2 (2023)
 
-Works by Marco Alcocer, Ankushi Mitra, Fulya Felicity Turkmen, Sarah Elizabeth Moore, Sara Morell, Rachel Meade, and Marcus Walton.
+Kapiszewski, Diana, and Hillel David Soifer. 2023. "[Symposium Introduction: The Emerging Methodologists Workshop for Qualitative and Multi-Method Explanatory Research.](https://doi.org/10.5281/zenodo.8418872)" *Qualitative and Multi-Method Research* 21(2).
+
+Alcocer, Marco. 2023. "[Integrating Potential Outcomes and Causal Mechanisms to Guide Multi-Method Research.](https://doi.org/10.5281/zenodo.8418913)" *Qualitative and Multi-Method Research* 21(2).
+
+Mitra, Ankushi. 2023. "[How Do Ethical Considerations Affect Data and Findings from Field Research?](https://doi.org/10.5281/zenodo.8418884)" *Qualitative and Multi-Method Research* 21(2).
+
+Moore, Sarah Elizabeth. 2023. "[Measuring Costly Concepts: Validation Samples for Measuring Many-N Cases.](https://doi.org/10.5281/zenodo.8418917)" *Qualitative and Multi-Method Research* 21(2).
+
+Morell, Sara. 2023. "[Balancing Standardization and Flexibility: How to Get the Most Out of Your Interviews.](https://doi.org/10.5281/zenodo.8418896)" *Qualitative and Multi-Method Research* 21(2).
+
+Turkmen, Fulya Felicity. 2023. "[Shifting Between Modes and Roles in Participant Observation.](https://doi.org/10.5281/zenodo.8418909)" *Qualitative and Multi-Method Research* 21(2).
+
+Meade, Rachel, and Marcus Walton. 2023. "[A Unified Approach to Theory Reconstruction.](https://doi.org/10.5281/zenodo.8418927)" *Qualitative and Multi-Method Research* 21(2).
 
 ---
 
