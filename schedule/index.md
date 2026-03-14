@@ -287,8 +287,8 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Comparative Historical Analysis I</div>
-                            <div class="session-instructors">Instructor: Marcus Kreuzer</div>
+                            <div class="session-title">Community-Engaged Research I</div>
+                            <div class="session-instructors">Instructors: Jamila Michener</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -330,8 +330,8 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Comparative Historical Analysis II</div>
-                            <div class="session-instructors">Instructor: Marcus Kreuzer</div>
+                            <div class="session-title">Community-Engaged Research II</div>
+                            <div class="session-instructors">Instructors: Jamila Michener</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -365,8 +365,8 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Community-Engaged Research I</div>
-                            <div class="session-instructors">Instructors: Jamila Michener</div>
+                            <div class="session-title">Comparative Historical Analysis I</div>
+                            <div class="session-instructors">Instructor: Marcus Kreuzer</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
@@ -402,8 +402,8 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Community-Engaged Research II</div>
-                            <div class="session-instructors">Instructors: Jamila Michener</div>
+                            <div class="session-title">Comparative Historical Analysis II</div>
+                            <div class="session-instructors">Instructor: Marcus Kreuzer</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>

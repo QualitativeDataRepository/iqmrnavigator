@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Interpretation and History (Modules 12, 16)
+title: Interpretation and History (Modules 32, 36)
 ---
 
-Wednesday, June 18; Friday, June 20
+Thursday, June 25; Friday, June 26
 {: #module-date}
 
 
@@ -14,7 +14,7 @@ What is historical interpretation? In one sense interpretation is a part of all 
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
-## Interpretation and History (M12, June 18)
+## Interpretation and History I (M32, June 25)
 {: .module-sub }
 
 ### 8:45am - 10:15am – SESSION 1: What is history? 
@@ -71,7 +71,7 @@ Suggested readings:
 
   - Joan Wallach Scott, *Gender and the Politics of History* (1988; 2018 edition)
 
-## Interpretation and History II (M16, June 20)
+## Interpretation and History II (M36, June 26)
 {: .module-sub }
 
 ### 8:45am - 10:15am – SESSION 1: Analyzing History

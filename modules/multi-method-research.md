@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Multi-Method Research (Modules 30, 34)
+title: Multi-Method Research (Modules 26, 30, 34)
 ---
 
-Thursday, June 26; Friday, June 27
+Wednesday, June 24; Thursday, June 25; Friday, June 26
 {: #module-date}
 
 **Jaye Seawright (Northwestern University)**
@@ -14,7 +14,7 @@ This module sequence looks at how to productively combine qualitative and quanti
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
-## Multi-Method Research I (M30, June 26) 
+## Multi-Method Research I (M26, June 24)
 {: .module-sub }
 
 This module works through multiple ideas about how to combine qualitative and quantitative research techniques within a single project, working through these concepts with an eye to applications that use regression and similar techniques (e.g., logit, probit, multilevel models) as the quantitative side of an overall design. The goal is to explore optimal research design choices, consider potential weaknesses of such designs, and encounter ideas at the cutting edge of methodological thought in the relevant research traditions.
@@ -72,7 +72,12 @@ Suggested readings:
 
   - Ingram, Matthew C, and Imke Harbers. “Spatial Tools for Case Selection: Using LISA Statistics to Design Mixed-Methods Research.” *Political Science Research and Methods* 8, no. 4 (2020): 747–63. https://doi.org/10.1017/psrm.2019.3.
 
-## Multi-Method Research II (M34, June 27) 
+## Multi-Method Research III (M34, June 26)
+{: .module-sub }
+
+*Session details to be added.*
+
+## Multi-Method Research II (M30, June 25)
 {: .module-sub }
 
 This module extends the ideas about mixed- and multi-method design to contexts beyond regression, including natural experiments and laboratory/survey/field experiments; description, concept formation, and measurement; and theory-building.

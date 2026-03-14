@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Comparative Historical Analysis (Modules 11, 15)
+title: Comparative Historical Analysis (Modules 10, 14)
 ---
 
-Wednesday, June 18; Friday, June 20
+Wednesday, June 17; Thursday, June 18
 {: #module-date}
 
 **Marcus Kreuzer (Villanova University)**
@@ -20,7 +20,7 @@ We live in a constantly emerging world in which studying changes across time are
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
-## Comparative Historical Analysis I (M11, June 18) 
+## Comparative Historical Analysis I (M10, June 17)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Thinking Historically: Problematizing History and Geography
@@ -80,7 +80,7 @@ Suggested readings:
 
   - Soss, Joe. 2018. “On Casing a Study versus Studying a Case.” *Qualitative and Multi- Method Research* 16(1): 21–27
 
-## Comparative Historical Analysis II (M15, June 20) 
+## Comparative Historical Analysis II (M14, June 18)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Longue Durée Analysis: Temporal Broadening and Exploring 

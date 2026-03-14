@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Integrating Qualitative and Experimental Methods (Modules 17, 21, 25)
+title: Integrating Qualitative and Experimental Methods (Modules 17, 21)
 ---
 
-Monday, June 23; Tuesday, June 24, Wednesday, June 25
+Monday, June 22; Tuesday, June 23
 {: #module-date}
 
 **Chris Carter (University of Virginia), Guadalupe Tuñón (Princeton University), Tesalia Rizzo Reyes (UC Merced), Charles Crabtree (Dartmouth College)**
@@ -14,7 +14,7 @@ In this module sequence, we introduce natural and randomized experiments and dis
 
 *There is online content associated with this module that students should view (and complete the assignments for) prior to June 23*
 
-## Integrating Qualitative and Experimental Methods (I) (M17, June 23)
+## Integrating Qualitative and Experimental Methods (I) (M17, June 22)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Qualitative approaches to natural experiments
@@ -72,7 +72,7 @@ Suggested Readings:
   - Posner, D. N. (2004). The political salience of cultural difference: Why Chewas and Tumbukas are allies in Zambia and adversaries in Malawi. *American Political Science Review*, 98(4), 529-545.
 
 
-## Integrating Qualitative and Experimental Methods (II) (M21 June 24)
+## Integrating Qualitative and Experimental Methods (II) (M21, June 23)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Designing natural experiments: Applications and Placebo Tests
@@ -165,7 +165,7 @@ In the second half, we discuss how to collaborate effectively with implementatio
 
   - Thachil, T. (2018). Improving surveys through ethnography: Insights from India’s urban periphery. *Studies in Comparative International Development*, 53(3), 281–299.
 
-## Integrating Qualitative and Experimental Methods (III) (M25 June 25) 
+## Integrating Qualitative and Experimental Methods (III) (not in 2026 schedule)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Discussion of Recent Field Experiments: Ethics, Research Transparency, and the Role of Randomized Experiments in Social Science

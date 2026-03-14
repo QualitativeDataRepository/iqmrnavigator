@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Rethinking Small-N Comparisons (Modules 32, 36)
+title: Rethinking Small-N Comparisons (Modules 11, 15)
 ---
 
-Thursday, June 26; Friday, June 27
+Wednesday, June 17; Thursday, June 18
 {: #module-date}
 
 **Nicholas Rush Smith (City University of New York -- City College)**
@@ -17,7 +17,7 @@ Why do we compare? Typically, in political science research, causal inference is
 
 
 
-## Re-thinking Small-N Comparisons I (M32, June 26)
+## Re-thinking Small-N Comparisons I (M11, June 17)
 {: .module-sub }
 
 ### 8:45am - 10:15am -- Controlled Comparisons and Their Crises
@@ -56,7 +56,7 @@ Unless otherwise noted, all readings are available in Erica S. Simmons and Nicho
 -   Chapter 3: Two Ways to Compare, Fred Schaffer
 -   Chapter 5: On Casing a Study versus Studying a Case, Joe Soss
 
-##  Re-thinking Small-N Comparisons II (M36, June 27)
+##  Re-thinking Small-N Comparisons II (M15, June 18)
 {: .module-sub }
 
 

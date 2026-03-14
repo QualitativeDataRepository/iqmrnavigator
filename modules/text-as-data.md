@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Introduction to Text as Data (Modules 2, 6)
+title: Introduction to Text as Data (Modules 19, 23)
 ---
 
-Monday, June 16; Tuesday, June 17
+Monday, June 22; Tuesday, June 23
 {: #module-date}
 
-**Monday, June 16; Tuesday, June 17**
+**Monday, June 22; Tuesday, June 23**
 
 **Fiona Shen-Bayh (University of Maryland)**
 
@@ -14,7 +14,7 @@ What does “text as data” mean? How do scholars transform texts into data tha
 
 ***Participants who did not attend the module sequence from the beginning may not join later in the sequence.***
 
-## Quantifying texts (M2, June 16) 
+## Quantifying texts (M19, June 22)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Transforming text into data
@@ -67,7 +67,7 @@ Suggested readings:
 
   - Peter Dodds and Christopher Danforth. 2009. “Measuring the Happiness of Large-Scale Written Expression: Songs, Blogs, and President." Journal of Happiness Studies 11(4):441-456.
 
-## Modeling and measuring texts (M6, June 17) 
+## Modeling and measuring texts (M23, June 23)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Vectorizing 

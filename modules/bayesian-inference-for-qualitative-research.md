@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Bayesian Inference for Qualitative Research (Modules 23, 27)
+title: Bayesian Inference for Qualitative Research (Modules 25, 29, 33)
 ---
 
-Tuesday, June 24; Wednesday, June 25
+Wednesday, June 24; Thursday, June 25; Friday, June 26
 {: #module-date}
 
 **Tasha Faifield (London School of Economics and Political Science)**
@@ -16,7 +16,7 @@ The principles we will cover in this module can be applied to single case studie
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged. The material is highly cumulative.***
 
-## Bayesian Inference for Qualitative Research I (M23, June 24) 
+## Bayesian Inference for Qualitative Research I (M25, June 24)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Introduction to Bayesian Reasoning
@@ -56,7 +56,12 @@ One of the most important things that Bayesian reasoning can do for qualitative 
 
   - Fairfield & Charman. 2022. "Chapter 3: Heuristic Bayesian Reasoning," pp.101-119. *Social Inquiry and Bayesian Inference.* Cambridge University Press. (book to obtain)
 
-## Bayesian Inference for Qualitative Research II (M27, June 25) 
+## Bayesian Inference for Qualitative Research III (M33, June 26)
+{: .module-sub }
+
+*Session details to be added.*
+
+## Bayesian Inference for Qualitative Research II (M29, June 25)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Log-Odds Updating and Weight of Evidence 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Qualitative Causal Inference - Fundamentals and Applications (Modules 10, 14)
+title: Qualitative Causal Inference - Fundamentals and Applications (Modules 2, 6)
 ---
 
-Wednesday, June 18; Friday, June 20
+Monday, June 15; Tuesday, June 16
 {: #module-date}
 
 **David Waldner (University of Virginia) and Ezequiel Gonzalez Ocantos (University of Oxford)**
@@ -12,7 +12,7 @@ This module sequence introduces students to *Qualitative Causal Inference (QCI),
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
-##  Qualitative Causal Inference: Fundamentals and Applications I (M10, June 18)
+##  Qualitative Causal Inference: Fundamentals and Applications I (M2, June 15)
 {: .module-sub }
 
 In Part I (Module 10) David Waldner outlines the fundamentals of QCI, contrasting it to two alternative models of inference: design-based causal inference, which is associated to the so-called ‘credibility revolution’ in quantitative social science, and the detective model of causal inference championed by some Process Tracing methodologists. In these sessions students will become familiar with the distinct understanding of ‘causal mechanisms’ that underpins this approach. They will also learn how to specify causal graphs in order to achieve unit-level causal inference, with attention to the mitigation of three potential sources of bias:
@@ -45,7 +45,7 @@ In Part I (Module 10) David Waldner outlines the fundamentals of QCI, contrastin
 
   - David Waldner, *Qualitative Causal Inference*, chapters 6-7
 
-## Qualitative Causal Inference: Fundamentals and Applications II (M14, June 20)
+## Qualitative Causal Inference: Fundamentals and Applications II (M6, June 16)
 {: .module-sub }
 
  

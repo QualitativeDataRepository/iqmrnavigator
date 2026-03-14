@@ -3,7 +3,7 @@ layout: page
 title: Interpretive Methods (Modules 4, 8)
 ---
 
-Monday, June 16; Tuesday, June 17
+Monday, June 15; Tuesday, June 16
 {: #module-date}
 
 **Lisa Wedeen (University of Chicago) and William Mazzarella (University of Chicago)**
@@ -16,7 +16,7 @@ criticism. In the first four sessions we shall explore the following methods: Wi
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
-## Interpretive Methods I (M4, June 16) 
+## Interpretive Methods I (M4, June 15)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Ordinary Language Use Analysis
@@ -57,7 +57,7 @@ What is ideology and how does it structure public culture and everyday life? Wha
 
 **Required readings:** NONE
 
-## Interpretive Methods II (M8, June 17) 
+## Interpretive Methods II (M8, June 16)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Ideology Critique

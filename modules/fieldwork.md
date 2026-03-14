@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Designing and Conducting Fieldwork (Modules 1, 5, 9, 13)
+title: Designing and Conducting Fieldwork (Modules 27, 31, 35)
 ---
 
-Monday, June 16; Tuesday, June 17; Wednesday, June 18; Friday, June 20
+Wednesday, June 24; Thursday, June 25; Friday, June 26
 {: #module-date}
 
 **Diana Kapiszewski (Georgetown University), Lauren M. MacLean (Northeastern University), and Rob Mickey (University of Michigan), and Jessie Trudeau (Syracuse University)**
@@ -14,7 +14,7 @@ This module sequence discusses strategies for designing, planning, and conductin
 
 ***Participants may enter the module sequence after it has begun.***
 
-## Preparing for Fieldwork and Operating in the Field (M1, June 16) 
+## Preparing for Fieldwork and Operating in the Field (M27, June 24)
 {: .module-sub }
 
 This module introduces the fieldwork module sequence, considering the structure of the modules and presenting some of the overarching themes we will consider over the next three days. The module then begins to discuss the design, planning, and execution of field research. We offer strategies for addressing the intellectual, social, emotional, health, and logistical challenges that carrying out field research can involve. Each session is conducted with the understanding that participants have carefully read the assigned materials. The instructors present key points drawing on the assigned readings, other published work on field research, and the experiences they and others have had with managing fieldwork’s diverse challenges. Interaction and discussion in small and large groups is encouraged.
@@ -97,7 +97,7 @@ Suggested readings:
 
   - Managing Qualitative Social Science Data self-guided on-line course ([https://managing-qualitative-data.org/](https://managing-qualitative-data.org/))
 
-## Research Ethics, Surveys, and Interviews (M5, June 17)
+## Surveys, Interviews, Focus Groups, and Observation (M31, June 25)
 {: .module-sub }
 
 This module begins with a discussion of research ethics. The rest of the sessions of this module and the first two of the following modules in this sequence consider a range of “more-interactive” data-collection techniques, i.e., techniques in which information is obtained or generated through interacting with people. We discuss surveys and focus groups, and conclude with two sessions on interviewing. We consider both the digital and traditional forms of all of these techniques, and the ethical underpinnings of each.
@@ -176,7 +176,7 @@ Suggested readings:
 
   - Soss, J. (2006). Talking our way to meaningful explanations. *Interpretation and method: Empirical research methods and the interpretive turn*. Taylor and Francis. P. 127-149. (ebook pdf is available at SU library)
 
-## Interviews, Focus Groups, and Ethnographic Observation (M9, June 18)
+## Interviews, Focus Groups, and Ethnographic Observation (not in 2026 schedule)
 {: .module-sub }
 
 This module continues to consider “more-interactive” data-collection techniques, i.e., techniques in which information is obtained or generated through interacting with people. We continue the discussion of interviews, and then consider focus groups. The module concludes by emphasizing the importance of reflexive observation in the field. We consider the ethical underpinnings of all of these techniques, and consider both digital and traditional forms.
@@ -249,7 +249,7 @@ Suggested readings:
 
   - Pachirat, Timothy. 2017. *Among Wolves: Ethnography and the Immersive Study of Power*. Taylor & Francis, Routledge Series on Interpretive Methods.
 
-## Archival Research and Dynamic Research Design (M13, June 20)
+## Archival Research and Dynamic Research Design (M35, June 26)
 {: .module-sub }
 
 This module begins with a discussion of a preeminent less-interactive form of fieldwork – archival research – considering its conduct in both digital and traditional forms. The module concludes with a consideration of the multiple strategies scholars can adopt in order to engage in analysis and assess their progress in the field. We consider the “iterative” nature of research design and field research design, why design is iterative, and what measures can be taken so that iteration does not undermine inference.

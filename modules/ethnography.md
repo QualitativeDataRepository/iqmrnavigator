@@ -3,7 +3,7 @@ layout: page
 title: Ethnographic Methods (Modules 20, 24, 28)
 ---
 
-Monday, June 23; Tuesday, June 24; Wednesday, June 25
+Monday, June 22; Tuesday, June 23; Wednesday, June 24
 {: #module-date}
 
 
@@ -35,7 +35,7 @@ Before coming to IQMR, spend at least four hours intentionally observing and/or 
 
   - Understand that any notes you take do not qualify as human subjects research, do not have IRB approval, are not legally protected from subpoena, and could be used as evidence against you or those you observe by authorities. Please use this knowledge to inform your choice of observation site.
 
-## Ethnographic Methods I: The “Political” in Political Ethnography (M20, June 23)
+## Ethnographic Methods I: The “Political” in Political Ethnography (M20, June 22)
 {: .module-sub }
 
 
@@ -113,7 +113,7 @@ Suggested readings:
 
   - Driscoll, Jesse, and Caroline Schuster. “Spies like Us.” *Ethnography* 19, no. 3 (2017): 411–30. [https://doi.org/10.1177/1466138117711717](https://doi.org/10.1177/1466138117711717).
 
-## Ethnographic Methods II: Design, Technique, and Practice (M24, June 24)
+## Ethnographic Methods II: Design, Technique, and Practice (M24, June 23)
 {: .module-sub }
 
 
@@ -195,7 +195,7 @@ Suggested readings:
 
   - Sreekanta, Vani, David Mwambari, Simi Mehta, and Madhurima Majumder. “The Unruly Arts of Ethnographic Refusal: Power, Politics, Performativity.” *Fennia-International Journal of Geography* 201, no. 2 (2023): 169–82.
 
-##  Ethnographic Methods III: Innovations and Reclamations in Ethnographic Methods (M28, June 25)
+##  Ethnographic Methods III: Innovations and Reclamations in Ethnographic Methods (M28, June 24)
 {: .module-sub }
 
 ### 8:45am – 10:15am – Placing ethnography: Designing multi-method(ological) projects

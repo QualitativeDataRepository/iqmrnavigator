@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Logic of Qualitative Methods (Modules 3, 7)
+title: Logic of Qualitative Methods (Modules 1, 5, 9)
 ---
 
-Monday, June 16; Tuesday, June 17
+Monday, June 15; Tuesday, June 16; Wednesday, June 17
 {: #module-date}
 
 
@@ -13,7 +13,7 @@ Modules 3 and 7 cover many classic and standard topics of qualitative methodolog
 
 ***Participants may enter the module sequence after it has begun.***
 
-## Logic of Qualitative Methods I (M3, June 16) 
+## Logic of Qualitative Methods I (M1, June 15)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Logic, Set Theory, and A Regularity Theory of Causality
@@ -58,7 +58,12 @@ Suggested readings:
 
   - Gary Goertz and Stephan Haggard.  2025. Large-N Qualitative Analysis:  causal generalizations and multimethod research. Book manuscript.
 
-## Logic of Qualitative Methods II (M7, June 17) 
+## Logic of Qualitative Methods III (M9, June 17)
+{: .module-sub }
+
+*Large-N Qualitative Analysis — session details to be added.*
+
+## Logic of Qualitative Methods II (M5, June 16)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Introduction to process tracing and Causal Mechanisms 

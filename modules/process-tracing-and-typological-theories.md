@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Process Tracing and Typological Theories (Modules 31, 35)
+title: Process Tracing and Typological Theories (Modules 18, 22)
 ---
 
-Thursday, June 26; Friday, June 27
+Monday, June 22; Tuesday, June 23
 {: #module-date}
 
 **Andy Bennett (Georgetown University)**
@@ -14,7 +14,7 @@ This module examines the inferential logic of process tracing, which is used ext
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
-## Process Tracing and Typological Theories I (M31, June 26)
+## Process Tracing and Typological Theories I (M18, June 22)
 {: .module-sub }
 
 This module introduces the philosophical basis of process tracing and the basics of case study research design. It then outlines the methods of process tracing, including an introduction to formal Bayesian process tracing, and typological theorizing.
@@ -58,7 +58,7 @@ This session outlines the method of typological theorizing and discusses the way
 
   - Excerpt from Andrew Bennett, “New Developments in Case Study Methods for Institutional Economics,” forthcoming in Mary Shirley and Claude Menard, eds., *Handbook of New Institutional Economics*, Second Edition, pp. 6-14
 
-## Process Tracing and Typological Theories II (M34, June 27) 
+## Process Tracing and Typological Theories II (M22, June 23)
 {: .module-sub }
 
 This module focuses on exercises in traditional and formal Bayesian process tracing, and in the final session we will discuss examples of typological theories posed by students in the module.

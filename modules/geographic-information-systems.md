@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Geographic Information Systems (Modules 29, 33)
+title: Geographic Information Systems (Modules 12, 16)
 ---
 
-Thursday, June 26; Friday, June 27
+Wednesday, June 17; Thursday, June 18
 {: #module-date}
 
 **Jonnell Robinson (Syracuse University)**
@@ -12,7 +12,7 @@ This module sequence introduces participants to Geographic Information Systems (
 
 ***Participants may enter the module sequence after it has begun, but their doing so is discouraged.***
 
-## Geographic Information Systems I (M29, June 26) 
+## Geographic Information Systems I (M12, June 17)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Enhancing Qualitative Social Science Research with GIS
@@ -77,7 +77,7 @@ Suggested readings:
 
   - Gregory, I. N., & Geddes, A. (2014). *Toward spatial humanities: Historical GIS and spatial history*. Indiana University Press.
 
-## Geographic Information Systems II (M33, June 27) 
+## Geographic Information Systems II (M16, June 18)
 {: .module-sub }
 
 ### 8:45am - 10:15am – Open Source Mapping Tools
