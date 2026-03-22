@@ -115,11 +115,11 @@ conference:
           - name: SUID Number and SU NetID
             relative_url: /participants/syracuse-registration
           - name: Syracuse University
-            relative_url: /participants/syracuse-university            
-#          - name: Code of Conduct
- #           relative_url: /participants/code-of-conduct/
+            relative_url: /participants/syracuse-university
           - name: Frequently Asked Questions
             relative_url: /participants/faqs
+          - name: Code of Conduct
+            relative_url: /participants/code-of-conduct
       - name: Instructor Information
         relative_url: /instructors/
         menu:

@@ -14,6 +14,8 @@ venv/
 
 ### temp directories ###
 emw-temp/
+temp-docs/
 
 ### MacOS ###
 .DS_Store
+
