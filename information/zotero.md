@@ -18,9 +18,8 @@ and hope to have all readings available by June 1.
     > your existing account to access IQMR resources rather than
     > registering for a new one.
   - > If you aren’t already using Zotero, you *will* need to register
-    > for a Zotero account to access IQMR resources (see below)..
-  - > We are collecting your Zotero username in the same survey through
-    > which you upload your research design.
+    > for a Zotero account to access IQMR resources (see below).
+  - > We are collecting your Zotero username in the attendance confirmation survey.
   - > The Zotero group will remain available for 6 months after IQMR.
     > Your access will be removed on December 31st, 2026.
   - > You **must not share** any resources from the IQMR Zotero group
@@ -46,15 +45,10 @@ institutions provide their users free unlimited Zotero storage).
 
 ## Accessing the IQMR Zotero Group
 
-As part of the survey through which you submit your research design, you
-will provide us with your Zotero username. If you don’t remember your
-username, you can find it in the [Zotero
-settings](https://www.zotero.org/settings). We will then invite
-you to the IQMR 2026 Zotero group, typically within 48 hours. You will
-receive the invitation by email. If you believe you should have received
-an invitation but haven’t, also check your
-[inbox on the Zotero
-website](https://forums.zotero.org/messages/inbox).
+As part of the attendance confirmation survey, you will provide us with your Zotero username. If you don’t remember your
+username, you can find it in the [Zotero settings](https://www.zotero.org/settings). We will then invite
+you to the IQMR 2026 Zotero group. You will receive the invitation by email. If you believe you should have received
+an invitation but haven’t, also check your [inbox on the Zotero website](https://forums.zotero.org/messages/inbox).
 
 Click the link to join/learn more about the group in the invitation and
 then the “Join” button on the right of the group’s page (see
