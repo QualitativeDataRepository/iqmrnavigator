@@ -8,8 +8,7 @@ All IQMR attendees will stay in two or four-bedroom suites in [Milton Hall](http
 Milton Hall's street address is **727 South Crouse Ave**., Syracuse, New York 13244. The hall is centrally located adjacent to Marshall Street, a popular commercial area for shopping and dining. The main entrance is a few steps down the wide pedestrian walkway at the intersection of 727 South Crouse and the “Five Guys” restaurant adjacent to the building. There is a “drop-off” spot for ubers/taxis in front of the “Five Guys.” 
 
 
-<!--- Milton Hall amenities include a fitness center, laundry room, study areas, and entertainment areas. (You can also go to a local laundromat.) --->
-Each suite includes a full kitchen. Additionally, each bedroom has a full bathroom. Please note that Milton Hall does not have cleaning services; it is up to you to keep your apartment clean and tidy.
+Each suite includes a kitchen with fridge and stove, but no microwave. A small number of microwave ovens will be available in the Milton Hall basement. Additionally, each bedroom has a full bathroom. Please note that Milton Hall does not have cleaning services; it is up to you to keep your apartment clean and tidy.
 
 IQMR will provide you with the following items, so you do not need to bring these with you:
 - Towels
@@ -18,6 +17,10 @@ IQMR will provide you with the following items, so you do not need to bring thes
 - Cleaning materials (one set per apartment)
     - Sponge
     - Dishwashing detergent (small)
+- Cookware (one set per apartment)
+    - One pot
+    - One pan
+    - Spatula
 - A plate, a bowl, a cup, silverware
 - Toilet paper
 
