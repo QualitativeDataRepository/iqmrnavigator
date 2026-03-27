@@ -10,7 +10,7 @@ Participants who plan to take modules with prerequisites **are required** to com
 
 These are the relevant module sequences, tools, prerequisites, and ways to demonstrate that you have completed the prerequisite:
 
-## M4, M8 Ethnography 
+## M20, M24, M28 Ethnography 
 
 ### Prerequisite 
 Before coming to IQMR, spend at least four hours intentionally observing and/or participating in, and then reflecting on a community, group, space, place, behavior, or cultural practice. Take detailed notes on what you observe and what you experience. Feel free to explore any overarching patterns, themes, hypotheses, or understandings that emerge over the course of your notes.
@@ -32,7 +32,7 @@ Before coming to IQMR, spend at least four hours intentionally observing and/or 
   - Understand that any notes you take do not qualify as human subjects research, do not have IRB approval, are not legally protected from subpoena, and could be used as evidence against you or those you observe by authorities. Please use this knowledge to inform your choice of observation site.
 
 
-## M17 / M21 / M25 -- Integrating Qualitative and Experimental Methods (Carter and Tunon)
+## M17 / M21 -- Integrating Qualitative and Experimental Methods (Carter and Tunon)
 
 ### Prerequisite 
 The module sequence will assume a basic understanding of the potential outcome framework of causation. The instructors have <a href="https://www.dropbox.com/scl/fi/5h1rk32m304n1d2g2o0vz/potential_outcomes.mp4?rlkey=m4n1nwpwgc6kjw10adx4fhcpc&st=k2l7kl1v&dl=0" target="_blank">created a videos</a> introducing these concepts.
@@ -42,7 +42,7 @@ Complete [this short problem set](/assets/documents/potential_outcomes_pset.pdf)
 
 ---- 
 
-## M2 / M6 -- Introduction to Text as Data (Shen-Bayh)
+## M19 / M23 -- Introduction to Text as Data (Shen-Bayh)
 
 ### Prerequisite 
     
