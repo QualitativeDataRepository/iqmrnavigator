@@ -41,83 +41,62 @@ tr, td{padding-top:  0.25rem;
 <td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3KI371EUxl944ui" target="_blank">Attendance confirmation</a></td>
 </tr>
 <tr class="even">
-<td><p>Indicate whether you will present a proto or full research design. (See <a href="/participants/research-design-instructions" target="_blank">Research Design Instructions here</a>)</p></td>
-<td>Complete the Software+Res Des + DMP Survey</td>
-<td>April 7</td>
-<td>May 1</td>
-<td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_eR0SO8R60bKkB4a" target="_blank">-->Software+ResDes+DMP Survey<!--</a>--></td>
-</tr>
-<tr class="odd">
-<td>Indicate prior experience with required software (if needed / if any)</td>
-<td>Complete the Software+Res Des + DMP Survey</td>
-<td>April 7</td>
-<td>May 1</td>
-<td>Software+ResDes+DMP Survey</td>
-</tr>
-<tr class="even">
-<td>Indicate interest in a one-on-one consultation on DMP with a data expert in the weeks preceding, during, or following the Institute (optional)</td>
-<td>Complete the Software+Res Des + DMP Survey</td>
-<td>April 7</td>
-<td>May 1</td>
-<td>Software+ResDes+DMP Survey</td>
-</tr>
-<tr class="odd">
 <td>Tell us about your lodging preferences</td>
 <td>Complete Lodging Survey</td>
 <td>April 7</td>
 <td>May 1</td>
 <td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_bsh0K6f5CnjxtnE" target="_blank">-->Lodging preferences survey<!--</a>--></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Register for SU ID (allows access to campus facilities) and SU NetID (allows login to SU Blackboard)</td>
 <td>Detailed instructions to register will be emailed in April</td>
 <td>April 30</td>
 <td>May 15</td>
 <td><a href="/participants/syracuse-registration">Syracuse University Registration Instructions</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Select modules that you will take at IQMR</td>
 <td>Complete Module selection form</td>
 <td>May 7</td>
 <td>June 1</td>
 <td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3w4yi9cObc72erA" target="_blank">-->Module selection form<!--</a>--></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Submit research design (See <a href="/participants/research-design-instructions">Research Design Instructions here</a>)</td>
 <td>Complete Research Design Submission form</td>
 <td>May 7</td>
 <td>June 1</td>
 <td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_0oEXzQ6eTGTBuxU" target="_blank">-->Research Design submission<!--</a>--></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Complete any required prerequisites for the modules you have decided to take</td>
 <td>Some more technical modules may have modest prerequisites (e.g., take a short online R workshop)</td>
 <td>June 1</td>
 <td>June 8</td>
 <td><a href="/participants/module-prerequisites">Module prerequisites</a></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Provide proof that you have completed any required prerequisite for the modules you have decided to take</td>
 <td>Complete prerequisite proof survey</td>
 <td>June 1</td>
 <td>June 8</td>
 <td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_0MJlWiOmAowyjpY" target="_blank">-->Submit Module Prerequiste Proof<!--</a>--></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Sign up for research design discussion groups you will join as a commenter at IQMR</td>
 <td>Research Design discussion <!--<a href="https://www.zotero.org/groups/5976232/iqmr/collections/498N3CAN/items/B8XI2BVR/collection" target="_blank">-->group schedule on Zotero<!--</a>--></td>
 <td>June 8</td>
 <td>June 12</td>
 <td>Research Design discussion group <!--<a href="https://www.signupgenius.com/go/10C0549AEAD23A1F9C07-57256408-research" target="_blank">-->signup on SignUp Genius<!--</a>--></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Provide information about arrival times and time of arrival</td>
 <td>Complete arrival plans form</td>
 <td>June 3</td>
 <td>June 10</td>
 <td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_ai2OT97Z7lwjBAO" target="_blank">-->Arrival Plans form<!--</a>--></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Review the IQMR Face Book and email any corrections</td>
 <td>Email requested changes (if any) to Brooklyn (brmontgo@syr.edu)</td>
 <td>June 5</td>
