@@ -583,7 +583,7 @@ title: "EMW: Participants & Mentors"
 
 <div class="row emw-person">
   <div class="col-md-2 mb-3 mb-md-0">
-    <img src="{{ '/assets/images/emw/jason-seawright.png' | relative_url }}" alt="Jaye Seawright">
+    <img src="{{ '/assets/images/emw/jaye-seawright.png' | relative_url }}" alt="Jaye Seawright">
   </div>
   <div class="col-md-10">
     <div class="bio-name">Jaye Seawright</div>

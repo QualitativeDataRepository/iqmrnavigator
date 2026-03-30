@@ -24,6 +24,8 @@ exclude:
   - LICENSE.md
   - REDISTRIBUTED.md
   - purgecss.config.js
+  - emw-temp/
+  - temp-docs/
 
 # Collections and their defaults
 collections:
