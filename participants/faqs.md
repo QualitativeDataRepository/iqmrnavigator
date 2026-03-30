@@ -8,7 +8,7 @@ title: Frequently Asked Questions (FAQ)
 {: .module-sub }
 
   - **I am having a difficult time registering with Syracuse University to obtain my Syracuse University number. What should I do?**
-      - You will need to contact the Office of the Registrar at Syracuse University to address this problem. The Registrar has [a wonderful web page](https://registrar.syr.edu/) with a lot of information, and you can also call them at (315) 443-2422.
+      - Registration has changed in 2026 -- details to come
 
 
   - **Will the modules run at the same time, or is it possible to attend sessions from different modules?**
@@ -42,10 +42,6 @@ title: Frequently Asked Questions (FAQ)
       - Research design sessions are held on every instructional day with the exception of the first Sunday and the last Friday, so eight days total. We expect you to sign up for research design session on five of those days – in addition to the session in which you present your research design (so you’ll attend a total of six sessions). Participating in these sessions is a great way both to learn from and about what others do and to give constructive feedback, not to mention how much it benefits the recipients.
 
 
-  - **I indicated that I would submit a full/proto research design on the initial form. Can I submit a proto/full design instead_**
-      - Yes. The initial indication gives us a sense of the numbers for planning. That said, the more comprehensive the design you submit, the more useful the feedback you'll receive, so we encourage you to submit a full design if you are on the fence. 
-
-
 ## Logistics
 {: .module-sub }
 
@@ -67,6 +63,6 @@ title: Frequently Asked Questions (FAQ)
 ## Milton Residential Hall 
 
   - **What can I expect to be available at Milton Hall when I arrive?**
-      - Each Suite comes equipped with an oven, microwave, and fridge but no other kitchen appliances or cookware. See the [“Lodging” page](https://iqmrnavigator.org/participants/lodging) under “Participant Information” for details.
+      - Each Suite comes equipped with an oven and fridge, but no microwave. See the [“Lodging” page](https://iqmrnavigator.org/participants/lodging) under “Participant Information” for details.
   - **Can I receive packages at Milton Hall?**
       - No, packages cannot be delivered to Milton Hall.
