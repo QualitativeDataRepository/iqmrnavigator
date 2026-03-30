@@ -44,10 +44,14 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "18"
-      - name: Install PurgeCSS and Terser
+      - name: Install PurgeCSS, Terser, and PageFind
         run: |
           npm install -g purgecss
           npm install -g terser
+          npm install -g pagefind
+
+      - name: Index site with PageFind
+        run: npx pagefind --site _site
       - name: Compress CSS with PurgeCSS
         run: |
           purgecss --config purgecss.config.js
