@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SUID NUMBER and SU NetID
+title: SU Registration and ID
 ---
 
 

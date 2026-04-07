@@ -137,6 +137,7 @@ main.container img {
   // Sticky horizontal positioning
   th {
     position: sticky;
+    top: 56px;
     background-color: $body-bg;
   }
   th:first-of-type {

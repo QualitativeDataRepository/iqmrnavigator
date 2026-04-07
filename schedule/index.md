@@ -220,13 +220,16 @@ title: IQMR 2026 Schedule
         }
 </style>
 
-
+- Breakfast every day from 8-8:45am; June 14th in Flaum Grand Hall, Whitman School; \
+  all others days in the Strasser Commons, Second Floor of Eggers Hall
+- Find the [regular daily schedule here](/information)
+- Find the [research design discussion schedule here](/information/research-design-schedule)
     
 <div class="container-fluid">
     <!-- Week 1 Schedule -->
 
     <div class="week-heading">Week 1: June 14-20</div>
-        <p style="font-size: 1.3rem;"><i>Breakfast every day from 8-8:45am in the Strasser Commons, Second Floor of Eggers Hall</i></p>
+
     <div class="schedule-container overflow-scroll">
         <table class="schedule-grid">
             <thead>
@@ -250,7 +253,7 @@ title: IQMR 2026 Schedule
                         <div class="session-content special-content">
                             <div class="session-title">Unified Sessions</div>
                             <div class="session-instructors">Instructors: Jaye Seawright, David Waldner, and Lisa Wedeen</div>
-                            <div class="session-location">Maxwell Auditorium</div>
+                            <div class="session-location">Whitman School of Business, Room 007</div>
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>

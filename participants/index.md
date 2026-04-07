@@ -8,8 +8,8 @@ OVERVIEW
 
 We look forward to welcoming you to Syracuse University for the Institute for Qualitative and Multi-Method Research (IQMR) 2026!
 Please review carefully the information included on this page. Email Sebastian Karcher (skarcher@syr.edu) with any questions you have.
-You will arrive in Syracuse on Saturday June 13, and IQMR will commence on Sunday June 14. There will be a one-day break on Friday, June 19 (“Juneteenth”), and a two-day break on June 20 and 21. No classes are scheduled on these days and students are free to make their own arrangements.After the weekend break, IQMR will continue on the morning of Monday June 22 and run until late afternoon on Friday, June 26. You will depart late afternoon or evening on Friday, or on Saturday, June 27.
-Excluding break days (June 19, 20, and 212), the Institute will run full time from early morning on Sunday June 14 until 5:00pm on Friday June 26. Except for illness or other type of emergency, you are expected to attend all Institute sessions. We – and your fellow participants – will arrange multiple extracurricular sessions and activities. These may draw everyone together, or gather participants interested in a particular region or research technique, for instance. We strongly encourage you to partake in these activities, network, and capitalize on all that IQMR has to offer!
+You will arrive in Syracuse on Saturday June 13, and IQMR will commence on Sunday June 14. There will be a three-day break from Friday, June 19 (“Juneteenth”) through Sunday June 21. No classes are scheduled on these days and students are free to make their own arrangements.After the weekend break, IQMR will continue on the morning of Monday June 22 and run until late afternoon on Friday, June 26. You will depart late afternoon or evening on Friday, or on Saturday, June 27.
+Excluding break days (June 19, 20, and 21), the Institute will run full time from early morning on Sunday June 14 until 5:00pm on Friday June 26. Except for illness or other type of emergency, you are expected to attend all Institute sessions. We – and your fellow participants – will arrange multiple extracurricular sessions and activities. These may draw everyone together, or gather participants interested in a particular region or research technique, for instance. We strongly encourage you to partake in these activities, network, and capitalize on all that IQMR has to offer!
 
 
 PARTICIPANT RESPONSIBILITIES
@@ -38,14 +38,14 @@ tr, td{padding-top:  0.25rem;
 <td>Complete Qualtrics Attendance Confirmation Form</td>
 <td>March 27</td>
 <td>April 15</td>
-<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3KI371EUxl944ui" target="_blank">Attendance confirmation</a></td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_0PNsO0RTJMHpfrE" target="_blank">Attendance confirmation</a></td>
 </tr>
 <tr class="even">
 <td>Tell us about your lodging preferences</td>
 <td>Complete Lodging Survey</td>
 <td>April 7</td>
 <td>May 1</td>
-<td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_bsh0K6f5CnjxtnE" target="_blank">-->Lodging preferences survey<!--</a>--></td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_55b1Ou4fPUTmqG2" target="_blank">Lodging preferences survey</a></td>
 </tr>
 <tr class="odd">
 <td>Register for SU ID (allows access to campus facilities) and SU NetID (allows login to SU Blackboard)</td>
@@ -153,7 +153,7 @@ All IQMR attendees will stay in two or four-bedroom suites in [Milton Hall](http
 COMMUNICATIONS
 --------------
 
-IQMR leadership will mainly communicate with you via the **IQMR 2025 group chat on Slack**. You should have received an email  from Slack asking you to accept an invitation to join the chat/channel.  We will also end emails with the most critical information, but it will be essential for you to join the Slack chat/channel and to keep an eye on it during the Institute.
+IQMR leadership will mainly communicate with you via the **IQMR 2026 group chat on Slack**. You should have received an email  from Slack asking you to accept an invitation to join the chat/channel.  We will also end emails with the most critical information, but it will be essential for you to join the Slack chat/channel and to keep an eye on it during the Institute.
 
 GETTING TO SYRACUSE
 --------------

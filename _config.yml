@@ -55,6 +55,8 @@ conference:
         menu:
           - name: Overview
             relative_url: /information
+          - name: IQMR 2026 Team
+            relative_url: /information/iqmr-team
           - name: Dining and Attractions
             relative_url: /information/dining-attractions 
           - name: Eggers and Maxwell Room Maps
@@ -86,7 +88,7 @@ conference:
             relative_url: /participants/research-design-instructions
           - name: Research Design Sessions
             relative_url: /participants/research-design-groups
-          - name: SUID Number and SU NetID
+          - name: SU Registration and ID
             relative_url: /participants/syracuse-registration
           - name: Syracuse University
             relative_url: /participants/syracuse-university
