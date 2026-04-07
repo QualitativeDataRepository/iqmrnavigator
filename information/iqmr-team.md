@@ -3,7 +3,7 @@ layout: page
 title: IQMR 2026 Team
 ---
 
-**Nareh M Aseyan, IQMR Coordinator** - [nmaesyan@syr.edu](mailto:nmaesyan@syr.edu)
+**Nareh M. Aseyan, IQMR Coordinator** - [nmaesyan@syr.edu](mailto:nmaesyan@syr.edu)
 - Nareh is a third-year student in International Relations at Syracuse University.
 - You’ll be able to find her on Slack, around Maxwell, and in her office, 346G Eggers Hall
 
@@ -19,6 +19,6 @@ title: IQMR 2026 Team
 - Brooklyn is a PhD candidate in the Department of Geography at Syracuse University.
 - You’ll be able to find her on Slack, around Maxwell, and in her office, 346G Eggers Hall
 
-**Christiane Page, Center for Qualitative and Multi-Method Inquiry (CQMI) Associate Director** - [cmpage@syr.edu](mailto:cmpage@syr.edu)
+**Christiane Pagé, Center for Qualitative and Multi-Method Inquiry (CQMI) Associate Director** - [cmpage@syr.edu](mailto:cmpage@syr.edu)
 - Christiane is the core administrator for CQMI, which oversees both IQMR, the Qualitative Data Repository and activities around methods training for Syracuse faculty and students.
 - You’ll be able to find her on Slack, around Maxwell, and in her office, 346D Eggers Hall
