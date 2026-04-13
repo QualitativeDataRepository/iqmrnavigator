@@ -50,7 +50,7 @@ tr, td{padding-top:  0.25rem;
 <tr class="odd">
 <td>Register for SU ID (allows access to campus facilities) and SU NetID (allows login to SU Blackboard)</td>
 <td>Detailed instructions to register will be emailed in April</td>
-<td>April 30</td>
+<td>April 13</td>
 <td>May 15</td>
 <td><a href="/participants/syracuse-registration">Syracuse University Registration Instructions</a></td>
 </tr>
