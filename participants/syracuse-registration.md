@@ -8,7 +8,7 @@ Syracuse University will provide you with two different unique identifiers: your
 Your SUID number will be included on your SUID card. Your SUID card gives you access to various locations and services such as the gym, library, and other SU facilities. Your SU NetID allows you access to Syracuse University’s digital resources (such as the library). You will need your SUID in order to get your SU NetID.
 
 ## Register for your SUID and NetID
-You will need to register online in order to get an SUID number and an SU NetID. Registration is handled by Syracuse University's office of Microcredentials. Follow the step-by-step instructions below. **The IQMR course page is private. Please use the link sent to you in our April 13 email to access the listing for IQMR. 
+You will need to register online in order to get an SUID number and an SU NetID. Registration is handled by Syracuse University's office of Microcredentials. Follow the step-by-step instructions below. **The IQMR course page is private. Please use the link sent to you in our April 13 email to access the listing for IQMR.** 
 
 1. Follow the link to the IQMR course sent to you via email. Click the "Login to register" button next to the IQMR listing.
 
