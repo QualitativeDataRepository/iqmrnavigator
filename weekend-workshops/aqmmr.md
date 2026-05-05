@@ -12,7 +12,7 @@ For questions, contact Diana Kapiszewski ([dk784@georgetown.edu](mailto:dk784@ge
 ## Schedule
 
 - **8:00–10:00am** Eastern — Hilde van Meegdenburg (Leiden University, Netherlands) and Patrick Mello (Vrije Universiteit Amsterdam, Netherlands), *Causal Symptoms* book manuscript
-  - Discussants: Jim Mahoney (Northeastern University) and Ingo Rohlfing (University of Passau, Germany)
+  - Discussants: Jim Mahoney (Northwestern University) and Ingo Rohlfing (University of Passau, Germany)
 <br/>
 <br/>
 - *10:00–10:30am Eastern — Break*
