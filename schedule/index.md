@@ -398,7 +398,7 @@ title: IQMR 2026 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Research Ethics</div>
+                            <div class="session-title">Real-World Research Ethics</div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Amanda Weiss</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
