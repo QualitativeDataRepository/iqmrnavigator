@@ -57,44 +57,44 @@ tr, td{padding-top:  0.25rem;
 <tr class="even">
 <td>Select modules that you will take at IQMR</td>
 <td>Complete Module selection form</td>
-<td>May 7</td>
+<td>May 12</td>
 <td>June 1</td>
-<td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_3w4yi9cObc72erA" target="_blank">-->Module selection form<!--</a>--></td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_eDvMKFdIcjGwMvk" target="_blank">Module selection form</a></td>
 </tr>
 <tr class="odd">
 <td>Submit research design (See <a href="/participants/research-design-instructions">Research Design Instructions here</a>)</td>
 <td>Complete Research Design Submission form</td>
-<td>May 7</td>
+<td>May 12</td>
 <td>June 1</td>
-<td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_0oEXzQ6eTGTBuxU" target="_blank">-->Research Design submission<!--</a>--></td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_74IIyEUN6vTrVZQ" target="_blank">Research Design submission</a></td>
 </tr>
 <tr class="even">
+<td>Provide information about arrival times and time of arrival</td>
+<td>Complete arrival plans form</td>
+<td>May 12</td>
+<td>June 1</td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_1HrcPLWhJhPGXBQ" target="_blank">Arrival Plans form</a></td>
+</tr>
+<tr class="odd">
 <td>Complete any required prerequisites for the modules you have decided to take</td>
 <td>Some more technical modules may have modest prerequisites (e.g., take a short online R workshop)</td>
 <td>June 1</td>
 <td>June 8</td>
 <td><a href="/participants/module-prerequisites">Module prerequisites</a></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td>Provide proof that you have completed any required prerequisite for the modules you have decided to take</td>
 <td>Complete prerequisite proof survey</td>
 <td>June 1</td>
 <td>June 8</td>
 <td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_0MJlWiOmAowyjpY" target="_blank">-->Submit Module Prerequiste Proof<!--</a>--></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td>Sign up for research design discussion groups you will join as a commenter at IQMR</td>
 <td>Research Design discussion <!--<a href="https://www.zotero.org/groups/5976232/iqmr/collections/498N3CAN/items/B8XI2BVR/collection" target="_blank">-->group schedule on Zotero<!--</a>--></td>
 <td>June 8</td>
 <td>June 12</td>
 <td>Research Design discussion group <!--<a href="https://www.signupgenius.com/go/10C0549AEAD23A1F9C07-57256408-research" target="_blank">-->signup on SignUp Genius<!--</a>--></td>
-</tr>
-<tr class="odd">
-<td>Provide information about arrival times and time of arrival</td>
-<td>Complete arrival plans form</td>
-<td>June 3</td>
-<td>June 10</td>
-<td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_ai2OT97Z7lwjBAO" target="_blank">-->Arrival Plans form<!--</a>--></td>
 </tr>
 <tr class="even">
 <td>Review the IQMR Face Book and email any corrections</td>

@@ -3,7 +3,7 @@ layout: page
 title: Research Design Discussion Group Sessions
 ---
 
-**Presenting a research design for discussion at IQMR is required**. Institute participants routinely highlight the feedback they receive in such sessions as one of the most valuable aspects of IQMR. You can review [instructions for preparing the research design here](https://docs.google.com/document/d/1Bm0NvStd-bueI_Oda9RB_vAs4lsdSUkGpaUuneHO0MA/edit?tab=t.0).
+**Presenting a research design for discussion at IQMR is required**. Institute participants routinely highlight the feedback they receive in such sessions as one of the most valuable aspects of IQMR. You can review [instructions for preparing the research design here](/participants/research-design-instructions).
 
 On most instructional days, the 75-minute "Research Design Discussion Group" sessions in which IQMR participants present their designs for feedback and critique from other participants take place just prior to lunch. We usually offer six or so research design sessions in parallel, in each of which three or five authors present their designs, and 10-15 IQMR participants comment on them. An IQMR instructor chairs the session.
 
@@ -13,6 +13,6 @@ Design authors should use their presentation time wisely. We urge you NOT to spe
 
 You do not need to bring printouts of your design to the session in which it will be discussed.
 
-You will indicate whether you would like to present a "proto" research design or a "full" research design via the "R+ResDes+DMP Survey" in April. All research designs are due by **June 1** via the survey linked here.
+All research designs are due by **June 1** via the survey linked here.
 
 In addition, all participants must sign up for the research design discussion groups. We will send you the research design discussion group schedule and signup form by **June 8** and ask that you sign up by **June 15**.

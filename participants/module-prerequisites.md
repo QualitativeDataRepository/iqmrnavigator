@@ -10,7 +10,7 @@ Participants who plan to take modules with prerequisites **are required** to com
 
 These are the relevant module sequences, tools, prerequisites, and ways to demonstrate that you have completed the prerequisite:
 
-## M20, M24, M28 Ethnography 
+## M20, M24, M28 Ethnographic Methods 
 
 ### Prerequisite 
 Before coming to IQMR, spend at least four hours intentionally observing and/or participating in, and then reflecting on a community, group, space, place, behavior, or cultural practice. Take detailed notes on what you observe and what you experience. Feel free to explore any overarching patterns, themes, hypotheses, or understandings that emerge over the course of your notes.
