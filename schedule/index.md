@@ -604,7 +604,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Multi-Method Research I</div>
+                            <div class="session-title">Multi-Method Research I: Foundations of Multi-Method Design</div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -646,7 +646,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Multi-Method Research II</div>
+                            <div class="session-title">Multi-Method Research II: Experiments and Natural Experiments</div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -688,7 +688,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Multi-Method Research III</div>
+                            <div class="session-title">Multi-Method Research III: Machine Learning and Advanced Integration</div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
