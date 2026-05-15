@@ -32,6 +32,7 @@ $fa-font-path: '/assets/webfonts' !default;
 // IQMR Custom settings
 h2.module-sub {
   margin-top: 2.5rem;
+  scroll-margin-top: 70px;
 }
 
 h2:has(+ h3) {

@@ -283,7 +283,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Qualitative Causal Inference I</div>
+                            <div class="session-title"><a href="/modules/qualitative-causal-inference#m2">Qualitative Causal Inference I</a></div>
                             <div class="session-instructors">Instructor: David Waldner</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -326,7 +326,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Qualitative Causal Inference II</div>
+                            <div class="session-title"><a href="/modules/qualitative-causal-inference#m6">Qualitative Causal Inference II</a></div>
                             <div class="session-instructors">Instructor: David Waldner</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -368,14 +368,14 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Comparative Historical Analysis I</div>
+                            <div class="session-title"><a href="/modules/comparative-historical-analysis#m10">Comparative Historical Analysis I</a></div>
                             <div class="session-instructors">Instructor: Marcus Kreuzer</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Re-thinking Small-N Comparisons I</div>
+                            <div class="session-title"><a href="/modules/rethinking-small-n#m11">Re-thinking Small-N Comparisons I</a></div>
                             <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -398,21 +398,21 @@ title: IQMR 2026 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Real-World Research Ethics</div>
+                            <div class="session-title"><a href="/modules/research-ethics#m13">Real-World Research Ethics</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Amanda Weiss</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Comparative Historical Analysis II</div>
+                            <div class="session-title"><a href="/modules/comparative-historical-analysis#m14">Comparative Historical Analysis II</a></div>
                             <div class="session-instructors">Instructor: Marcus Kreuzer</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Re-thinking Small-N Comparisons II</div>
+                            <div class="session-title"><a href="/modules/rethinking-small-n#m15">Re-thinking Small-N Comparisons II</a></div>
                             <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -512,7 +512,7 @@ title: IQMR 2026 Schedule
                     <td class="session-cell empty-cell"></td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Integrating Qualitative and Experimental Methods I</div>
+                            <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#m17">Integrating Qualitative and Experimental Methods I</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter and Guadalupe Tuñón</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -533,7 +533,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Ethnographic Methods I</div>
+                            <div class="session-title"><a href="/modules/ethnography#m20">Ethnographic Methods I</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -554,7 +554,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Integrating Qualitative and Experimental Methods II</div>
+                            <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#m21">Integrating Qualitative and Experimental Methods II</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter and Guadalupe Tuñón</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -575,7 +575,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Ethnographic Methods II</div>
+                            <div class="session-title"><a href="/modules/ethnography#m24">Ethnographic Methods II</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -604,7 +604,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Multi-Method Research I: Foundations of Multi-Method Design</div>
+                            <div class="session-title"><a href="/modules/multi-method-research#m26">Multi-Method Research I: Foundations of Multi-Method Design</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -618,7 +618,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Ethnographic Methods III</div>
+                            <div class="session-title"><a href="/modules/ethnography#m28">Ethnographic Methods III</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -646,7 +646,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Multi-Method Research II: Experiments and Natural Experiments</div>
+                            <div class="session-title"><a href="/modules/multi-method-research#m30">Multi-Method Research II: Experiments and Natural Experiments</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -688,7 +688,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Multi-Method Research III: Machine Learning and Advanced Integration</div>
+                            <div class="session-title"><a href="/modules/multi-method-research#m34">Multi-Method Research III: Machine Learning and Advanced Integration</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
