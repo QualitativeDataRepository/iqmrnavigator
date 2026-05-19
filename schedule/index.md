@@ -597,7 +597,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Bayesian Inference for Qualitative Research I</div>
+                            <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#m25">Bayesian Inference for Qualitative Research I</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -611,7 +611,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Preparing for Fieldwork and Operating in the Field</div>
+                            <div class="session-title"><a href="/modules/fieldwork#m27">Preparing for Fieldwork and Operating in the Field</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -639,7 +639,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Bayesian Inference for Qualitative Research II</div>
+                            <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#m29">Bayesian Inference for Qualitative Research II</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -653,7 +653,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Surveys, Interviews, Focus Groups, and Observation</div>
+                            <div class="session-title"><a href="/modules/fieldwork#m31">Surveys, Interviews, Focus Groups, and Observation</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -681,7 +681,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Bayesian Inference for Qualitative Research III</div>
+                            <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#m33">Bayesian Inference for Qualitative Research III</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -695,7 +695,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Archival Research and Dynamic Research Design</div>
+                            <div class="session-title"><a href="/modules/fieldwork#m35">Archival Research and Dynamic Research Design</a></div>
                             <div class="session-instructors">Instructors: Robert Mickey, Diana Kapiszewski, and Lauren MacLean</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
