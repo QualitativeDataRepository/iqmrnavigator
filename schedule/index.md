@@ -382,7 +382,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                              <div class="session-title">Geographic Information Systems I</div>
+                              <div class="session-title"><a href="/modules/geographic-information-systems#m12">Geographic Information Systems I</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -419,7 +419,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Geographic Information Systems II</div>
+                            <div class="session-title"><a href="/modules/geographic-information-systems#m16">Geographic Information Systems II</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -519,14 +519,14 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Process Tracing and Typological Theories I</div>
+                            <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#m18">Process Tracing and Typological Theories I</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Introduction to Text as Data I</div>
+                            <div class="session-title"><a href="/modules/text-as-data#m19">Introduction to Text as Data I</a></div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -561,14 +561,14 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
-                            <div class="session-title">Process Tracing and Typological Theories II</div>
+                            <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#m22">Process Tracing and Typological Theories II</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Introduction to Text as Data II</div>
+                            <div class="session-title"><a href="/modules/text-as-data#m23">Introduction to Text as Data II</a></div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
