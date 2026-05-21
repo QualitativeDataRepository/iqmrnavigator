@@ -60,6 +60,13 @@ What is historical interpretation? In one sense interpretation is a part of all 
 
 This two-module sequence provides students with an introduction to interpretive methods through a discussion of various modes of discourse analysis and ideology critique. Students will learn to "read" texts and other artifacts while becoming familiar with contemporary thinking about interpretation, narrative, genre, and criticism. In the first four sessions we shall explore the following methods: Wittgenstein's understanding of language as activity and its practical relevance to ordinary language-use analysis; Foucault's "interpretive analytics" with hands-on exercises applying his genealogical method; and various versions (two sessions) of cultural Marxism—with specific attention to "ideology critique." The last two classes will consider the differences between interpretivism and positivism, attending to the ways in which an ethnographic sensibility uses empirical research to elucidate how people interpret, navigate, and challenge the social and political worlds they inhabit.
 
+## [Introduction to Text as Data](/modules/text-as-data)
+
+*Fiona Shen-Bayh*
+
+What does it mean to transform texts into data? How do computers read and analyze qualitative information quantitatively? Do computational analyses of texts map onto qualitative understanding of human language? This unit explores these questions and more by introducing students to the "text as data" pipeline, beginning with the curation of digital texts and concluding with the measurement of political concepts in lexical terms. Our first lab-based session will examine what it means to transform a collection of documents into machine readable texts, after which we will cover step-by-step how to build and clean a digital corpus in Python. The next three lab-based sessions will examine a variety of quantitative approaches to analyzing a digital corpus, including counting, vectorizing, and embedding techniques. Our final session will conclude with a group discussion of text-based measurement strategies wherein we critically question whether such methods can produce reliable and valid measures of the concepts political scientists care about.
+
+
 ## [Logic of Qualitative Methods](/modules/logic-of-qualitative-methods)  
 *James Mahoney and Gary Goertz*
 
@@ -99,12 +106,6 @@ This module guides attendees through the fundamentals of real-world research eth
 *Erica Simmons and Nicholas Rush Smith*
 
 Why do we compare? Typically, in political science research, causal inference is taken as the primary goal. Similarly, research that is generalizable to as many cases as possible tends to be valued more than research which can explain only a few. This unit will push past these assumptions in two ways. First, it will provide logics for generalization not rooted in ideas of statistical generalizability or mechanical reproduction. Second, it will expand the goals of comparison from causal inference to alternative practices like creative redescription or conceptual development. Third, we will explore how we can leverage strategies for rethinking comparison to address the practical challenges and unexpected discoveries that often upend pre-established research designs. When a "crisis of research design" strikes, how can researchers cope with partially implemented data collection plans to still generate meaningful theoretical and empirical insights? How can scholars salvage their research designs while maintaining methodological rigor? Finally, we will critique short research designs that will be provided in advance. Among other questions, we will ask ourselves: What kinds of claims can the author make with this research design and why? What are the limits on the kinds of claims they can make? How convincing is this research design? If you were on the selection committee of a funding agency, how would you rate this research design?
-
-## [Text as Data](/modules/text-as-data)
-
-*Fiona Shen-Bayh*
-
-What does it mean to transform texts into data? How do computers read and analyze qualitative information quantitatively? Do computational analyses of texts map onto qualitative understanding of human language? This unit explores these questions and more by introducing students to the "text as data" pipeline, beginning with the curation of digital texts and concluding with the measurement of political concepts in lexical terms. Our first lab-based session will examine what it means to transform a collection of documents into machine readable texts, after which we will cover step-by-step how to build and clean a digital corpus in Python. The next three lab-based sessions will examine a variety of quantitative approaches to analyzing a digital corpus, including counting, vectorizing, and embedding techniques. Our final session will conclude with a group discussion of text-based measurement strategies wherein we critically question whether such methods can produce reliable and valid measures of the concepts political scientists care about.
 
 ## [Unified Sessions](/modules/unified)
 
