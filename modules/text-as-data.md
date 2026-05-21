@@ -55,7 +55,6 @@ When we transform texts into data, we create opportunities to summarize qualitat
 
   - Ethan Fast, Binbin Chen, Michael Bernstein, "[Empath: Understanding Topic Signals in Large-Scale Text](https://arxiv.org/abs/1602.06979)"
 
-  - Milo Beckman, "[These are the Phrases Each GOP Candidate Uses Most](https://web.archive.org/web/20260226205422/https://fivethirtyeight.com/features/these-are-the-phrases-each-gop-candidate-repeats-most/)" \[archived\]
 
 Suggested readings:
 
