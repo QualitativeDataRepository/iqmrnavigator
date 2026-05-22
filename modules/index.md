@@ -13,6 +13,9 @@ The way we intuitively approach qualitative research is similar to how we read d
 ## Community Engaged Research
 *Jamila Michener*
 
+This module offers conceptual, theoretical, and practical insights on how to conduct research with, in, and alongside communities and community partners. Standard social science methodological training focuses on data collection and analysis techniques driven by the imperatives of replicability, reliability, validity, generalizability and similar standards of rigor. While these methodological priorities have merit, they often overlook the reality that data collection and analyses often require and facilitate contact, interaction, and reliance on people and organizations within communities. This is especially true of qualitative and mixed methods research. Though community engaged research shares some of the same standards, methods, and objectives as other kinds of research, it is nevertheless distinct. In order to be accurate and generative, research that involves substantive connection and relationship with communities must center the perspectives, power, and needs of those communities. This often necessitates changes to researchers’ decision making processes, methodological choices, funding needs, writing style and much more. Indifference to these core aspects of research practice can undermine the strength of empirical analyses, threaten the integrity of research findings, and compromise scholars’ ethical obligations. This module confronts and addresses these dynamics. We will explore varied ways of conceptualizing and defining community-engaged research, outline best practices for conducting research with, in, and alongside communities, and provide practical examples of research designs that treat communities as integral co-producers of knowledge.
+
+
 ## [Comparative Historical Analysis](/modules/comparative-historical-analysis)
 *Marcus Kreuzer*
 
