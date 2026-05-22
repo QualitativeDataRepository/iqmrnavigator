@@ -276,7 +276,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Logic of Qualitative Methods and Set Theory</div>
+                            <div class="session-title"><a href="/modules/logic-of-qualitative-methods#m1">Logic of Qualitative Methods and Set Theory</a></div>
                             <div class="session-instructors">Instructors: James Mahoney and Gary Goertz</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -319,7 +319,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Concepts and Conceptualization</div>
+                            <div class="session-title"><a href="/modules/logic-of-qualitative-methods#m5">Concepts and Conceptualization</a></div>
                             <div class="session-instructors">Instructors: James Mahoney and Gary Goertz</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -361,7 +361,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
-                            <div class="session-title">Large-N Qualitative Analysis</div>
+                            <div class="session-title"><a href="/modules/logic-of-qualitative-methods#m9">Large-N Qualitative Analysis</a></div>
                             <div class="session-instructors">Instructors: James Mahoney and Gary Goertz</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
