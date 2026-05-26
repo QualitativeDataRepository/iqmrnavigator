@@ -297,7 +297,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Interpretive Methods I</div>
+                            <div class="session-title"><a href="/modules/interpretive-methods#m4">Interpretive Methods I</a></div>
                             <div class="session-instructors">Instructors: Lisa Wedeen and Yuna Blajer de la Garza</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -340,7 +340,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Interpretive Methods II</div>
+                            <div class="session-title"><a href="/modules/interpretive-methods#m8">Interpretive Methods II</a></div>
                             <div class="session-instructors">Instructors: Lisa Wedeen and Yuna Blajer de la Garza</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -660,7 +660,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Interpretation and History I</div>
+                            <div class="session-title"><a href="/modules/interpretation-and-history#m32">Interpretation and History I</a></div>
                             <div class="session-instructors">Instructor: Amel Ahmed</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -702,7 +702,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
-                            <div class="session-title">Interpretation and History II</div>
+                            <div class="session-title"><a href="/modules/interpretation-and-history#m36">Interpretation and History II</a></div>
                             <div class="session-instructors">Instructor: Amel Ahmed</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
