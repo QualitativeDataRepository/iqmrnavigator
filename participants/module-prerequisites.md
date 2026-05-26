@@ -6,7 +6,7 @@ title: Module Prerequisites
 
 Some of IQMR’s module sequences have prerequisites that need to be completed in advance of the Institute beginning. 
 
-Participants who plan to take modules with prerequisites **are required** to complete these requirements, by **June 8, 2026**.
+Participants who plan to take modules with prerequisites **are required** to complete these requirements before IQMR (i.e., by **June 14th**).
 
 These are the relevant module sequences, tools, prerequisites, and ways to demonstrate that you have completed the prerequisite:
 

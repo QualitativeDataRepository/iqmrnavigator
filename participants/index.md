@@ -79,14 +79,14 @@ tr, td{padding-top:  0.25rem;
 <td>Complete any required prerequisites for the modules you have decided to take</td>
 <td>Two modules (Ethnographic Methods and Intro to Text as Data) have modest prerequisites</td>
 <td>May 26</td>
-<td>June 8</td>
+<td>June 14</td>
 <td><a href="/participants/module-prerequisites">Module prerequisites</a></td>
 </tr>
 <tr class="even">
 <td>Provide proof that you have completed any required prerequisite for the modules you have decided to take</td>
 <td>Complete prerequisite proof survey</td>
 <td>May 26</td>
-<td>June 8</td>
+<td>June 14</td>
 <td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_bC9yEgoPqU8o47k" target="_blank">Submit Module Prerequiste Proof</a></td>
 </tr>
 <tr class="odd">
