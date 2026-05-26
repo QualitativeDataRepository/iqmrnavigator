@@ -10,6 +10,8 @@ Monday, June 22; Tuesday, June 23
 
 What does it mean to transform texts into data? How do computers read and analyze qualitative information quantitatively? Do computational analyses of texts map onto qualitative understanding of human language? This unit explores these questions and more by introducing students to the "text as data" pipeline, beginning with the curation of digital texts and concluding with the measurement of political concepts in lexical terms. Our first lab-based session will examine what it means to transform a collection of documents into machine readable objects, after which we will cover step-by-step how to collate and clean a digital corpus in Python. The next three lab-based sessions will examine introductory approaches to quantitative text analysis, including counting, vectorizing, and embedding techniques. Our final session will conclude with a group discussion of text-based measurement strategies wherein we critically question whether such methods can produce reliable and valid measures of the concepts political scientists care about.
 
+***This module sequence has a required prerequisite. You can find more information and instructions [on this Navigator page](/participants/module-prerequisites).  The prerequisite is due on June 8.***
+
 ***Participants who did not attend the module sequence from the beginning may not join later in the sequence.***
 
 ## Quantifying texts (M19, June 22)

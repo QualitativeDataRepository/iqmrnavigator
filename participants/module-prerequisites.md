@@ -38,7 +38,7 @@ Before coming to IQMR, spend at least four hours intentionally observing and/or 
 
 ### Prerequisite 
     
-The “Text as Data” module sequence assumes basic familiarity with python, in particular
+The “Introduction to Text as Data” module sequence assumes basic familiarity with python, in particular
 1.	Python basics, including how to do a basic `for` loop, function writing, loading data.
 2.	Pythonic data structures, including lists, tuples, dictionaries, and dataframes.
 3.	How to manipulate string objects in Python.
@@ -49,7 +49,7 @@ If you’ve done any programming in python in the past, you will be fine. Otherw
 
 
 ### Demonstration of completion of prerequisite
-To demonstrate basic proficiency, please upload a screenshot of your solution to the following task running in Google Collab to [the module prequisites form](){: target="_blank"}. Please don’t just use an LLM to write your answer: you’re not doing yourself a favor. We will have office hours in the 2 weeks prior to IQMR to help you if you’re struggling.
+To demonstrate basic proficiency, please upload a screenshot of your solution to the following task running in Google Collab to [the module prequisites form](https://syracuseuniversity.qualtrics.com/jfe/form/SV_bC9yEgoPqU8o47k){: target="_blank"}. Please don’t just use an LLM to write your answer: you’re not doing yourself a favor. 
 
 
 Write a function called analyze_grades that:

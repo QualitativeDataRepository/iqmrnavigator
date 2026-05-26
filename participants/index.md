@@ -77,17 +77,17 @@ tr, td{padding-top:  0.25rem;
 </tr>
 <tr class="odd">
 <td>Complete any required prerequisites for the modules you have decided to take</td>
-<td>Some more technical modules may have modest prerequisites (e.g., take a short online R workshop)</td>
-<td>June 1</td>
+<td>Two modules (Ethnographic Methods and Intro to Text as Data) have modest prerequisites</td>
+<td>May 26</td>
 <td>June 8</td>
 <td><a href="/participants/module-prerequisites">Module prerequisites</a></td>
 </tr>
 <tr class="even">
 <td>Provide proof that you have completed any required prerequisite for the modules you have decided to take</td>
 <td>Complete prerequisite proof survey</td>
-<td>June 1</td>
+<td>May 26</td>
 <td>June 8</td>
-<td><!--<a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_0MJlWiOmAowyjpY" target="_blank">-->Submit Module Prerequiste Proof<!--</a>--></td>
+<td><a href="https://syracuseuniversity.qualtrics.com/jfe/form/SV_bC9yEgoPqU8o47k" target="_blank">Submit Module Prerequiste Proof</a></td>
 </tr>
 <tr class="odd">
 <td>Sign up for research design discussion groups you will join as a commenter at IQMR</td>
@@ -97,9 +97,9 @@ tr, td{padding-top:  0.25rem;
 <td>Research Design discussion group <!--<a href="https://www.signupgenius.com/go/10C0549AEAD23A1F9C07-57256408-research" target="_blank">-->signup on SignUp Genius<!--</a>--></td>
 </tr>
 <tr class="even">
-<td>Review the IQMR Face Book and email any corrections</td>
-<td>Email requested changes (if any) to Brooklyn (brmontgo@syr.edu)</td>
-<td>June 5</td>
+<td>Review the IQMR Yearbook and email any corrections</td>
+<td>Email requested changes (if any) to Nareh (<a href="mailto:nmaesyan@syr.edu">nmaesyan@syr.edu</a>)</td>
+<td>May 26</td>
 <td>June 12</td>
 <td>NA</td>
 </tr>
