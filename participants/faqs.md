@@ -61,8 +61,13 @@ title: Frequently Asked Questions (FAQ)
       - There is someone on call all day and night at the residence hall at which you will be staying, Milton Hall – see the [“Lodging” page](https://iqmrnavigator.org/participants/lodging) under “Participant Information” for details.
    
 ## Milton Residential Hall 
+{: .module-sub }
 
   - **What can I expect to be available at Milton Hall when I arrive?**
       - Each Suite comes equipped with an oven and fridge, but no microwave. See the [“Lodging” page](https://iqmrnavigator.org/participants/lodging) under “Participant Information” for details.
   - **Can I receive packages at Milton Hall?**
       - No, packages cannot be delivered to Milton Hall.
+  - **Can my pet stay with me at Milton Hall?**
+      - No, only registered service animals are allowed at Milton Hall and require prior arrangement.
+  - **Can my partner or kid stay with me at Milton Hall?**
+      - No, Milton Hall apartment rooms are strictly single occupancy.   
