@@ -290,7 +290,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Community-Engaged Research I</div>
+                            <div class="session-title"><a href="/modules/community-engaged-research#m3">Community-Engaged Research I</a></div>
                             <div class="session-instructors">Instructors: Jamila Michener</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
@@ -333,7 +333,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
-                            <div class="session-title">Community-Engaged Research II</div>
+                            <div class="session-title"><a href="/modules/community-engaged-research#m7">Community-Engaged Research II</a></div>
                             <div class="session-instructors">Instructors: Jamila Michener</div>
                             <!-- <div class="session-location">TBD</div> -->
                         </div>
