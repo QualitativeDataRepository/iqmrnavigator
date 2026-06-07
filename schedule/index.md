@@ -548,7 +548,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content special-content">
-                            <div class="session-title">Methods Bar</div>
+                            <div class="session-title"><a href="/information/methods-bar">Methods Bar</a></div>
                             <div class="session-location">Strasser Commons and Strasser Legacy Room, 7pm</div>
                         </div>
                     </td>

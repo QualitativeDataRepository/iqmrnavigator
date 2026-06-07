@@ -62,7 +62,9 @@ conference:
           - name: Eggers and Maxwell Room Maps
             relative_url: /information/maxwell-eggers
           - name: Faculty Biographies
-            relative_url: /information/faculty-biographies 
+            relative_url: /information/faculty-biographies
+          - name: Methods Bar
+            relative_url: /information/methods-bar
           - name: Research Design Schedule
             relative_url: /information/research-design-schedule
           - name: Zotero

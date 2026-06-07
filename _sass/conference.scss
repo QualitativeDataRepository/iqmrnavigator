@@ -30,6 +30,12 @@ $fa-font-path: '/assets/webfonts' !default;
 
 
 // IQMR Custom settings
+main.container table:not(.table) {
+  td, th {
+    padding: 0.25rem 0.75rem;
+  }
+}
+
 h2.module-sub {
   margin-top: 2.5rem;
   scroll-margin-top: 70px;
