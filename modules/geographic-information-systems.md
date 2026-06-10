@@ -96,7 +96,7 @@ Suggested readings:
 
   - QGIS. (no date). *Documentation for QGIS 3.4*. Retrieved May 19, 2026, from [https://docs.qgis.org/3.4/en/docs/index.html](https://docs.qgis.org/3.4/en/docs/index.html)
 
-### 10:45 - 12:15pm – GIS Data Creation: Digitizing Archival Maps and Historical GIS; Collecting Georeferenced Survey Data in the Field; and Involving Research Participants in Sketch Mapping and Participatory GIS
+### 1:30pm - 3:00pm – GIS Data Creation: Digitizing Archival Maps and Historical GIS; Collecting Georeferenced Survey Data in the Field; and Involving Research Participants in Sketch Mapping and Participatory GIS
 
 This session teaches various ways to collect primary spatial data. Participants will learn to digitize a historical map, collect georeferenced survey data during field work, and tools to engage research participants in participatory mapping.
 
@@ -116,7 +116,7 @@ Suggested readings:
 
   - Oxford Big Data Institute. (n.d.). *What is Epicollect5*. Epicollect5 Data Collection User Guide. Retrieved May 19, 2026, from [https://docs.epicollect.net](https://docs.epicollect.net/)
 
-### 1:30pm - 3:00pm – Map Design: Effectively Communicating Mapped Data
+### 3:30pm - 5:00pm – Map Design: Effectively Communicating Mapped Data
 
 This session will provide an overview of basic map design and geovisualization, integrating narrative and photos with GIS, and a discussion about how and where to further hone GIS skills. Participants will learn about the importance of purpose, audience and form when using maps to communicate, and the essential components of maps that allow users to accurately read and interpret spatial data.
 

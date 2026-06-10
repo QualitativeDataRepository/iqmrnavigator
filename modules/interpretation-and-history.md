@@ -88,7 +88,7 @@ Suggested readings:
 
   - Max Weber, Excerpts from *The* "Objectivity" of Knowledge in the Social Sciences and Social Policy" (1904) in Shils and Finch eds. *Max Weber on the Methodology of the Social Sciences*, pp. 85-112.
 
-### 1:30pm - 3:00pm – SESSION 2: Writing History
+### 10:45am - 12:15pm – SESSION 2: Writing History
 
 Writing history requires us to construct our own historical narrative, involving varied and seemingly infinite choices about what to include and what not to include. In addition, we must consider: How much (and when) to use secondary vs. primary sources? How much to simplify? How do we offer a credible and convincing account given the things that we must omit? How do we avoid the dreaded "one thing after another" trap? Moreover, writing history is often not a discrete stage but involves a back and forth with reading and analyzing, between theory and evidence. This also presents methodological challenges in terms of how we examine our theoretical propositions. While there is not one single answer to these questions, nor a single historical narrative that will capture history in all its dimensions, being conscious of the choices we make and the basis on which we make them can help improve the rigor and quality of our writing.
 
@@ -96,7 +96,7 @@ Writing history requires us to construct our own historical narrative, involving
 
   - *No readings for this session. Instead, bring to class* a piece of documentary evidence related to your research. This can be a text, an image, a transcript, an event, a speech, etc. In class, we will use these items for writing exercises focused on description and narration. *The goal will be to reflect on and discuss the choices made in the writing process and* strategies to make historical writing more effective.
 
-### 3:30pm - 5:00pm – SESSION 3: History's Lessons?
+### 1:30pm - 3:00pm – SESSION 3: History's Lessons?
 
 With historical analysis always comes the temptations, promise, and pitfalls of "historical lessons" – the attempt to draw from history parallels, analogies, or models to guide action in the present. How to wield history responsibly has been a matter of considerable debate. In this section we consider several perspectives, from the more conservative to the more critical, and examine more carefully what we might make of history's lessons.
 

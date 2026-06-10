@@ -101,7 +101,7 @@ Suggested reading:
 
   - Fairfield & Charman. 2022. "Chapter 12: Case Selection," pp. 551-556, 567-581.
 
-### 1:30pm - 3:00pm – Iterative Research
+### 10:45am - 12:15pm – Iterative Research
 
 This session will give a Bayesian perspective on iterative research that involves going back and forth between theory refinement, data collection, and data analysis. Bayesianism provides a rigorous justification for many practices that are commonly employed in qualitative research but go against standard methodological prescriptions. As time allows, we will go on to discuss Bayesianism in relation to other methodological approaches.
 
@@ -109,7 +109,7 @@ This session will give a Bayesian perspective on iterative research that involve
 
   - Tasha Fairfield and Andrew Charman. 2019, "A Dialogue with the Data: The Bayesian Foundations of Iterative Research in Qualitative Social Science." *Perspectives on Politics* 17(1):154-167.
 
-### 3:30pm - 5:00pm – Wrapping Up
+### 1:30pm - 3:00pm – Wrapping Up
 
 We will conclude the module by highlighting the relative advantages of Bayesianism and how it differs from other methodological approaches. The session will include a group exercise designed to elucidate key matters of Bayesian principle and practice, with an emphasis on clearing up some common misunderstandings.
 
