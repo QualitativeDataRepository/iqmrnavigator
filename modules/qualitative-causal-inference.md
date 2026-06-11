@@ -5,6 +5,8 @@ title: "Qualitative Causal Inference: From Fundamentals to Process Tracing Appli
 
 Monday, June 15; Tuesday, June 16
 {: #module-date}
+Eggers Hall, Room 010
+{: .module-location}
 
 **David Waldner (University of Virginia)**
 

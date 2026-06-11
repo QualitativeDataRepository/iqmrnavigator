@@ -5,6 +5,8 @@ title: Logic of Qualitative Methods (Modules 1, 5, 9)
 
 Monday, June 15; Tuesday, June 16; Wednesday, June 17
 {: #module-date}
+Eggers Hall, Room 032
+{: .module-location}
 
 **James Mahoney (Northwestern University), Gary Goertz (Independent Researcher)**
 

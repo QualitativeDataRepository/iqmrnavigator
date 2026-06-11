@@ -5,6 +5,8 @@ title: Introduction to Text as Data (Modules 19, 23)
 
 Monday, June 22; Tuesday, June 23
 {: #module-date}
+Eggers Hall, Room 060
+{: .module-location}
 
 **Fiona Shen-Bayh (University of Maryland)**
 

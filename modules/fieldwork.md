@@ -5,6 +5,8 @@ title: Designing and Conducting Fieldwork (Modules 27, 31, 35)
 
 Wednesday, June 24; Thursday, June 25; Friday, June 26
 {: #module-date}
+Eggers Hall, Room 010
+{: .module-location}
 
 **Diana Kapiszewski (Georgetown University), Lauren M. MacLean (Northeastern University), and Rob Mickey (University of Michigan)**
 

@@ -5,6 +5,8 @@ title: Ethnographic Methods (Modules 20, 24, 28)
 
 Monday, June 22; Tuesday, June 23; Wednesday, June 24
 {: #module-date}
+Eggers Hall, Room 018
+{: .module-location}
 
 **Kanisha D. Bond (SUNY Binghamton), Sarah E. Parkinson (Johns Hopkins University)**
 

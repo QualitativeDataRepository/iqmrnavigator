@@ -5,6 +5,8 @@ title: Process Tracing and Typological Theories (Modules 18, 22)
 
 Monday, June 22; Tuesday, June 23
 {: #module-date}
+Eggers Hall, Room 010
+{: .module-location}
 
 **Andy Bennett (Georgetown University)**
 

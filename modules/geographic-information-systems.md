@@ -5,6 +5,8 @@ title: Geographic Information Systems (Modules 12, 16)
 
 Wednesday, June 17; Thursday, June 18
 {: #module-date}
+Hinds Hall, Room 013
+{: .module-location}
 
 **Jonnell Robinson (Syracuse University)**
 

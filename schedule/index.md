@@ -278,28 +278,28 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/logic-of-qualitative-methods#m1">Logic of Qualitative Methods and Set Theory</a></div>
                             <div class="session-instructors">Instructors: James Mahoney and Gary Goertz</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/qualitative-causal-inference#m2">Qualitative Causal Inference I</a></div>
                             <div class="session-instructors">Instructor: David Waldner</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/community-engaged-research#m3">Community-Engaged Research I</a></div>
                             <div class="session-instructors">Instructors: Jamila Michener</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 018</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/interpretive-methods#m4">Interpretive Methods I</a></div>
                             <div class="session-instructors">Instructors: Lisa Wedeen and Yuna Blajer de la Garza</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                 </tr>
@@ -321,28 +321,28 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/logic-of-qualitative-methods#m5">Concepts and Conceptualization</a></div>
                             <div class="session-instructors">Instructors: James Mahoney and Gary Goertz</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/qualitative-causal-inference#m6">Qualitative Causal Inference II</a></div>
                             <div class="session-instructors">Instructor: David Waldner</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/community-engaged-research#m7">Community-Engaged Research II</a></div>
                             <div class="session-instructors">Instructors: Jamila Michener</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 018</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/interpretive-methods#m8">Interpretive Methods II</a></div>
                             <div class="session-instructors">Instructors: Lisa Wedeen and Yuna Blajer de la Garza</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                 </tr>
@@ -363,28 +363,28 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/logic-of-qualitative-methods#m9">Large-N Qualitative Analysis</a></div>
                             <div class="session-instructors">Instructors: James Mahoney and Gary Goertz</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/comparative-historical-analysis#m10">Comparative Historical Analysis I</a></div>
                             <div class="session-instructors">Instructor: Marcus Kreuzer</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/rethinking-small-n#m11">Re-thinking Small-N Comparisons I</a></div>
                             <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                               <div class="session-title"><a href="/modules/geographic-information-systems#m12">Geographic Information Systems I</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Hinds Hall, Room 013</div>
                         </div>
                     </td>
                 </tr>
@@ -400,28 +400,28 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/research-ethics#m13">Real-World Research Ethics</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Amanda Weiss</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/comparative-historical-analysis#m14">Comparative Historical Analysis II</a></div>
                             <div class="session-instructors">Instructor: Marcus Kreuzer</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/rethinking-small-n#m15">Re-thinking Small-N Comparisons II</a></div>
                             <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/geographic-information-systems#m16">Geographic Information Systems II</a></div>
                             <div class="session-instructors">Instructor: Jonnell Robinson</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Hinds Hall, Room 013</div>
                         </div>
                     </td>
                 </tr>
@@ -494,7 +494,7 @@ title: IQMR 2026 Schedule
                             <div class="session-instructors">Organizers: Jennifer Bussell and Hillel Soifer</div>
                             <!-- <div class="session-location">TBD</div> -->
                             <div class="session-title-2">IQMR Talent Show</div>
-                            <!--<div class="session-location">Maxwell Foyer and Patio</div>-->
+                            <div class="session-location">Maxwell Auditorium</div>
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>
@@ -514,28 +514,28 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#m17">Integrating Qualitative and Experimental Methods I</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter and Guadalupe Tuñón</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#m18">Process Tracing and Typological Theories I</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/text-as-data#m19">Introduction to Text as Data I</a></div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/ethnography#m20">Ethnographic Methods I</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 018</div>
                         </div>
                     </td>
                 </tr>
@@ -556,28 +556,28 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/integrating-qualitative-and-experimental-methods#m21">Integrating Qualitative and Experimental Methods II</a></div>
                             <div class="session-instructors">Instructors: Christopher Carter and Guadalupe Tuñón</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/process-tracing-and-typological-theories#m22">Process Tracing and Typological Theories II</a></div>
                             <div class="session-instructors">Instructor: Andrew Bennett</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/text-as-data#m23">Introduction to Text as Data II</a></div>
                             <div class="session-instructors">Instructor: Fiona Shen-Bayh</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/ethnography#m24">Ethnographic Methods II</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 018</div>
                         </div>
                     </td>
                 </tr>
@@ -599,28 +599,28 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#m25">Bayesian Inference for Qualitative Research I</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/multi-method-research#m26">Multi-Method Research I: Foundations of Multi-Method Design</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/fieldwork#m27">Preparing for Fieldwork and Operating in the Field</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/ethnography#m28">Ethnographic Methods III</a></div>
                             <div class="session-instructors">Instructors: Sarah Parkinson and Kanisha Bond</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 018</div>
                         </div>
                     </td>
                 </tr>
@@ -641,28 +641,28 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#m29">Bayesian Inference for Qualitative Research II</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/multi-method-research#m30">Multi-Method Research II: Experiments and Natural Experiments</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/fieldwork#m31">Surveys, Interviews, Focus Groups, and Observation</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Lauren MacLean</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/interpretation-and-history#m32">Interpretation and History I</a></div>
                             <div class="session-instructors">Instructor: Amel Ahmed</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 018</div>
                         </div>
                     </td>
                 </tr>
@@ -676,35 +676,35 @@ title: IQMR 2026 Schedule
                     <td class="session-cell">
                         <div class="session-content special-content">
                             <div class="session-title">Closing Session and Feedback</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">3:30pm, Maxwell Auditorium</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/bayesian-inference-for-qualitative-research#m33">Bayesian Inference for Qualitative Research III</a></div>
                             <div class="session-instructors">Instructor: Tasha Fairfield</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-b-content">
                             <div class="session-title"><a href="/modules/multi-method-research#m34">Multi-Method Research III: Machine Learning and Advanced Integration</a></div>
                             <div class="session-instructors">Instructor: Jaye Seawright</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/fieldwork#m35">Archival Research and Dynamic Research Design</a></div>
                             <div class="session-instructors">Instructors: Robert Mickey, Diana Kapiszewski, and Lauren MacLean</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 010</div>
                         </div>
                     </td>
                     <td class="session-cell">
                         <div class="session-content module-d-content">
                             <div class="session-title"><a href="/modules/interpretation-and-history#m36">Interpretation and History II</a></div>
                             <div class="session-instructors">Instructor: Amel Ahmed</div>
-                            <!-- <div class="session-location">TBD</div> -->
+                            <div class="session-location">Eggers Hall, Room 018</div>
                         </div>
                     </td>
                 </tr>

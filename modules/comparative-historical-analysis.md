@@ -5,6 +5,8 @@ title: Comparative Historical Analysis (Modules 10, 14)
 
 Wednesday, June 17; Thursday, June 18
 {: #module-date}
+Eggers Hall, Room 010
+{: .module-location}
 
 **Marcus Kreuzer (Villanova University)**
 

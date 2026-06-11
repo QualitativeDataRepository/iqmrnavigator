@@ -5,6 +5,8 @@ title: Bayesian Inference for Qualitative Research (Modules 25, 29, 33)
 
 Wednesday, June 24; Thursday, June 25; Friday, June 26
 {: #module-date}
+Eggers Hall, Room 060
+{: .module-location}
 
 **Tasha Fairfield (European University Institute)**
 

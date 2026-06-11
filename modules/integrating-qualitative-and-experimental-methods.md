@@ -5,6 +5,8 @@ title: Integrating Qualitative Methods and Natural Experiments (Modules 17, 21)
 
 Monday, June 22; Tuesday, June 23
 {: #module-date}
+Eggers Hall, Room 032
+{: .module-location}
 
 **Chris Carter (University of Virginia), Guadalupe Tuñón (Princeton University)**
 

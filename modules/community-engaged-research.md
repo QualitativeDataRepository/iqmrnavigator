@@ -5,6 +5,8 @@ title: Community-Engaged Research (Modules 3, 7)
 
 Monday, June 15; Tuesday, June 16
 {: #module-date}
+Eggers Hall, Room 018
+{: .module-location}
 
 **Jamila Michener (Cornell University)**
 

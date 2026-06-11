@@ -5,6 +5,8 @@ title: Real-World Research Ethics (Module 13)
 
 Thursday, June 18
 {: #module-date}
+Eggers Hall, Room 032
+{: .module-location}
 
 **Diana Kapiszewski (Georgetown University) and Amanda Weiss (Cornell University)**
 

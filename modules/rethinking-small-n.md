@@ -5,6 +5,8 @@ title: Re-thinking Small-N Comparisons (Modules 11, 15)
 
 Wednesday, June 17; Thursday, June 18
 {: #module-date}
+Eggers Hall, Room 060
+{: .module-location}
 
 **Erica Simmons (University of Wisconsin, Madison), Nicholas Rush Smith (City University of New York – City College and SOAS University of London)**
 

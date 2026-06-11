@@ -5,6 +5,8 @@ title: Multi-Method Research (Modules 26, 30, 34)
 
 Wednesday, June 24; Thursday, June 25; Friday, June 26
 {: #module-date}
+Eggers Hall, Room 032
+{: .module-location}
 
 **Jaye Seawright (Northwestern University)**
 

@@ -5,6 +5,8 @@ title: Interpretive Methods (Modules 4, 8)
 
 Monday, June 15; Tuesday, June 16
 {: #module-date}
+Eggers Hall, Room 060
+{: .module-location}
 
 **Lisa Wedeen (University of Chicago) and Yuna Blajer de la Garza (Loyola University Chicago)**
 

@@ -5,6 +5,8 @@ title: Interpretation and History (Modules 32, 36)
 
 Thursday, June 25; Friday, June 26
 {: #module-date}
+Eggers Hall, Room 018
+{: .module-location}
 
 
 **Amel Ahmed (University of Massachusetts)**
