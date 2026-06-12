@@ -14,6 +14,9 @@ All IQMR participants nominated by their home department are responsible for mak
 Syracuse University has a "'cuse trolley" that you can use to travel from the airport to Milton Apartments when you arrive, and to travel back to the airport when you are departing.
 
 ![Cuse Shuttle](/assets/images/cuse-shuttle.png){:width="300px"}
+
+**IQMR 2026 Arrivals: The Trolley for arrivals to Syracuse will be replaced by an SU-branded minibus marked "'Cuse Transportation"**
+
 - ARRIVALS: On June 13, the route will start at Syracuse Hancock Airport at Terminal A, near the "SYR" sign, and run a continuous loop from Terminal A to Milton Hall and back. The trolley will depart from the airport every hour, on the hour (approximately), during the hours noted below.
     - Saturday, June 13: 12:00 pm to 9:00 pm
 
