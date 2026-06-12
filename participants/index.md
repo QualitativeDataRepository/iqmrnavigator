@@ -158,23 +158,7 @@ IQMR leadership will mainly communicate with you via the **IQMR 2026 group chat 
 GETTING TO SYRACUSE
 --------------
 
-Syracuse is located approximately 250 miles northwest of New York City.
-Many IQMR participants will be flying to Syracuse, arriving at Syracuse Hancock International Airport (http://www.syrairport.org/). The airport has a single terminal divided into separate concourses. The airport is about 10 miles (15-minute drive) from the university. Other IQMR participants will be arriving in Syracuse by Greyhound bus or Amtrak train.
-All IQMR participants nominated by their home department are responsible for making their own travel arrangements and paying for their own travel, as are participants selected through the general open pool. Christiane Pagé, Associate Director of the Center for Qualitative and Multi-Method Inquiry at Syracuse (cmpage@syr.edu), will be in touch with all IQMR participants selected through the “Open Pool” application process for Africa and Latin America concerning travel. Open Pool participants from the MENA region will make travel arrangements via the American Political Science Association (APSA).
-
-### Cuse Trolley to/from the airport
-Syracuse University has a “'cuse trolley” that you can use to travel from the airport to Milton Apartments when you arrive, and to travel back to the airport when you are departing.
-
-![Cuse Shuttle](/assets/images/cuse-shuttle.png){:width="300px"}
-- ARRIVALS: On June 13, the route will start at Syracuse Hancock Airport at Terminal A, near the “SYR” sign, and run a continuous loop from Terminal A to Milton Hall and back. The trolley will depart from the airport every hour, on the hour (approximately), during the hours noted below.
-    - Saturday, June 13: 12:00 pm to 9:00 pm
-
-- DEPARTURES:  On June 26 and June 27, the trolley will pick participants up at Milton Hall and take them to the airport. The trolley will depart from Milton Hall every hour, on the hour (approximately), during the hours noted below.
-    - Friday, June 26: 5:00 pm to 9:00 pm
-    - Saturday, June 27: 7:00 am to 1:00 pm
-
-
-If you arrive in Syracuse outside the hours that the trolley is running, you have several options to travel between the airport and Milton Hall. To travel from the airport to Milton Hall, there are usually cabs available at the airport at Terminal A or B (i.e., at either end of the airport; follow the signs). You can use airport wifi (or your data plan on your phone, if it is activated), to call an Uber or a Lyft.
+See [Arrival and Lodging](/participants/lodging) for information on getting to Syracuse, including trolley service from the airport.
 
 
 PARKING

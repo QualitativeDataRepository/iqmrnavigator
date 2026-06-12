@@ -251,7 +251,7 @@ title: IQMR 2026 Schedule
                     </td>
                     <td class="session-cell">
                         <div class="session-content special-content">
-                            <div class="session-title">Unified Sessions</div>
+                            <div class="session-title"><a href="/modules/unified">Unified Sessions</a></div>
                             <div class="session-instructors">Instructors: Jaye Seawright, David Waldner, and Lisa Wedeen</div>
                             <div class="session-location">Whitman School of Business, Room 007</div>
                         </div>

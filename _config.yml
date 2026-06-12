@@ -76,7 +76,7 @@ conference:
         menu:
           - name: Overview
             relative_url: /participants
-          - name: Lodging
+          - name: Arrival and Lodging
             relative_url: /participants/lodging
           - name: Module Descriptions
             relative_url: /modules/
