@@ -30,10 +30,11 @@ Research design discussions take place Monday through Thursday of both weeks. Se
 - RD-P-Session 13: Comparative Historical Analysis — Kreuzer (Eggers 341)
 - RD-P-Session 14: Interviews and Refugee/Migration/Immigration — Simmons (Eggers 113)
 - RD-F-Session 15: State Capacity — Rush Smith (Eggers 352)
-- RD-P-Session 16: Interviews in Environmental Studies — Kapiszewski (Eggers 113)
+
 
 ### Thursday, June 18
 
+- RD-P-Session 16: Interviews in Environmental Studies — Kapiszewski (Eggers 113)
 - RD-F-Session 17: CHA and the State — Kreuzer (Eggers 352)
 - RD-P-Session 18: Comparative Analysis/Case Studies in the Americas — Weiss (Eggers 341)
 - RD-F-Session 19: Democracy — Simmons (Eggers 306)
