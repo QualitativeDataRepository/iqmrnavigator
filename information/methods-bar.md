@@ -74,11 +74,6 @@ Please join us for IQMR's inaugural "Methods Bar"! Grab a methods-themed mocktai
 <td>Incorporating participatory approaches into your research design to co-create new knowledge with research collaborators. If you're interested to conduct research with community collaborators (instead of on community members) this table will get you thinking about windows of opportunity to integrate community participation into one or all phases of your research.</td>
 </tr>
 <tr class="even">
-<td>Jaye Seawright</td>
-<td>Mixing Machine Learning and Qualitative Methods</td>
-<td>Can we use machine-learning methods, such as random forests, LASSO regression, text models, and so forth, while still keeping our qualitative bearings? This table is a space for thinking about how to engage with the cutting edge in cross-disciplinary statistical and computational methods in a way that serves qualitative agendas.</td>
-</tr>
-<tr class="odd">
 <td>Fiona Shen-Bayh</td>
 <td>Large Language Models — For What and For Whom?</td>
 <td>What role — if any — should AI play in qualitative research? Many scholars (students and faculty alike) are grappling with whether and to what extent they should be incorporating large language models into their research pipeline. This discussion will provide participants an opportunity to discuss and reflect on their use (or non-use) of AI in their research and debate suggestions for best practices.</td>

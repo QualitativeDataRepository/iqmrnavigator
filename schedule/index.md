@@ -400,7 +400,7 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-a-content">
                             <div class="session-title"><a href="/modules/research-ethics#m13">Real-World Research Ethics</a></div>
                             <div class="session-instructors">Instructors: Diana Kapiszewski and Amanda Weiss</div>
-                            <div class="session-location">Eggers Hall, Room 032</div>
+                            <div class="session-location">Eggers Hall, Room 060</div>
                         </div>
                     </td>
                     <td class="session-cell">
@@ -414,7 +414,7 @@ title: IQMR 2026 Schedule
                         <div class="session-content module-c-content">
                             <div class="session-title"><a href="/modules/rethinking-small-n#m15">Re-thinking Small-N Comparisons II</a></div>
                             <div class="session-instructors">Instructors: Erica Simmons and Nicholas Rush Smith</div>
-                            <div class="session-location">Eggers Hall, Room 060</div>
+                            <div class="session-location">Eggers Hall, Room 032</div>
                         </div>
                     </td>
                     <td class="session-cell">
@@ -492,9 +492,7 @@ title: IQMR 2026 Schedule
                         <div class="session-content workshop-content">
                             <div class="session-title">Weekend Workshop – Emerging Methodologists Workshop</div>
                             <div class="session-instructors">Organizers: Jennifer Bussell and Hillel Soifer</div>
-                            <!-- <div class="session-location">TBD</div> -->
-                            <div class="session-title-2">IQMR Talent Show</div>
-                            <div class="session-location">Maxwell Auditorium</div>
+                            <!-- <div class="session-location">Eggers 341</div> -->
                         </div>
                     </td>
                     <td class="session-cell empty-cell"></td>
