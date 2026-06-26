@@ -84,5 +84,5 @@ Also, please leave the key and fob with the front desk staff (Usual front desk s
 
 The [Cuse Trolley](#cuse-trolley-tofrom-the-airport) will pick up participants from Milton Hall between Friday, June 26, 5:00 p.m. to 9:00 p.m., and Saturday, June 27, 7:00 a.m. to 1:00 p.m., departing at every full hour.
 
-**Please note that you must check out of Milton Hall by Saturday, 8pm unless you have communicated with us about staying an extra night, in which case you should depart no later than Sunday at 8:00 p.m.**
+**Please note that you must check out of Milton Hall by Saturday, 8pm unless you have communicated with us about staying an extra night, in which case you should depart no later than Sunday at 12:00 p.m.**
 
